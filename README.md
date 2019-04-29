@@ -1,7 +1,5 @@
 # pfdb - Personal Movie DataBase
-***pfdb*** is a simple tool that lets you create a personal movie collection, querying the information from IMDB and Filmaffinity and organizing it properly in a database. It provides a number of methods for searching in the database, filtering, ordering, or plotting interesting graphics.
-
-The program may be used via any REPL of your choice, e.g., irb.
+***pfdb*** is a simple command line tool to create and administrate a versatile personal film collection, getting the information from IMDB and FilmAffinity automatically and organizing it neatly. It provides a number of methods for searching (both in the web and in the database), displaying movie cards and lists, filtering, ordering, or plotting interesting graphics (in the future!).
 
 ## Summary of available commands
 
