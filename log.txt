@@ -1,0 +1,1742 @@
+[2019-02-13 05:06:38] Creado nuevo fichero de log de PMDB, versión v1.0.
+
+[2019-02-13 05:06:38] ----------------------------------------------------------
+[2019-02-13 05:06:38] Programa ejecutado.
+[2019-02-13 05:06:38] Base de datos cargada, hay 0 películas.
+[2019-02-13 05:06:40] Añadida película "El padrino" (ID 0068646 en imdb) a la base de datos.
+[2019-02-15 04:31:46] ----------------------------------------------------------
+[2019-02-15 04:31:46] Programa ejecutado.
+[2019-02-15 04:31:46] Base de datos cargada, hay 1 películas.
+[2019-02-15 04:31:46] ERROR: Realizando una búsqueda en la web Imdb.
+[2019-02-15 04:32:17] ----------------------------------------------------------
+[2019-02-15 04:32:17] Programa ejecutado.
+[2019-02-15 04:32:17] Base de datos cargada, hay 1 películas.
+[2019-02-15 04:32:42] ----------------------------------------------------------
+[2019-02-15 04:32:42] Programa ejecutado.
+[2019-02-15 04:32:42] Base de datos cargada, hay 1 películas.
+[2019-02-15 04:40:43] ----------------------------------------------------------
+[2019-02-15 04:40:43] Programa ejecutado.
+[2019-02-15 04:40:43] Base de datos cargada, hay 1 películas.
+[2019-02-15 04:41:10] ----------------------------------------------------------
+[2019-02-15 04:41:10] Programa ejecutado.
+[2019-02-15 04:41:10] Base de datos cargada, hay 1 películas.
+[2019-02-15 04:41:40] ----------------------------------------------------------
+[2019-02-15 04:41:40] Programa ejecutado.
+[2019-02-15 04:41:40] Base de datos cargada, hay 1 películas.
+[2019-02-15 04:42:33] ----------------------------------------------------------
+[2019-02-15 04:42:33] Programa ejecutado.
+[2019-02-15 04:42:33] Base de datos cargada, hay 1 películas.
+[2019-02-15 04:42:34] Añadida película "" (ID 0234215 en imdb) a la base de datos.
+[2019-02-15 04:43:16] ----------------------------------------------------------
+[2019-02-15 04:43:16] Programa ejecutado.
+[2019-02-15 04:43:16] Base de datos cargada, hay 2 películas.
+[2019-02-15 04:43:17] Añadida película "" (ID 0234215 en imdb) a la base de datos.
+[2019-02-15 04:44:01] ----------------------------------------------------------
+[2019-02-15 04:44:01] Programa ejecutado.
+[2019-02-15 04:44:01] Base de datos cargada, hay 3 películas.
+[2019-02-15 04:44:02] Añadida película "" (ID 0234215 en imdb) a la base de datos.
+[2019-02-15 04:44:17] ----------------------------------------------------------
+[2019-02-15 04:44:17] Programa ejecutado.
+[2019-02-15 04:44:17] Base de datos cargada, hay 4 películas.
+[2019-02-15 04:44:17] ERROR: Descargando la película desde imdb.
+[2019-02-15 04:44:17] ERROR: Añadiendo la película a la base de datos.
+[2019-02-15 04:48:52] ----------------------------------------------------------
+[2019-02-15 04:48:52] Programa ejecutado.
+[2019-02-15 04:48:52] Base de datos cargada, hay 4 películas.
+[2019-02-15 04:48:53] ERROR: Descargando la película desde imdb.
+[2019-02-15 04:48:53] ERROR: Añadiendo la película a la base de datos.
+[2019-02-15 04:50:14] ----------------------------------------------------------
+[2019-02-15 04:50:14] Programa ejecutado.
+[2019-02-15 04:50:14] Base de datos cargada, hay 4 películas.
+[2019-02-15 04:51:02] ----------------------------------------------------------
+[2019-02-15 04:51:02] Programa ejecutado.
+[2019-02-15 04:51:02] Base de datos cargada, hay 4 películas.
+[2019-02-15 04:51:05] Añadida película "Matrix Reloaded" (ID 0234215 en imdb) a la base de datos.
+[2019-02-15 04:57:51] ----------------------------------------------------------
+[2019-02-15 04:57:51] Programa ejecutado.
+[2019-02-15 04:57:51] Base de datos cargada, hay 5 películas.
+[2019-02-15 04:57:53] Añadida película "Matrix Reloaded" (ID 0234215 en imdb) a la base de datos.
+[2019-02-15 04:58:16] ----------------------------------------------------------
+[2019-02-15 04:58:16] Programa ejecutado.
+[2019-02-15 04:58:16] Base de datos cargada, hay 6 películas.
+[2019-02-15 04:58:18] Añadida película "Matrix Reloaded" (ID 0234215 en imdb) a la base de datos.
+[2019-02-15 05:02:07] ----------------------------------------------------------
+[2019-02-15 05:02:07] Programa ejecutado.
+[2019-02-15 05:02:07] Base de datos cargada, hay 7 películas.
+[2019-02-15 05:03:39] ----------------------------------------------------------
+[2019-02-15 05:03:39] Programa ejecutado.
+[2019-02-15 05:03:39] Base de datos cargada, hay 7 películas.
+[2019-02-15 05:03:43] ----------------------------------------------------------
+[2019-02-15 05:03:43] Programa ejecutado.
+[2019-02-15 05:03:43] Base de datos cargada, hay 7 películas.
+[2019-02-15 05:05:36] ----------------------------------------------------------
+[2019-02-15 05:05:36] Programa ejecutado.
+[2019-02-15 05:05:36] Base de datos cargada, hay 7 películas.
+[2019-02-15 05:06:52] ----------------------------------------------------------
+[2019-02-15 05:06:52] Programa ejecutado.
+[2019-02-15 05:06:52] Base de datos cargada, hay 7 películas.
+[2019-02-15 05:07:03] ----------------------------------------------------------
+[2019-02-15 05:07:03] Programa ejecutado.
+[2019-02-15 05:07:03] Base de datos cargada, hay 7 películas.
+[2019-02-15 05:07:54] ----------------------------------------------------------
+[2019-02-15 05:07:54] Programa ejecutado.
+[2019-02-15 05:07:54] Base de datos cargada, hay 7 películas.
+[2019-02-15 05:08:27] ----------------------------------------------------------
+[2019-02-15 05:08:27] Programa ejecutado.
+[2019-02-15 05:08:27] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:00:53] ----------------------------------------------------------
+[2019-02-16 01:00:53] Programa ejecutado.
+[2019-02-16 01:00:53] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:02:33] ----------------------------------------------------------
+[2019-02-16 01:02:33] Programa ejecutado.
+[2019-02-16 01:02:33] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:06:45] ----------------------------------------------------------
+[2019-02-16 01:06:45] Programa ejecutado.
+[2019-02-16 01:06:45] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:09:51] ----------------------------------------------------------
+[2019-02-16 01:09:51] Programa ejecutado.
+[2019-02-16 01:09:51] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:09:55] ----------------------------------------------------------
+[2019-02-16 01:09:55] Programa ejecutado.
+[2019-02-16 01:09:55] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:10:12] ----------------------------------------------------------
+[2019-02-16 01:10:12] Programa ejecutado.
+[2019-02-16 01:10:12] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:10:29] ----------------------------------------------------------
+[2019-02-16 01:10:29] Programa ejecutado.
+[2019-02-16 01:10:29] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:13:26] ----------------------------------------------------------
+[2019-02-16 01:13:26] Programa ejecutado.
+[2019-02-16 01:13:26] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:13:28] ----------------------------------------------------------
+[2019-02-16 01:13:28] Programa ejecutado.
+[2019-02-16 01:13:28] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:13:58] ----------------------------------------------------------
+[2019-02-16 01:13:58] Programa ejecutado.
+[2019-02-16 01:13:58] Base de datos cargada, hay 7 películas.
+[2019-02-16 01:13:58] Base de datos limpiada: Eliminadas entradas vacías y duplicados.
+[2019-02-16 01:14:00] ----------------------------------------------------------
+[2019-02-16 01:14:00] Programa ejecutado.
+[2019-02-16 01:14:00] Base de datos cargada, hay 4 películas.
+[2019-02-16 01:14:00] Base de datos limpiada: Eliminadas entradas vacías y duplicados.
+[2019-02-16 01:35:57] ----------------------------------------------------------
+[2019-02-16 01:35:57] Programa ejecutado.
+[2019-02-16 01:35:57] Base de datos cargada, hay 4 películas.
+[2019-02-16 01:35:57] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 01:37:02] ----------------------------------------------------------
+[2019-02-16 01:37:02] Programa ejecutado.
+[2019-02-16 01:37:02] Base de datos cargada, hay 4 películas.
+[2019-02-16 01:37:02] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 01:37:10] ----------------------------------------------------------
+[2019-02-16 01:37:10] Programa ejecutado.
+[2019-02-16 01:37:10] Base de datos cargada, hay 4 películas.
+[2019-02-16 01:37:10] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 01:37:29] ----------------------------------------------------------
+[2019-02-16 01:37:29] Programa ejecutado.
+[2019-02-16 01:37:29] Base de datos cargada, hay 4 películas.
+[2019-02-16 01:37:29] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 03:50:54] ----------------------------------------------------------
+[2019-02-16 03:50:54] Programa ejecutado.
+[2019-02-16 03:50:54] Base de datos cargada, hay 4 películas.
+[2019-02-16 03:50:54] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 04:11:06] ----------------------------------------------------------
+[2019-02-16 04:11:06] Programa ejecutado.
+[2019-02-16 04:11:06] Base de datos cargada, hay 4 películas.
+[2019-02-16 04:11:06] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 04:36:56] ----------------------------------------------------------
+[2019-02-16 04:36:56] Programa ejecutado.
+[2019-02-16 04:36:56] Base de datos cargada, hay 4 películas.
+[2019-02-16 04:36:56] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 04:38:36] ----------------------------------------------------------
+[2019-02-16 04:38:36] Programa ejecutado.
+[2019-02-16 04:38:36] Base de datos cargada, hay 4 películas.
+[2019-02-16 04:38:36] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 04:41:20] ----------------------------------------------------------
+[2019-02-16 04:41:20] Programa ejecutado.
+[2019-02-16 04:41:20] Base de datos cargada, hay 4 películas.
+[2019-02-16 04:41:20] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 04:41:29] ----------------------------------------------------------
+[2019-02-16 04:41:29] Programa ejecutado.
+[2019-02-16 04:41:29] Base de datos cargada, hay 1 películas.
+[2019-02-16 04:44:00] ----------------------------------------------------------
+[2019-02-16 04:44:00] Programa ejecutado.
+[2019-02-16 04:44:00] Base de datos cargada, hay 1 películas.
+[2019-02-16 04:46:35] ----------------------------------------------------------
+[2019-02-16 04:46:35] Programa ejecutado.
+[2019-02-16 04:46:35] Base de datos cargada, hay 1 películas.
+[2019-02-16 04:46:35] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 04:46:38] ----------------------------------------------------------
+[2019-02-16 04:46:38] Programa ejecutado.
+[2019-02-16 04:46:38] Base de datos cargada, hay 1 películas.
+[2019-02-16 04:46:38] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 04:47:23] ----------------------------------------------------------
+[2019-02-16 04:47:23] Programa ejecutado.
+[2019-02-16 04:47:23] Base de datos cargada, hay 1 películas.
+[2019-02-16 04:47:38] ----------------------------------------------------------
+[2019-02-16 04:47:38] Programa ejecutado.
+[2019-02-16 04:47:38] Base de datos cargada, hay 1 películas.
+[2019-02-16 04:53:14] ----------------------------------------------------------
+[2019-02-16 04:53:14] Programa ejecutado.
+[2019-02-16 04:53:14] Base de datos cargada, hay 1 películas.
+[2019-02-16 04:53:14] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 04:53:52] ----------------------------------------------------------
+[2019-02-16 04:53:52] Programa ejecutado.
+[2019-02-16 04:53:52] Base de datos cargada, hay 1 películas.
+[2019-02-16 04:53:54] Añadida película "Matrix" (ID 0133093 en imdb) a la base de datos.
+[2019-02-16 04:53:56] Añadida película "Matrix" (ID 0133093 en imdb) a la base de datos.
+[2019-02-16 04:53:58] Añadida película "Matrix" (ID 0133093 en imdb) a la base de datos.
+[2019-02-16 04:53:58] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 05:05:05] ----------------------------------------------------------
+[2019-02-16 05:05:05] Programa ejecutado.
+[2019-02-16 05:05:05] Base de datos cargada, hay 1 películas.
+[2019-02-16 05:05:08] Añadida película "Matrix" (ID 0133093 en imdb) a la base de datos.
+[2019-02-16 05:05:10] Añadida película "Matrix" (ID 0133093 en imdb) a la base de datos.
+[2019-02-16 05:05:12] Añadida película "Matrix" (ID 0133093 en imdb) a la base de datos.
+[2019-02-16 05:05:12] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-16 05:05:46] ----------------------------------------------------------
+[2019-02-16 05:05:46] Programa ejecutado.
+[2019-02-16 05:05:46] Base de datos cargada, hay 2 películas.
+[2019-02-16 05:08:42] ----------------------------------------------------------
+[2019-02-16 05:08:42] Programa ejecutado.
+[2019-02-16 05:08:42] Base de datos cargada, hay 2 películas.
+[2019-02-16 05:08:49] ----------------------------------------------------------
+[2019-02-16 05:08:49] Programa ejecutado.
+[2019-02-16 05:08:49] Base de datos cargada, hay 2 películas.
+[2019-02-16 05:09:03] ----------------------------------------------------------
+[2019-02-16 05:09:03] Programa ejecutado.
+[2019-02-16 05:09:03] Base de datos cargada, hay 2 películas.
+[2019-02-16 05:11:24] ----------------------------------------------------------
+[2019-02-16 05:11:24] Programa ejecutado.
+[2019-02-16 05:11:24] Base de datos cargada, hay 2 películas.
+[2019-02-16 05:11:39] ----------------------------------------------------------
+[2019-02-16 05:11:39] Programa ejecutado.
+[2019-02-16 05:11:39] Base de datos cargada, hay 2 películas.
+[2019-02-16 05:12:28] ----------------------------------------------------------
+[2019-02-16 05:12:28] Programa ejecutado.
+[2019-02-16 05:12:28] Base de datos cargada, hay 2 películas.
+[2019-02-16 05:13:57] ----------------------------------------------------------
+[2019-02-16 05:13:57] Programa ejecutado.
+[2019-02-16 05:13:57] Base de datos cargada, hay 2 películas.
+[2019-02-16 05:14:32] ----------------------------------------------------------
+[2019-02-16 05:14:32] Programa ejecutado.
+[2019-02-16 05:14:32] Base de datos cargada, hay 2 películas.
+[2019-02-16 21:00:53] ----------------------------------------------------------
+[2019-02-16 21:00:53] Programa ejecutado.
+[2019-02-16 21:00:53] Base de datos cargada, hay 2 películas.
+[2019-02-16 21:11:06] ----------------------------------------------------------
+[2019-02-16 21:11:06] Programa ejecutado.
+[2019-02-16 21:11:06] Base de datos cargada, hay 2 películas.
+[2019-02-16 21:13:54] ----------------------------------------------------------
+[2019-02-16 21:13:54] Programa ejecutado.
+[2019-02-16 21:13:54] Base de datos cargada, hay 2 películas.
+[2019-02-16 21:15:52] ----------------------------------------------------------
+[2019-02-16 21:15:52] Programa ejecutado.
+[2019-02-16 21:15:52] Base de datos cargada, hay 2 películas.
+[2019-02-16 22:53:05] ----------------------------------------------------------
+[2019-02-16 22:53:05] Programa ejecutado.
+[2019-02-16 22:53:05] Base de datos cargada, hay 2 películas.
+[2019-02-16 22:54:00] ----------------------------------------------------------
+[2019-02-16 22:54:00] Programa ejecutado.
+[2019-02-16 22:54:00] Base de datos cargada, hay 2 películas.
+[2019-02-16 22:54:17] ----------------------------------------------------------
+[2019-02-16 22:54:17] Programa ejecutado.
+[2019-02-16 22:54:17] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:20:49] ----------------------------------------------------------
+[2019-02-16 23:20:49] Programa ejecutado.
+[2019-02-16 23:20:49] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:21:30] ----------------------------------------------------------
+[2019-02-16 23:21:30] Programa ejecutado.
+[2019-02-16 23:21:30] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:22:43] ----------------------------------------------------------
+[2019-02-16 23:22:43] Programa ejecutado.
+[2019-02-16 23:22:43] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:35:34] ----------------------------------------------------------
+[2019-02-16 23:35:34] Programa ejecutado.
+[2019-02-16 23:35:34] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:37:08] ----------------------------------------------------------
+[2019-02-16 23:37:08] Programa ejecutado.
+[2019-02-16 23:37:08] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:41:16] ----------------------------------------------------------
+[2019-02-16 23:41:16] Programa ejecutado.
+[2019-02-16 23:41:16] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:46:07] ----------------------------------------------------------
+[2019-02-16 23:46:07] Programa ejecutado.
+[2019-02-16 23:46:07] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:46:57] ----------------------------------------------------------
+[2019-02-16 23:46:57] Programa ejecutado.
+[2019-02-16 23:46:57] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:47:43] ----------------------------------------------------------
+[2019-02-16 23:47:44] Programa ejecutado.
+[2019-02-16 23:47:44] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:52:01] ----------------------------------------------------------
+[2019-02-16 23:52:01] Programa ejecutado.
+[2019-02-16 23:52:01] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:52:50] ----------------------------------------------------------
+[2019-02-16 23:52:50] Programa ejecutado.
+[2019-02-16 23:52:50] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:53:25] ----------------------------------------------------------
+[2019-02-16 23:53:25] Programa ejecutado.
+[2019-02-16 23:53:25] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:53:56] ----------------------------------------------------------
+[2019-02-16 23:53:56] Programa ejecutado.
+[2019-02-16 23:53:56] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:55:14] ----------------------------------------------------------
+[2019-02-16 23:55:14] Programa ejecutado.
+[2019-02-16 23:55:14] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:57:02] ----------------------------------------------------------
+[2019-02-16 23:57:02] Programa ejecutado.
+[2019-02-16 23:57:02] Base de datos cargada, hay 2 películas.
+[2019-02-16 23:57:36] ----------------------------------------------------------
+[2019-02-16 23:57:36] Programa ejecutado.
+[2019-02-16 23:57:36] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:02:10] ----------------------------------------------------------
+[2019-02-17 00:02:10] Programa ejecutado.
+[2019-02-17 00:02:10] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:02:26] ----------------------------------------------------------
+[2019-02-17 00:02:26] Programa ejecutado.
+[2019-02-17 00:02:26] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:05:21] ----------------------------------------------------------
+[2019-02-17 00:05:21] Programa ejecutado.
+[2019-02-17 00:05:21] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:11:01] ----------------------------------------------------------
+[2019-02-17 00:11:01] Programa ejecutado.
+[2019-02-17 00:11:01] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:28:14] ----------------------------------------------------------
+[2019-02-17 00:28:14] Programa ejecutado.
+[2019-02-17 00:28:14] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:28:19] ERROR: Visualizando películas de la base de datos.
+[2019-02-17 00:28:58] ----------------------------------------------------------
+[2019-02-17 00:28:58] Programa ejecutado.
+[2019-02-17 00:28:58] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:30:39] ----------------------------------------------------------
+[2019-02-17 00:30:39] Programa ejecutado.
+[2019-02-17 00:30:39] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:38:52] ----------------------------------------------------------
+[2019-02-17 00:38:52] Programa ejecutado.
+[2019-02-17 00:38:52] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:43:39] ----------------------------------------------------------
+[2019-02-17 00:43:39] Programa ejecutado.
+[2019-02-17 00:43:39] Base de datos cargada, hay 2 películas.
+[2019-02-17 00:53:19] ----------------------------------------------------------
+[2019-02-17 00:53:19] Programa ejecutado.
+[2019-02-17 00:53:19] Base de datos cargada, hay 2 películas.
+[2019-02-17 01:00:11] ----------------------------------------------------------
+[2019-02-17 01:00:11] Programa ejecutado.
+[2019-02-17 01:00:11] Base de datos cargada, hay 2 películas.
+[2019-02-17 01:33:52] ----------------------------------------------------------
+[2019-02-17 01:33:52] Programa ejecutado.
+[2019-02-17 01:33:52] Base de datos cargada, hay 2 películas.
+[2019-02-17 01:55:29] ----------------------------------------------------------
+[2019-02-17 01:55:29] Programa ejecutado.
+[2019-02-17 01:55:29] Base de datos cargada, hay 2 películas.
+[2019-02-17 01:56:15] ERROR: Realizando una búsqueda en la web Imdb.
+[2019-02-17 02:14:10] ----------------------------------------------------------
+[2019-02-17 02:14:10] Programa ejecutado.
+[2019-02-17 02:14:10] Base de datos cargada, hay 2 películas.
+[2019-02-17 02:15:14] ----------------------------------------------------------
+[2019-02-17 02:15:14] Programa ejecutado.
+[2019-02-17 02:15:14] Base de datos cargada, hay 2 películas.
+[2019-02-17 02:16:33] ----------------------------------------------------------
+[2019-02-17 02:16:33] Programa ejecutado.
+[2019-02-17 02:16:33] Base de datos cargada, hay 2 películas.
+[2019-02-17 02:16:48] ----------------------------------------------------------
+[2019-02-17 02:16:48] Programa ejecutado.
+[2019-02-17 02:16:48] Base de datos cargada, hay 2 películas.
+[2019-02-17 02:18:25] ----------------------------------------------------------
+[2019-02-17 02:18:25] Programa ejecutado.
+[2019-02-17 02:18:25] Base de datos cargada, hay 2 películas.
+[2019-02-17 02:18:27] ERROR: Realizando una búsqueda en la web Imdb.
+[2019-02-17 02:18:38] ----------------------------------------------------------
+[2019-02-17 02:18:38] Programa ejecutado.
+[2019-02-17 02:18:38] Base de datos cargada, hay 2 películas.
+[2019-02-17 02:18:48] Añadida película "Matrix Reloaded" (ID 0234215 en imdb) a la base de datos.
+[2019-02-17 02:19:31] Añadida película "Matrix Revolutions" (ID 0242653 en imdb) a la base de datos.
+[2019-02-18 00:01:33] ----------------------------------------------------------
+[2019-02-18 00:01:33] Programa ejecutado.
+[2019-02-18 00:01:33] Base de datos cargada, hay 4 películas.
+[2019-02-18 00:17:05] ----------------------------------------------------------
+[2019-02-18 00:17:05] Programa ejecutado.
+[2019-02-18 00:17:05] Base de datos cargada, hay 4 películas.
+[2019-02-18 00:17:26] Añadida película "Matrix Reloaded" (ID 0234215 en imdb) a la base de datos.
+[2019-02-18 00:17:48] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-18 00:28:16] ----------------------------------------------------------
+[2019-02-18 00:28:16] Programa ejecutado.
+[2019-02-18 00:28:16] Base de datos cargada, hay 4 películas.
+[2019-02-18 00:29:38] ----------------------------------------------------------
+[2019-02-18 00:29:38] Programa ejecutado.
+[2019-02-18 00:29:38] Base de datos cargada, hay 4 películas.
+[2019-02-18 00:29:42] Eliminada película Matrix Revolutions de la base de datos.
+[2019-02-18 00:29:51] ----------------------------------------------------------
+[2019-02-18 00:29:51] Programa ejecutado.
+[2019-02-18 00:29:51] Base de datos cargada, hay 3 películas.
+[2019-02-18 00:30:05] Eliminada película Matrix Revolutions de la base de datos.
+[2019-02-18 00:32:59] ----------------------------------------------------------
+[2019-02-18 00:32:59] Programa ejecutado.
+[2019-02-18 00:32:59] Base de datos cargada, hay 2 películas.
+[2019-02-18 00:33:50] ERROR: Eliminando película de la base de datos.
+[2019-02-18 00:34:18] ----------------------------------------------------------
+[2019-02-18 00:34:18] Programa ejecutado.
+[2019-02-18 00:34:18] Base de datos cargada, hay 2 películas.
+[2019-02-18 00:34:20] ERROR: Eliminando película de la base de datos.
+[2019-02-18 00:35:27] Añadida película "Matrix Reloaded" (ID 0234215 en imdb) a la base de datos.
+[2019-02-18 00:42:47] ----------------------------------------------------------
+[2019-02-18 00:42:47] Programa ejecutado.
+[2019-02-18 00:42:47] Base de datos cargada, hay 3 películas.
+[2019-02-18 00:43:13] Añadida película "Matrix Reloaded" (ID 0234215 en imdb) a la base de datos.
+[2019-02-18 00:48:09] Eliminada película Matrix Reloaded de la base de datos.
+[2019-02-18 00:48:22] Eliminada película Matrix Revolutions de la base de datos.
+[2019-02-18 23:04:58] ----------------------------------------------------------
+[2019-02-18 23:04:58] Programa ejecutado.
+[2019-02-18 23:04:58] Base de datos cargada, hay 2 películas.
+[2019-02-18 23:05:00] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-18 23:22:46] ----------------------------------------------------------
+[2019-02-18 23:22:46] Programa ejecutado.
+[2019-02-18 23:22:46] Base de datos cargada, hay 2 películas.
+[2019-02-18 23:22:46] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:23:34] ----------------------------------------------------------
+[2019-02-18 23:23:34] Programa ejecutado.
+[2019-02-18 23:23:34] Base de datos cargada, hay 2 películas.
+[2019-02-18 23:23:34] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:23:37] ----------------------------------------------------------
+[2019-02-18 23:23:37] Programa ejecutado.
+[2019-02-18 23:23:37] Base de datos cargada, hay 2 películas.
+[2019-02-18 23:23:37] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:24:05] Base de datos limpiada de entradas vacías y duplicados.
+[2019-02-18 23:24:45] ----------------------------------------------------------
+[2019-02-18 23:24:45] ----------------------- PMDB v1.0 ------------------------
+
+[2019-02-18 23:24:45] ----------------------------------------------------------
+
+[2019-02-18 23:24:45] Programa ejecutado.
+[2019-02-18 23:24:45] Base de datos cargada, hay 2 películas.
+[2019-02-18 23:24:45] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:25:29] ----------------------------------------------------------
+[2019-02-18 23:25:29] ----------------------- PMDB v1.0 ------------------------
+[2019-02-18 23:25:29] ----------------------------------------------------------
+[2019-02-18 23:25:29] Programa ejecutado.
+[2019-02-18 23:25:29] Base de datos cargada, hay 2 películas.
+[2019-02-18 23:25:29] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:27:06] ##########################################################
+[2019-02-18 23:27:06] ####################### PMDB v1.0 ########################
+[2019-02-18 23:27:06] ##########################################################
+[2019-02-18 23:27:06] Programa ejecutado.
+[2019-02-18 23:27:06] Base de datos cargada, hay 2 películas.
+[2019-02-18 23:27:06] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:29:26] Programa ejecutado.
+[2019-02-18 23:29:26] Base de datos cargada, hay 2 películas.
+[2019-02-18 23:29:26] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:53:55] INFO: Programa ejecutado.
+[2019-02-18 23:53:55] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-18 23:53:55] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:54:35] INFO: Programa ejecutado.
+[2019-02-18 23:54:35] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-18 23:54:35] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:57:18] : ----------------------------------------------------------
+[2019-02-18 23:57:18] INFO: Programa ejecutado.
+[2019-02-18 23:57:18] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-18 23:57:18] INFO: Copia de seguridad automática realizada.
+[2019-02-18 23:57:19] : ----------------------------------------------------------
+[2019-02-18 23:57:19] INFO: Programa ejecutado.
+[2019-02-18 23:57:19] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-18 23:57:19] INFO: Copia de seguridad automática realizada.
+[2019-02-19 00:11:04] : ----------------------------------------------------------
+[2019-02-19 00:11:04] INFO: Programa ejecutado.
+[2019-02-19 00:11:04] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-19 00:11:04] INFO: Copia de seguridad automática realizada.
+[2019-02-19 23:26:03] : ----------------------------------------------------------
+[2019-02-19 23:26:03] INFO: Programa ejecutado.
+[2019-02-19 23:26:03] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-19 23:26:03] INFO: Copia de seguridad automática realizada.
+[2019-02-20 14:02:06] : ----------------------------------------------------------
+[2019-02-20 14:02:06] INFO: Programa ejecutado.
+[2019-02-20 14:02:06] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 14:02:06] INFO: Copia de seguridad automática realizada.
+[2019-02-20 14:45:11] : ----------------------------------------------------------
+[2019-02-20 14:45:11] INFO: Programa ejecutado.
+[2019-02-20 14:45:11] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 14:45:11] INFO: Copia de seguridad automática realizada.
+[2019-02-20 14:54:37] : ----------------------------------------------------------
+[2019-02-20 14:54:37] INFO: Programa ejecutado.
+[2019-02-20 14:54:37] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 14:54:37] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:11:52] : ----------------------------------------------------------
+[2019-02-20 15:11:52] INFO: Programa ejecutado.
+[2019-02-20 15:11:52] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:11:52] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:12:29] : ----------------------------------------------------------
+[2019-02-20 15:12:29] INFO: Programa ejecutado.
+[2019-02-20 15:12:29] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:12:29] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:12:43] : ----------------------------------------------------------
+[2019-02-20 15:12:43] INFO: Programa ejecutado.
+[2019-02-20 15:12:43] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:12:43] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:13:40] : ----------------------------------------------------------
+[2019-02-20 15:13:40] INFO: Programa ejecutado.
+[2019-02-20 15:13:40] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:13:40] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:22:06] : ----------------------------------------------------------
+[2019-02-20 15:22:06] INFO: Programa ejecutado.
+[2019-02-20 15:22:06] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:22:06] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:22:20] : ----------------------------------------------------------
+[2019-02-20 15:22:20] INFO: Programa ejecutado.
+[2019-02-20 15:22:20] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:22:20] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:24:20] : ----------------------------------------------------------
+[2019-02-20 15:24:20] INFO: Programa ejecutado.
+[2019-02-20 15:24:20] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:24:20] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:24:55] : ----------------------------------------------------------
+[2019-02-20 15:24:55] INFO: Programa ejecutado.
+[2019-02-20 15:24:55] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:24:55] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:25:30] : ----------------------------------------------------------
+[2019-02-20 15:25:30] INFO: Programa ejecutado.
+[2019-02-20 15:25:30] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:25:30] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:25:48] : ----------------------------------------------------------
+[2019-02-20 15:25:48] INFO: Programa ejecutado.
+[2019-02-20 15:25:48] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:25:48] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:26:21] : ----------------------------------------------------------
+[2019-02-20 15:26:21] INFO: Programa ejecutado.
+[2019-02-20 15:26:21] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:26:21] INFO: Copia de seguridad automática realizada.
+[2019-02-20 15:42:24] : ----------------------------------------------------------
+[2019-02-20 15:42:24] INFO: Programa ejecutado.
+[2019-02-20 15:42:24] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 15:42:24] INFO: Copia de seguridad automática realizada.
+[2019-02-20 19:00:04] : ----------------------------------------------------------
+[2019-02-20 19:00:04] INFO: Programa ejecutado.
+[2019-02-20 19:00:04] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-20 19:00:04] INFO: Copia de seguridad automática realizada.
+[2019-02-21 22:20:24] : ----------------------------------------------------------
+[2019-02-21 22:20:24] INFO: Programa ejecutado.
+[2019-02-21 22:20:24] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-21 22:20:24] INFO: Copia de seguridad automática realizada.
+[2019-02-22 22:16:09] : ----------------------------------------------------------
+[2019-02-22 22:16:09] INFO: Programa ejecutado.
+[2019-02-22 22:16:09] INFO: Base de datos cargada, hay 2 películas.
+[2019-02-22 22:16:09] INFO: Copia de seguridad automática realizada.
+[2019-02-22 22:17:10] INFO: Añadida película "" (ID 0133093 en imdb) a la base de datos.
+[2019-02-22 22:17:27] ERROR: Visualizando películas de la base de datos.
+[2019-02-22 22:17:34] INFO: Eliminada película  de la base de datos.
+[2019-02-22 22:30:52] INFO: Añadida película "" (ID 0133093 en imdb) a la base de datos.
+[2019-02-22 22:31:05] : ----------------------------------------------------------
+[2019-02-22 22:31:05] INFO: Programa ejecutado.
+[2019-02-22 22:31:05] INFO: Base de datos cargada, hay 3 películas.
+[2019-02-22 22:31:05] INFO: Copia de seguridad automática realizada.
+[2019-02-22 22:31:21] INFO: Añadida película "" (ID 0133093 en imdb) a la base de datos.
+[2019-02-22 22:32:03] : ----------------------------------------------------------
+[2019-02-22 22:32:03] INFO: Programa ejecutado.
+[2019-02-22 22:32:03] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-22 22:32:03] INFO: Copia de seguridad automática realizada.
+[2019-02-22 22:32:18] INFO: Añadida película "" (ID 0133093 en imdb) a la base de datos.
+[2019-02-22 22:32:54] : ----------------------------------------------------------
+[2019-02-22 22:32:54] INFO: Programa ejecutado.
+[2019-02-22 22:32:54] INFO: Base de datos cargada, hay 5 películas.
+[2019-02-22 22:32:54] INFO: Copia de seguridad automática realizada.
+[2019-02-22 22:33:22] ERROR: Descargando la película desde imdb.
+[2019-02-22 22:33:22] ERROR: Añadiendo película a la base de datos.
+[2019-02-22 22:48:45] : ----------------------------------------------------------
+[2019-02-22 22:48:45] INFO: Programa ejecutado.
+[2019-02-22 22:48:45] INFO: Base de datos cargada, hay 5 películas.
+[2019-02-22 22:48:45] INFO: Copia de seguridad automática realizada.
+[2019-02-22 22:48:57] INFO: Eliminada película  de la base de datos.
+[2019-02-22 22:49:00] INFO: Eliminada película  de la base de datos.
+[2019-02-22 22:49:04] INFO: Eliminada película  de la base de datos.
+[2019-02-22 22:49:22] INFO: Añadida película "Matrix" (ID 0133093 en imdb) a la base de datos.
+[2019-02-26 17:04:47] : ----------------------------------------------------------
+[2019-02-26 17:04:47] INFO: Programa ejecutado.
+[2019-02-26 17:04:47] INFO: Base de datos cargada, hay 3 películas.
+[2019-02-26 17:04:47] INFO: Copia de seguridad automática realizada.
+[2019-02-26 17:05:19] INFO: Añadida película "Mar adentro" (ID 0369702 en imdb) a la base de datos.
+[2019-02-26 18:00:08] : ----------------------------------------------------------
+[2019-02-26 18:00:08] INFO: Programa ejecutado.
+[2019-02-26 18:00:08] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:00:08] INFO: Copia de seguridad automática realizada.
+[2019-02-26 18:00:23] ERROR: Buscando premios de una película en la base de datos.
+[2019-02-26 18:00:39] ERROR: Buscando premios de una película en la base de datos.
+[2019-02-26 18:02:27] : ----------------------------------------------------------
+[2019-02-26 18:02:27] INFO: Programa ejecutado.
+[2019-02-26 18:02:27] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:02:27] INFO: Copia de seguridad automática realizada.
+[2019-02-26 18:02:30] ERROR: Buscando premios de una película en la base de datos.
+[2019-02-26 18:02:41] : ----------------------------------------------------------
+[2019-02-26 18:02:41] INFO: Programa ejecutado.
+[2019-02-26 18:02:41] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:02:41] INFO: Copia de seguridad automática realizada.
+[2019-02-26 18:34:21] : ----------------------------------------------------------
+[2019-02-26 18:34:21] INFO: Programa ejecutado.
+[2019-02-26 18:34:21] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:34:21] INFO: Copia de seguridad automática realizada.
+[2019-02-26 18:50:02] : ----------------------------------------------------------
+[2019-02-26 18:50:02] INFO: Programa ejecutado.
+[2019-02-26 18:50:02] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:50:02] INFO: Copia de seguridad automática realizada.
+[2019-02-26 18:51:01] : ----------------------------------------------------------
+[2019-02-26 18:51:01] INFO: Programa ejecutado.
+[2019-02-26 18:51:01] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:51:01] INFO: Copia de seguridad automática realizada.
+[2019-02-26 18:51:50] : ----------------------------------------------------------
+[2019-02-26 18:51:50] INFO: Programa ejecutado.
+[2019-02-26 18:51:50] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:51:50] INFO: Copia de seguridad automática realizada.
+[2019-02-26 18:53:15] : ----------------------------------------------------------
+[2019-02-26 18:53:15] INFO: Programa ejecutado.
+[2019-02-26 18:53:15] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:53:15] INFO: Copia de seguridad automática realizada.
+[2019-02-26 18:53:36] : ----------------------------------------------------------
+[2019-02-26 18:53:36] INFO: Programa ejecutado.
+[2019-02-26 18:53:36] INFO: Base de datos cargada, hay 4 películas.
+[2019-02-26 18:53:36] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:06:58] : ----------------------------------------------------------
+[2019-03-02 22:06:58] INFO: Programa ejecutado.
+[2019-03-02 22:06:58] INFO: Base de datos cargada, hay 4 películas.
+[2019-03-02 22:06:58] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:07:36] INFO: Añadida película "Matrix Revolutions" (ID 257620 en filmaffinity) a la base de datos.
+[2019-03-02 22:07:39] ERROR: Listando las películas de la base de datos.
+[2019-03-02 22:07:43] ERROR: Listando las películas de la base de datos.
+[2019-03-02 22:13:21] : ----------------------------------------------------------
+[2019-03-02 22:13:21] INFO: Programa ejecutado.
+[2019-03-02 22:13:21] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-02 22:13:21] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:14:07] ERROR: Visualizando películas de la base de datos.
+[2019-03-02 22:15:27] INFO: Eliminada película Matrix Revolutions de la base de datos.
+[2019-03-02 22:15:40] : ----------------------------------------------------------
+[2019-03-02 22:15:40] INFO: Programa ejecutado.
+[2019-03-02 22:15:40] INFO: Base de datos cargada, hay 4 películas.
+[2019-03-02 22:15:40] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:15:52] INFO: Añadida película "Matrix Revolutions" (ID 257620 en filmaffinity) a la base de datos.
+[2019-03-02 22:21:27] : ----------------------------------------------------------
+[2019-03-02 22:21:27] INFO: Programa ejecutado.
+[2019-03-02 22:21:27] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-02 22:21:27] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:21:34] INFO: Eliminada película Matrix Revolutions de la base de datos.
+[2019-03-02 22:21:50] INFO: Añadida película "Matrix Revolutions" (ID 257620 en filmaffinity) a la base de datos.
+[2019-03-02 22:22:06] ERROR: Visualizando películas de la base de datos.
+[2019-03-02 22:22:25] : ----------------------------------------------------------
+[2019-03-02 22:22:25] INFO: Programa ejecutado.
+[2019-03-02 22:22:25] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-02 22:22:25] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:25:57] : ----------------------------------------------------------
+[2019-03-02 22:25:57] INFO: Programa ejecutado.
+[2019-03-02 22:25:57] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-02 22:25:57] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:28:56] : ----------------------------------------------------------
+[2019-03-02 22:28:56] INFO: Programa ejecutado.
+[2019-03-02 22:28:56] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-02 22:28:56] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:40:50] : ----------------------------------------------------------
+[2019-03-02 22:40:50] INFO: Programa ejecutado.
+[2019-03-02 22:40:50] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-02 22:40:50] INFO: Copia de seguridad automática realizada.
+[2019-03-02 22:42:19] : ----------------------------------------------------------
+[2019-03-02 22:42:19] INFO: Programa ejecutado.
+[2019-03-02 22:42:19] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-02 22:42:19] INFO: Copia de seguridad automática realizada.
+[2019-03-02 23:07:34] : ----------------------------------------------------------
+[2019-03-02 23:07:34] INFO: Programa ejecutado.
+[2019-03-02 23:07:34] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-02 23:07:34] INFO: Copia de seguridad automática realizada.
+[2019-03-03 15:45:50] : ----------------------------------------------------------
+[2019-03-03 15:45:50] INFO: Programa ejecutado.
+[2019-03-03 15:45:50] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-03 15:45:50] INFO: Copia de seguridad automática realizada.
+[2019-03-03 16:08:32] : ----------------------------------------------------------
+[2019-03-03 16:08:32] INFO: Programa ejecutado.
+[2019-03-03 16:08:32] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-03 16:08:32] INFO: Copia de seguridad automática realizada.
+[2019-03-03 16:08:40] INFO: Eliminada película Matrix Revolutions de la base de datos.
+[2019-03-03 16:08:51] ERROR: Realizando una búsqueda en la web Filmaffinty.
+[2019-03-03 16:09:05] INFO: Añadida película "Matrix Revolutions" (ID 257620 en filmaffinity) a la base de datos.
+[2019-03-03 17:40:05] : ----------------------------------------------------------
+[2019-03-03 17:40:05] INFO: Programa ejecutado.
+[2019-03-03 17:40:05] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-03 17:40:05] INFO: Copia de seguridad automática realizada.
+[2019-03-03 17:44:51] : ----------------------------------------------------------
+[2019-03-03 17:44:51] INFO: Programa ejecutado.
+[2019-03-03 17:44:51] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-03 17:44:51] INFO: Copia de seguridad automática realizada.
+[2019-03-03 17:44:56] INFO: Eliminada película Matrix Revolutions de la base de datos.
+[2019-03-03 17:45:08] INFO: Añadida película "Matrix Revolutions" (ID 257620 en filmaffinity) a la base de datos.
+[2019-03-03 19:35:59] : ----------------------------------------------------------
+[2019-03-03 19:35:59] INFO: Programa ejecutado.
+[2019-03-03 19:35:59] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-03 19:35:59] INFO: Copia de seguridad automática realizada.
+[2019-03-03 21:36:04] : ----------------------------------------------------------
+[2019-03-03 21:36:04] INFO: Programa ejecutado.
+[2019-03-03 21:36:04] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-03 21:36:04] INFO: Copia de seguridad automática realizada.
+[2019-03-03 23:03:43] : ----------------------------------------------------------
+[2019-03-03 23:03:43] INFO: Programa ejecutado.
+[2019-03-03 23:03:43] INFO: Base de datos cargada, hay 5 películas.
+[2019-03-03 23:03:43] INFO: Copia de seguridad automática realizada.
+[2019-03-03 23:04:32] INFO: Añadida película "Matrix Revolutions" (ID 0242653 en imdb) a la base de datos.
+[2019-03-04 16:57:45] : ----------------------------------------------------------
+[2019-03-04 16:57:45] INFO: Programa ejecutado.
+[2019-03-04 16:57:45] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 16:57:45] INFO: Copia de seguridad automática realizada.
+[2019-03-04 18:10:58] : ----------------------------------------------------------
+[2019-03-04 18:10:58] INFO: Programa ejecutado.
+[2019-03-04 18:10:58] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 18:10:58] INFO: Copia de seguridad automática realizada.
+[2019-03-04 18:14:44] INFO: Añadida película "Matrix of Evil" (ID 2121323 en imdb) a la base de datos.
+[2019-03-04 20:33:54] : ----------------------------------------------------------
+[2019-03-04 20:33:54] INFO: Programa ejecutado.
+[2019-03-04 20:33:54] INFO: Base de datos cargada, hay 7 películas.
+[2019-03-04 20:33:54] INFO: Copia de seguridad automática realizada.
+[2019-03-04 20:34:04] INFO: Eliminada película Matrix of Evil de la base de datos.
+[2019-03-04 21:09:18] : ----------------------------------------------------------
+[2019-03-04 21:09:18] INFO: Programa ejecutado.
+[2019-03-04 21:09:18] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:09:18] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:09:35] ERROR: Realizando una búsqueda en la web Imdb.
+[2019-03-04 21:11:15] : ----------------------------------------------------------
+[2019-03-04 21:11:15] INFO: Programa ejecutado.
+[2019-03-04 21:11:15] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:11:15] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:12:00] : ----------------------------------------------------------
+[2019-03-04 21:12:00] INFO: Programa ejecutado.
+[2019-03-04 21:12:00] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:12:00] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:21:11] : ----------------------------------------------------------
+[2019-03-04 21:21:11] INFO: Programa ejecutado.
+[2019-03-04 21:21:11] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:21:11] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:21:32] : ----------------------------------------------------------
+[2019-03-04 21:21:32] INFO: Programa ejecutado.
+[2019-03-04 21:21:32] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:21:32] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:22:06] : ----------------------------------------------------------
+[2019-03-04 21:22:06] INFO: Programa ejecutado.
+[2019-03-04 21:22:06] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:22:06] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:22:13] : ----------------------------------------------------------
+[2019-03-04 21:22:13] INFO: Programa ejecutado.
+[2019-03-04 21:22:13] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:22:13] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:22:30] : ----------------------------------------------------------
+[2019-03-04 21:22:30] INFO: Programa ejecutado.
+[2019-03-04 21:22:30] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:22:30] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:24:40] : ----------------------------------------------------------
+[2019-03-04 21:24:40] INFO: Programa ejecutado.
+[2019-03-04 21:24:40] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:24:40] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:24:48] : ----------------------------------------------------------
+[2019-03-04 21:24:48] INFO: Programa ejecutado.
+[2019-03-04 21:24:48] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:24:48] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:25:06] : ----------------------------------------------------------
+[2019-03-04 21:25:06] INFO: Programa ejecutado.
+[2019-03-04 21:25:06] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:25:06] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:25:15] : ----------------------------------------------------------
+[2019-03-04 21:25:15] INFO: Programa ejecutado.
+[2019-03-04 21:25:15] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:25:15] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:25:20] : ----------------------------------------------------------
+[2019-03-04 21:25:20] INFO: Programa ejecutado.
+[2019-03-04 21:25:20] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:25:20] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:25:30] : ----------------------------------------------------------
+[2019-03-04 21:25:30] INFO: Programa ejecutado.
+[2019-03-04 21:25:30] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:25:30] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:26:16] : ----------------------------------------------------------
+[2019-03-04 21:26:16] INFO: Programa ejecutado.
+[2019-03-04 21:26:16] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:26:16] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:26:39] : ----------------------------------------------------------
+[2019-03-04 21:26:39] INFO: Programa ejecutado.
+[2019-03-04 21:26:39] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:26:39] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:26:54] : ----------------------------------------------------------
+[2019-03-04 21:26:54] INFO: Programa ejecutado.
+[2019-03-04 21:26:54] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:26:54] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:27:17] : ----------------------------------------------------------
+[2019-03-04 21:27:17] INFO: Programa ejecutado.
+[2019-03-04 21:27:17] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:27:17] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:32:36] : ----------------------------------------------------------
+[2019-03-04 21:32:36] INFO: Programa ejecutado.
+[2019-03-04 21:32:36] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:32:36] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:34:31] : ----------------------------------------------------------
+[2019-03-04 21:34:31] INFO: Programa ejecutado.
+[2019-03-04 21:34:31] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:34:31] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:34:58] : ----------------------------------------------------------
+[2019-03-04 21:34:58] INFO: Programa ejecutado.
+[2019-03-04 21:34:58] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:34:58] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:35:07] : ----------------------------------------------------------
+[2019-03-04 21:35:07] INFO: Programa ejecutado.
+[2019-03-04 21:35:07] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:35:07] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:35:30] : ----------------------------------------------------------
+[2019-03-04 21:35:30] INFO: Programa ejecutado.
+[2019-03-04 21:35:30] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:35:30] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:35:47] : ----------------------------------------------------------
+[2019-03-04 21:35:47] INFO: Programa ejecutado.
+[2019-03-04 21:35:47] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:35:47] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:36:10] : ----------------------------------------------------------
+[2019-03-04 21:36:10] INFO: Programa ejecutado.
+[2019-03-04 21:36:10] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:36:10] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:36:23] : ----------------------------------------------------------
+[2019-03-04 21:36:23] INFO: Programa ejecutado.
+[2019-03-04 21:36:23] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:36:23] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:36:49] : ----------------------------------------------------------
+[2019-03-04 21:36:49] INFO: Programa ejecutado.
+[2019-03-04 21:36:49] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:36:49] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:37:27] : ----------------------------------------------------------
+[2019-03-04 21:37:27] INFO: Programa ejecutado.
+[2019-03-04 21:37:27] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:37:27] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:37:44] : ----------------------------------------------------------
+[2019-03-04 21:37:44] INFO: Programa ejecutado.
+[2019-03-04 21:37:44] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:37:44] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:37:54] : ----------------------------------------------------------
+[2019-03-04 21:37:54] INFO: Programa ejecutado.
+[2019-03-04 21:37:54] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:37:54] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:39:15] : ----------------------------------------------------------
+[2019-03-04 21:39:15] INFO: Programa ejecutado.
+[2019-03-04 21:39:15] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:39:15] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:44:33] : ----------------------------------------------------------
+[2019-03-04 21:44:33] INFO: Programa ejecutado.
+[2019-03-04 21:44:33] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:44:33] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:44:43] : ----------------------------------------------------------
+[2019-03-04 21:44:43] INFO: Programa ejecutado.
+[2019-03-04 21:44:43] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:44:43] INFO: Copia de seguridad automática realizada.
+[2019-03-04 21:45:25] : ----------------------------------------------------------
+[2019-03-04 21:45:25] INFO: Programa ejecutado.
+[2019-03-04 21:45:25] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 21:45:25] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:04:42] : ----------------------------------------------------------
+[2019-03-04 22:04:42] INFO: Programa ejecutado.
+[2019-03-04 22:04:42] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:04:42] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:04:58] ERROR: Realizando una búsqueda en dual en internet.
+[2019-03-04 22:05:06] : ----------------------------------------------------------
+[2019-03-04 22:05:06] INFO: Programa ejecutado.
+[2019-03-04 22:05:06] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:05:06] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:11:54] : ----------------------------------------------------------
+[2019-03-04 22:11:54] INFO: Programa ejecutado.
+[2019-03-04 22:11:54] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:11:54] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:12:37] : ----------------------------------------------------------
+[2019-03-04 22:12:37] INFO: Programa ejecutado.
+[2019-03-04 22:12:37] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:12:37] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:13:51] : ----------------------------------------------------------
+[2019-03-04 22:13:51] INFO: Programa ejecutado.
+[2019-03-04 22:13:51] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:13:51] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:16:33] : ----------------------------------------------------------
+[2019-03-04 22:16:33] INFO: Programa ejecutado.
+[2019-03-04 22:16:33] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:16:33] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:17:26] ERROR: Realizando una búsqueda en la web Imdb.
+[2019-03-04 22:21:59] : ----------------------------------------------------------
+[2019-03-04 22:21:59] INFO: Programa ejecutado.
+[2019-03-04 22:21:59] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:21:59] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:22:31] : ----------------------------------------------------------
+[2019-03-04 22:22:31] INFO: Programa ejecutado.
+[2019-03-04 22:22:31] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:22:31] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:22:31] ERROR: Realizando una búsqueda en la web Imdb.
+[2019-03-04 22:22:49] : ----------------------------------------------------------
+[2019-03-04 22:22:49] INFO: Programa ejecutado.
+[2019-03-04 22:22:49] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:22:49] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:24:32] : ----------------------------------------------------------
+[2019-03-04 22:24:32] INFO: Programa ejecutado.
+[2019-03-04 22:24:32] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:24:32] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:25:42] : ----------------------------------------------------------
+[2019-03-04 22:25:42] INFO: Programa ejecutado.
+[2019-03-04 22:25:42] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:25:42] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:39:04] : ----------------------------------------------------------
+[2019-03-04 22:39:04] INFO: Programa ejecutado.
+[2019-03-04 22:39:04] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:39:04] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:39:24] ERROR: Realizando una búsqueda dual en internet.
+[2019-03-04 22:39:36] : ----------------------------------------------------------
+[2019-03-04 22:39:36] INFO: Programa ejecutado.
+[2019-03-04 22:39:36] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:39:36] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:50:51] : ----------------------------------------------------------
+[2019-03-04 22:50:51] INFO: Programa ejecutado.
+[2019-03-04 22:50:51] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:50:51] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:51:44] : ----------------------------------------------------------
+[2019-03-04 22:51:44] INFO: Programa ejecutado.
+[2019-03-04 22:51:44] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:51:44] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:52:28] : ----------------------------------------------------------
+[2019-03-04 22:52:28] INFO: Programa ejecutado.
+[2019-03-04 22:52:28] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:52:28] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:53:51] : ----------------------------------------------------------
+[2019-03-04 22:53:51] INFO: Programa ejecutado.
+[2019-03-04 22:53:51] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:53:51] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:54:01] : ----------------------------------------------------------
+[2019-03-04 22:54:01] INFO: Programa ejecutado.
+[2019-03-04 22:54:01] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:54:01] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:54:29] : ----------------------------------------------------------
+[2019-03-04 22:54:29] INFO: Programa ejecutado.
+[2019-03-04 22:54:29] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:54:29] INFO: Copia de seguridad automática realizada.
+[2019-03-04 22:54:48] : ----------------------------------------------------------
+[2019-03-04 22:54:48] INFO: Programa ejecutado.
+[2019-03-04 22:54:48] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 22:54:48] INFO: Copia de seguridad automática realizada.
+[2019-03-04 23:34:50] : ----------------------------------------------------------
+[2019-03-04 23:34:50] INFO: Programa ejecutado.
+[2019-03-04 23:34:50] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-04 23:34:50] INFO: Copia de seguridad automática realizada.
+[2019-03-05 13:47:12] : ----------------------------------------------------------
+[2019-03-05 13:47:12] INFO: Programa ejecutado.
+[2019-03-05 13:47:12] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 13:47:12] INFO: Copia de seguridad automática realizada.
+[2019-03-05 14:01:17] ERROR: Realizando una búsqueda en la web Imdb.
+[2019-03-05 17:04:34] : ----------------------------------------------------------
+[2019-03-05 17:04:34] INFO: Programa ejecutado.
+[2019-03-05 17:04:34] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:04:34] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:18:32] : ----------------------------------------------------------
+[2019-03-05 17:18:32] INFO: Programa ejecutado.
+[2019-03-05 17:18:32] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:18:32] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:20:02] : ----------------------------------------------------------
+[2019-03-05 17:20:02] INFO: Programa ejecutado.
+[2019-03-05 17:20:02] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:20:02] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:20:37] : ----------------------------------------------------------
+[2019-03-05 17:20:37] INFO: Programa ejecutado.
+[2019-03-05 17:20:37] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:20:37] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:21:03] : ----------------------------------------------------------
+[2019-03-05 17:21:03] INFO: Programa ejecutado.
+[2019-03-05 17:21:03] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:21:03] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:25:58] : ----------------------------------------------------------
+[2019-03-05 17:25:58] INFO: Programa ejecutado.
+[2019-03-05 17:25:58] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:25:58] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:39:46] : ----------------------------------------------------------
+[2019-03-05 17:39:46] INFO: Programa ejecutado.
+[2019-03-05 17:39:46] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:39:46] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:40:14] : ----------------------------------------------------------
+[2019-03-05 17:40:14] INFO: Programa ejecutado.
+[2019-03-05 17:40:14] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:40:14] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:41:03] : ----------------------------------------------------------
+[2019-03-05 17:41:03] INFO: Programa ejecutado.
+[2019-03-05 17:41:03] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:41:03] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:41:47] : ----------------------------------------------------------
+[2019-03-05 17:41:47] INFO: Programa ejecutado.
+[2019-03-05 17:41:47] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:41:47] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:41:57] : ----------------------------------------------------------
+[2019-03-05 17:41:57] INFO: Programa ejecutado.
+[2019-03-05 17:41:57] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:41:57] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:42:13] : ----------------------------------------------------------
+[2019-03-05 17:42:13] INFO: Programa ejecutado.
+[2019-03-05 17:42:13] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:42:13] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:42:53] : ----------------------------------------------------------
+[2019-03-05 17:42:53] INFO: Programa ejecutado.
+[2019-03-05 17:42:53] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:42:53] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:44:22] : ----------------------------------------------------------
+[2019-03-05 17:44:22] INFO: Programa ejecutado.
+[2019-03-05 17:44:22] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:44:22] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:44:37] : ----------------------------------------------------------
+[2019-03-05 17:44:37] INFO: Programa ejecutado.
+[2019-03-05 17:44:37] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:44:37] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:44:49] : ----------------------------------------------------------
+[2019-03-05 17:44:49] INFO: Programa ejecutado.
+[2019-03-05 17:44:49] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:44:49] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:58:44] : ----------------------------------------------------------
+[2019-03-05 17:58:44] INFO: Programa ejecutado.
+[2019-03-05 17:58:44] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:58:44] INFO: Copia de seguridad automática realizada.
+[2019-03-05 17:59:57] : ----------------------------------------------------------
+[2019-03-05 17:59:57] INFO: Programa ejecutado.
+[2019-03-05 17:59:57] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 17:59:57] INFO: Copia de seguridad automática realizada.
+[2019-03-05 18:00:49] : ----------------------------------------------------------
+[2019-03-05 18:00:49] INFO: Programa ejecutado.
+[2019-03-05 18:00:49] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 18:00:49] INFO: Copia de seguridad automática realizada.
+[2019-03-05 18:01:08] : ----------------------------------------------------------
+[2019-03-05 18:01:08] INFO: Programa ejecutado.
+[2019-03-05 18:01:08] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 18:01:08] INFO: Copia de seguridad automática realizada.
+[2019-03-05 22:57:02] : ----------------------------------------------------------
+[2019-03-05 22:57:02] INFO: Programa ejecutado.
+[2019-03-05 22:57:02] INFO: Base de datos cargada, hay 6 películas.
+[2019-03-05 22:57:02] INFO: Copia de seguridad automática realizada.
+[2019-03-05 22:57:36] INFO: Añadida película "El show de Truman (Una vida en directo)" (ID 0120382 en imdb) a la base de datos.
+[2019-03-05 23:00:05] INFO: Añadida película "Truman Capote" (ID 620342 en filmaffinity) a la base de datos.
+[2019-03-05 23:02:32] INFO: Eliminada película Matrix Revolutions de la base de datos.
+[2019-03-05 23:12:08] : ----------------------------------------------------------
+[2019-03-05 23:12:08] INFO: Programa ejecutado.
+[2019-03-05 23:12:08] INFO: Base de datos cargada, hay 7 películas.
+[2019-03-05 23:12:08] INFO: Copia de seguridad automática realizada.
+[2019-03-05 23:47:57] : ----------------------------------------------------------
+[2019-03-05 23:47:57] INFO: Programa ejecutado.
+[2019-03-05 23:47:57] INFO: Base de datos cargada, hay 7 películas.
+[2019-03-05 23:47:57] INFO: Copia de seguridad automática realizada.
+[2019-03-05 23:48:40] INFO: Añadida película "Matrix III" (ID 224302 en filmaffinity) a la base de datos.
+[2019-03-05 23:48:45] ERROR: Visualizando películas de la base de datos.
+[2019-03-05 23:49:05] : ----------------------------------------------------------
+[2019-03-05 23:49:05] INFO: Programa ejecutado.
+[2019-03-05 23:49:05] INFO: Base de datos cargada, hay 8 películas.
+[2019-03-05 23:49:05] INFO: Copia de seguridad automática realizada.
+[2019-03-05 23:50:04] : ----------------------------------------------------------
+[2019-03-05 23:50:04] INFO: Programa ejecutado.
+[2019-03-05 23:50:04] INFO: Base de datos cargada, hay 8 películas.
+[2019-03-05 23:50:04] INFO: Copia de seguridad automática realizada.
+[2019-03-05 23:52:47] : ----------------------------------------------------------
+[2019-03-05 23:52:47] INFO: Programa ejecutado.
+[2019-03-05 23:52:47] INFO: Base de datos cargada, hay 8 películas.
+[2019-03-05 23:52:47] INFO: Copia de seguridad automática realizada.
+[2019-03-05 23:52:55] INFO: Añadida película "El padrino" (ID 0068646 en imdb) a la base de datos.
+[2019-03-05 23:54:11] : ----------------------------------------------------------
+[2019-03-05 23:54:11] INFO: Programa ejecutado.
+[2019-03-05 23:54:11] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-05 23:54:11] INFO: Copia de seguridad automática realizada.
+[2019-03-05 23:54:23] INFO: Añadida película "El padrino" (ID 0068646 en imdb) a la base de datos.
+[2019-03-05 23:54:57] : ----------------------------------------------------------
+[2019-03-05 23:54:57] INFO: Programa ejecutado.
+[2019-03-05 23:54:57] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-05 23:54:57] INFO: Copia de seguridad automática realizada.
+[2019-03-05 23:54:59] ERROR: Añadiendo película a la base de datos.
+[2019-03-05 23:55:10] ERROR: Añadiendo película a la base de datos.
+[2019-03-05 23:55:12] : ----------------------------------------------------------
+[2019-03-05 23:55:12] INFO: Programa ejecutado.
+[2019-03-05 23:55:12] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-05 23:55:12] INFO: Copia de seguridad automática realizada.
+[2019-03-05 23:56:15] ERROR: Realizando una búsqueda dual en internet.
+[2019-03-06 00:01:42] : ----------------------------------------------------------
+[2019-03-06 00:01:42] INFO: Programa ejecutado.
+[2019-03-06 00:01:42] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-06 00:01:42] INFO: Copia de seguridad automática realizada.
+[2019-03-06 00:01:57] : ----------------------------------------------------------
+[2019-03-06 00:01:57] INFO: Programa ejecutado.
+[2019-03-06 00:01:57] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-06 00:01:57] INFO: Copia de seguridad automática realizada.
+[2019-03-06 00:02:36] : ----------------------------------------------------------
+[2019-03-06 00:02:36] INFO: Programa ejecutado.
+[2019-03-06 00:02:36] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-06 00:02:36] INFO: Copia de seguridad automática realizada.
+[2019-03-06 00:02:55] : ----------------------------------------------------------
+[2019-03-06 00:02:55] INFO: Programa ejecutado.
+[2019-03-06 00:02:55] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-06 00:02:55] INFO: Copia de seguridad automática realizada.
+[2019-03-06 00:03:08] INFO: Añadida película "" (ID 0068646 en imdb) a la base de datos.
+[2019-03-06 20:21:09] : ----------------------------------------------------------
+[2019-03-06 20:21:09] INFO: Programa ejecutado.
+[2019-03-06 20:21:09] INFO: Base de datos cargada, hay 11 películas.
+[2019-03-06 20:21:09] INFO: Copia de seguridad automática realizada.
+[2019-03-06 20:21:39] INFO: Eliminada película  de la base de datos.
+[2019-03-06 20:23:16] INFO: Añadida película "El padrí II" (ID 0071562 en imdb) a la base de datos.
+[2019-03-06 20:31:09] INFO: Añadida película "" (ID 0068646 en imdb) a la base de datos.
+[2019-03-06 20:36:35] : ----------------------------------------------------------
+[2019-03-06 20:36:35] INFO: Programa ejecutado.
+[2019-03-06 20:36:35] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-06 20:36:35] INFO: Copia de seguridad automática realizada.
+[2019-03-06 20:36:54] INFO: Añadida película "" (ID 0068646 en imdb) a la base de datos.
+[2019-03-06 20:37:01] INFO: Eliminada película  de la base de datos.
+[2019-03-06 20:51:16] : ----------------------------------------------------------
+[2019-03-06 20:51:16] INFO: Programa ejecutado.
+[2019-03-06 20:51:16] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-06 20:51:16] INFO: Copia de seguridad automática realizada.
+[2019-03-06 20:51:20] INFO: Añadida película "" (ID 0068646 en imdb) a la base de datos.
+[2019-03-06 20:52:13] : ----------------------------------------------------------
+[2019-03-06 20:52:13] INFO: Programa ejecutado.
+[2019-03-06 20:52:13] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-06 20:52:13] INFO: Copia de seguridad automática realizada.
+[2019-03-06 20:52:19] INFO: Eliminada película  de la base de datos.
+[2019-03-06 22:05:17] : ----------------------------------------------------------
+[2019-03-06 22:05:17] INFO: Programa ejecutado.
+[2019-03-06 22:05:17] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-06 22:05:17] INFO: Copia de seguridad automática realizada.
+[2019-03-06 22:05:22] ERROR: Añadiendo película a la base de datos.
+[2019-03-06 22:22:20] : ----------------------------------------------------------
+[2019-03-06 22:22:20] INFO: Programa ejecutado.
+[2019-03-06 22:22:20] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-06 22:22:20] INFO: Copia de seguridad automática realizada.
+[2019-03-06 22:22:24] INFO: Añadida película "Matrix" (ID 0068646 en imdb) a la base de datos.
+[2019-03-06 22:22:33] : ----------------------------------------------------------
+[2019-03-06 22:22:33] INFO: Programa ejecutado.
+[2019-03-06 22:22:33] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-06 22:22:33] INFO: Copia de seguridad automática realizada.
+[2019-03-06 22:22:37] INFO: Eliminada película  de la base de datos.
+[2019-03-07 23:34:53] : ----------------------------------------------------------
+[2019-03-07 23:34:53] INFO: Programa ejecutado.
+[2019-03-07 23:34:53] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-07 23:34:53] INFO: Copia de seguridad automática realizada.
+[2019-03-07 23:35:09] INFO: Base de datos limpiada de entradas vacías y duplicados.
+[2019-03-07 23:38:13] ERROR: Realizando una búsqueda en la base de datos.
+[2019-03-07 23:38:16] ERROR: Realizando una búsqueda en la base de datos.
+[2019-03-07 23:38:48] ERROR: Realizando una búsqueda en la base de datos.
+[2019-03-07 23:39:23] ERROR: Realizando una búsqueda en la base de datos.
+[2019-03-07 23:40:11] : ----------------------------------------------------------
+[2019-03-07 23:40:11] INFO: Programa ejecutado.
+[2019-03-07 23:40:11] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-07 23:40:11] INFO: Copia de seguridad automática realizada.
+[2019-03-07 23:40:17] ERROR: Realizando una búsqueda en la base de datos.
+[2019-03-07 23:40:33] : ----------------------------------------------------------
+[2019-03-07 23:40:33] INFO: Programa ejecutado.
+[2019-03-07 23:40:33] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-07 23:40:33] INFO: Copia de seguridad automática realizada.
+[2019-03-07 23:45:36] ERROR: Visualizando películas de la base de datos.
+[2019-03-07 23:59:30] ERROR: Visualizando películas de la base de datos.
+[2019-03-07 23:59:38] : ----------------------------------------------------------
+[2019-03-07 23:59:38] INFO: Programa ejecutado.
+[2019-03-07 23:59:38] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-07 23:59:38] INFO: Copia de seguridad automática realizada.
+[2019-03-08 00:28:18] : ----------------------------------------------------------
+[2019-03-08 00:28:18] INFO: Programa ejecutado.
+[2019-03-08 00:28:18] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-08 00:28:18] INFO: Copia de seguridad automática realizada.
+[2019-03-08 00:28:51] : ----------------------------------------------------------
+[2019-03-08 00:28:51] INFO: Programa ejecutado.
+[2019-03-08 00:28:51] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-08 00:28:51] INFO: Copia de seguridad automática realizada.
+[2019-03-08 22:52:34] : ----------------------------------------------------------
+[2019-03-08 22:52:34] INFO: Programa ejecutado.
+[2019-03-08 22:52:34] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-08 22:52:34] INFO: Copia de seguridad automática realizada.
+[2019-03-08 23:28:15] : ----------------------------------------------------------
+[2019-03-08 23:28:15] INFO: Programa ejecutado.
+[2019-03-08 23:28:15] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-08 23:28:15] INFO: Copia de seguridad automática realizada.
+[2019-03-10 23:31:35] : ----------------------------------------------------------
+[2019-03-10 23:31:35] INFO: Programa ejecutado.
+[2019-03-10 23:31:35] INFO: Base de datos cargada, hay 9 películas.
+[2019-03-10 23:31:35] INFO: Copia de seguridad automática realizada.
+[2019-03-10 23:36:22] INFO: Añadida película "Río Rojo" (ID 0040724 en imdb) a la base de datos.
+[2019-03-10 23:47:07] : ----------------------------------------------------------
+[2019-03-10 23:47:07] INFO: Programa ejecutado.
+[2019-03-10 23:47:07] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-10 23:47:07] INFO: Copia de seguridad automática realizada.
+[2019-03-10 23:58:13] : ----------------------------------------------------------
+[2019-03-10 23:58:13] INFO: Programa ejecutado.
+[2019-03-10 23:58:13] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-10 23:58:13] INFO: Copia de seguridad automática realizada.
+[2019-03-10 23:59:47] : ----------------------------------------------------------
+[2019-03-10 23:59:47] INFO: Programa ejecutado.
+[2019-03-10 23:59:47] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-10 23:59:47] INFO: Copia de seguridad automática realizada.
+[2019-03-11 00:00:54] : ----------------------------------------------------------
+[2019-03-11 00:00:54] INFO: Programa ejecutado.
+[2019-03-11 00:00:54] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-11 00:00:54] INFO: Copia de seguridad automática realizada.
+[2019-03-11 00:39:04] : ----------------------------------------------------------
+[2019-03-11 00:39:04] INFO: Programa ejecutado.
+[2019-03-11 00:39:04] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-11 00:39:04] INFO: Copia de seguridad automática realizada.
+[2019-03-11 00:39:20] ERROR: Listando las películas de la base de datos.
+[2019-03-11 00:55:47] ERROR: Listando las películas de la base de datos.
+[2019-03-11 00:55:57] : ----------------------------------------------------------
+[2019-03-11 00:55:57] INFO: Programa ejecutado.
+[2019-03-11 00:55:57] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-11 00:55:57] INFO: Copia de seguridad automática realizada.
+[2019-03-11 21:30:00] : ----------------------------------------------------------
+[2019-03-11 21:30:00] INFO: Programa ejecutado.
+[2019-03-11 21:30:00] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-11 21:30:00] INFO: Copia de seguridad automática realizada.
+[2019-03-11 22:23:36] : ----------------------------------------------------------
+[2019-03-11 22:23:36] INFO: Programa ejecutado.
+[2019-03-11 22:23:36] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-11 22:23:36] INFO: Copia de seguridad automática realizada.
+[2019-03-13 13:30:10] : ----------------------------------------------------------
+[2019-03-13 13:30:10] INFO: Programa ejecutado.
+[2019-03-13 13:30:10] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-13 13:30:10] INFO: Copia de seguridad automática realizada.
+[2019-03-13 13:34:01] INFO: Añadida película "Terminator" (ID 0088247 en imdb) a la base de datos.
+[2019-03-13 13:35:44] INFO: Añadida película "Terminator" (ID 0068646 en imdb) a la base de datos.
+[2019-03-13 13:42:34] INFO: Eliminada película Terminator de la base de datos.
+[2019-03-13 13:50:48] INFO: Añadida película "Río Rojo" (ID 0068646 en imdb) a la base de datos.
+[2019-03-13 15:17:34] : ----------------------------------------------------------
+[2019-03-13 15:17:34] INFO: Programa ejecutado.
+[2019-03-13 15:17:34] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-13 15:17:34] INFO: Copia de seguridad automática realizada.
+[2019-03-13 15:17:46] INFO: Eliminada película Río Rojo de la base de datos.
+[2019-03-13 15:18:01] INFO: Eliminada película Río Rojo de la base de datos.
+[2019-03-13 15:18:06] INFO: Añadida película "Río Rojo" (ID 0040724 en imdb) a la base de datos.
+[2019-03-13 15:18:42] : ----------------------------------------------------------
+[2019-03-13 15:18:42] INFO: Programa ejecutado.
+[2019-03-13 15:18:42] INFO: Base de datos cargada, hay 11 películas.
+[2019-03-13 15:18:42] INFO: Copia de seguridad automática realizada.
+[2019-03-13 15:18:50] INFO: Eliminada película Río Rojo de la base de datos.
+[2019-03-13 15:19:02] ERROR: Añadiendo película a la base de datos.
+[2019-03-13 15:22:35] : ----------------------------------------------------------
+[2019-03-13 15:22:35] INFO: Programa ejecutado.
+[2019-03-13 15:22:35] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-13 15:22:35] INFO: Copia de seguridad automática realizada.
+[2019-03-13 15:24:59] : ----------------------------------------------------------
+[2019-03-13 15:24:59] INFO: Programa ejecutado.
+[2019-03-13 15:24:59] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-13 15:24:59] INFO: Copia de seguridad automática realizada.
+[2019-03-13 19:32:43] : ----------------------------------------------------------
+[2019-03-13 19:32:43] INFO: Programa ejecutado.
+[2019-03-13 19:32:43] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-13 19:32:43] INFO: Copia de seguridad automática realizada.
+[2019-03-13 19:32:59] INFO: Añadida película "Río Rojo" (ID 0040724 en imdb) a la base de datos.
+[2019-03-13 19:33:37] INFO: Eliminada película Río Rojo de la base de datos.
+[2019-03-13 19:33:42] : ----------------------------------------------------------
+[2019-03-13 19:33:42] INFO: Programa ejecutado.
+[2019-03-13 19:33:42] INFO: Base de datos cargada, hay 10 películas.
+[2019-03-13 19:33:42] INFO: Copia de seguridad automática realizada.
+[2019-03-13 19:33:52] INFO: Añadida película "Río Rojo" (ID 0040724 en imdb) a la base de datos.
+[2019-03-13 19:37:24] INFO: Añadida película "Nosotros" (ID 6857112 en imdb) a la base de datos.
+[2019-03-13 19:39:02] : ----------------------------------------------------------
+[2019-03-13 19:39:02] INFO: Programa ejecutado.
+[2019-03-13 19:39:02] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-13 19:39:02] INFO: Copia de seguridad automática realizada.
+[2019-03-13 19:39:21] : ----------------------------------------------------------
+[2019-03-13 19:39:21] INFO: Programa ejecutado.
+[2019-03-13 19:39:21] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-13 19:39:21] INFO: Copia de seguridad automática realizada.
+[2019-03-16 23:39:02] : ----------------------------------------------------------
+[2019-03-16 23:39:02] INFO: Programa ejecutado.
+[2019-03-16 23:39:02] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-16 23:39:02] INFO: Copia de seguridad automática realizada.
+[2019-03-16 23:49:23] INFO: Añadida película "Eurotrip" (ID 0356150 en imdb) a la base de datos.
+[2019-03-16 23:52:22] : ----------------------------------------------------------
+[2019-03-16 23:52:22] INFO: Programa ejecutado.
+[2019-03-16 23:52:22] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-16 23:52:22] INFO: Copia de seguridad automática realizada.
+[2019-03-17 00:05:26] : ----------------------------------------------------------
+[2019-03-17 00:05:26] INFO: Programa ejecutado.
+[2019-03-17 00:05:26] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-17 00:05:26] INFO: Copia de seguridad automática realizada.
+[2019-03-17 00:16:55] : ----------------------------------------------------------
+[2019-03-17 00:16:55] INFO: Programa ejecutado.
+[2019-03-17 00:16:55] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-17 00:16:55] INFO: Copia de seguridad automática realizada.
+[2019-03-17 00:23:41] : ----------------------------------------------------------
+[2019-03-17 00:23:41] INFO: Programa ejecutado.
+[2019-03-17 00:23:41] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-17 00:23:41] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:36:48] : ----------------------------------------------------------
+[2019-03-19 00:36:48] INFO: Programa ejecutado.
+[2019-03-19 00:36:48] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:36:48] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:36:50] ERROR: Cargando la base de datos desde EMDB.
+[2019-03-19 00:37:02] : ----------------------------------------------------------
+[2019-03-19 00:37:02] INFO: Programa ejecutado.
+[2019-03-19 00:37:02] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:37:02] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:38:03] : ----------------------------------------------------------
+[2019-03-19 00:38:03] INFO: Programa ejecutado.
+[2019-03-19 00:38:03] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:38:03] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:39:11] : ----------------------------------------------------------
+[2019-03-19 00:39:11] INFO: Programa ejecutado.
+[2019-03-19 00:39:11] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:39:11] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:39:52] : ----------------------------------------------------------
+[2019-03-19 00:39:52] INFO: Programa ejecutado.
+[2019-03-19 00:39:52] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:39:52] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:39:53] ERROR: Cargando la base de datos desde EMDB.
+[2019-03-19 00:39:58] : ----------------------------------------------------------
+[2019-03-19 00:39:58] INFO: Programa ejecutado.
+[2019-03-19 00:39:58] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:39:58] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:41:38] : ----------------------------------------------------------
+[2019-03-19 00:41:38] INFO: Programa ejecutado.
+[2019-03-19 00:41:38] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:41:38] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:41:40] INFO: Base de datos cargada desde EMDB, hay 13 películas.
+[2019-03-19 00:43:41] : ----------------------------------------------------------
+[2019-03-19 00:43:41] INFO: Programa ejecutado.
+[2019-03-19 00:43:41] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:43:41] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:43:44] ERROR: Cargando la base de datos desde EMDB.
+[2019-03-19 00:43:53] : ----------------------------------------------------------
+[2019-03-19 00:43:53] INFO: Programa ejecutado.
+[2019-03-19 00:43:53] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:43:53] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:44:15] : ----------------------------------------------------------
+[2019-03-19 00:44:15] INFO: Programa ejecutado.
+[2019-03-19 00:44:15] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 00:44:15] INFO: Copia de seguridad automática realizada.
+[2019-03-19 00:44:18] INFO: Base de datos cargada desde EMDB, hay 1467 películas.
+[2019-03-19 22:48:07] : ----------------------------------------------------------
+[2019-03-19 22:48:07] INFO: Programa ejecutado.
+[2019-03-19 22:48:07] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 22:48:07] INFO: Copia de seguridad automática realizada.
+[2019-03-19 23:43:42] : ----------------------------------------------------------
+[2019-03-19 23:43:42] INFO: Programa ejecutado.
+[2019-03-19 23:43:42] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-19 23:43:42] INFO: Copia de seguridad automática realizada.
+[2019-03-19 23:43:47] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-20 00:11:52] : ----------------------------------------------------------
+[2019-03-20 00:11:52] INFO: Programa ejecutado.
+[2019-03-20 00:11:52] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-20 00:11:52] INFO: Copia de seguridad automática realizada.
+[2019-03-20 00:11:55] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 00:32:01] : ----------------------------------------------------------
+[2019-03-21 00:32:01] INFO: Programa ejecutado.
+[2019-03-21 00:32:01] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 00:32:01] INFO: Copia de seguridad automática realizada.
+[2019-03-21 00:32:05] ERROR: Cargando la base de datos desde EMDB.
+[2019-03-21 00:32:13] : ----------------------------------------------------------
+[2019-03-21 00:32:13] INFO: Programa ejecutado.
+[2019-03-21 00:32:13] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 00:32:13] INFO: Copia de seguridad automática realizada.
+[2019-03-21 00:35:32] : ----------------------------------------------------------
+[2019-03-21 00:35:32] INFO: Programa ejecutado.
+[2019-03-21 00:35:32] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 00:35:32] INFO: Copia de seguridad automática realizada.
+[2019-03-21 00:35:37] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 00:41:22] : ----------------------------------------------------------
+[2019-03-21 00:41:22] INFO: Programa ejecutado.
+[2019-03-21 00:41:22] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 00:41:22] INFO: Copia de seguridad automática realizada.
+[2019-03-21 00:41:27] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 00:41:54] : ----------------------------------------------------------
+[2019-03-21 00:41:54] INFO: Programa ejecutado.
+[2019-03-21 00:41:54] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 00:41:54] INFO: Copia de seguridad automática realizada.
+[2019-03-21 00:41:58] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:08:57] : ----------------------------------------------------------
+[2019-03-21 01:08:57] INFO: Programa ejecutado.
+[2019-03-21 01:08:57] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:08:57] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:09:03] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:10:21] : ----------------------------------------------------------
+[2019-03-21 01:10:21] INFO: Programa ejecutado.
+[2019-03-21 01:10:21] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:10:21] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:10:22] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:10:42] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:10:44] : ----------------------------------------------------------
+[2019-03-21 01:10:44] INFO: Programa ejecutado.
+[2019-03-21 01:10:44] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:10:44] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:10:48] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:11:21] : ----------------------------------------------------------
+[2019-03-21 01:11:21] INFO: Programa ejecutado.
+[2019-03-21 01:11:21] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:11:21] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:11:24] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:12:45] : ----------------------------------------------------------
+[2019-03-21 01:12:45] INFO: Programa ejecutado.
+[2019-03-21 01:12:45] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:12:45] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:12:53] : ----------------------------------------------------------
+[2019-03-21 01:12:53] INFO: Programa ejecutado.
+[2019-03-21 01:12:53] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:12:53] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:12:56] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:14:34] : ----------------------------------------------------------
+[2019-03-21 01:14:34] INFO: Programa ejecutado.
+[2019-03-21 01:14:34] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:14:34] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:14:37] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:18:43] : ----------------------------------------------------------
+[2019-03-21 01:18:43] INFO: Programa ejecutado.
+[2019-03-21 01:18:43] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:18:43] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:18:47] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:19:31] : ----------------------------------------------------------
+[2019-03-21 01:19:31] INFO: Programa ejecutado.
+[2019-03-21 01:19:31] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:19:31] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:19:35] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:21:06] : ----------------------------------------------------------
+[2019-03-21 01:21:06] INFO: Programa ejecutado.
+[2019-03-21 01:21:06] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:21:06] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:21:11] INFO: Añadida película "Arma letal" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:21:15] INFO: Añadida película "Mad Max: Furia na estrada" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:21:18] INFO: Añadida película "Náufrago" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:21:18] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:21:30] INFO: Eliminada película Mad Max: Furia na estrada de la base de datos.
+[2019-03-21 01:21:33] INFO: Eliminada película Náufrago de la base de datos.
+[2019-03-21 01:21:35] ERROR: Eliminando película de la base de datos.
+[2019-03-21 01:26:43] : ----------------------------------------------------------
+[2019-03-21 01:26:43] INFO: Programa ejecutado.
+[2019-03-21 01:26:43] INFO: Base de datos cargada, hay 14 películas.
+[2019-03-21 01:26:43] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:26:50] INFO: Añadida película "Arma letal" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:26:53] INFO: Añadida película "Mad Max: Furia na estrada" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:26:56] INFO: Añadida película "Náufrago" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:26:56] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:27:09] INFO: Eliminada película Mad Max: Furia na estrada de la base de datos.
+[2019-03-21 01:27:11] INFO: Eliminada película Mad Max: Furia na estrada de la base de datos.
+[2019-03-21 01:27:15] ERROR: Eliminando película de la base de datos.
+[2019-03-21 01:27:22] ERROR: Eliminando película de la base de datos.
+[2019-03-21 01:27:37] : ----------------------------------------------------------
+[2019-03-21 01:27:37] INFO: Programa ejecutado.
+[2019-03-21 01:27:37] INFO: Base de datos cargada, hay 15 películas.
+[2019-03-21 01:27:37] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:27:41] ERROR: Eliminando película de la base de datos.
+[2019-03-21 01:27:58] : ----------------------------------------------------------
+[2019-03-21 01:27:58] INFO: Programa ejecutado.
+[2019-03-21 01:27:58] INFO: Base de datos cargada, hay 15 películas.
+[2019-03-21 01:27:58] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:29:30] : ----------------------------------------------------------
+[2019-03-21 01:29:30] INFO: Programa ejecutado.
+[2019-03-21 01:29:30] INFO: Base de datos cargada, hay 15 películas.
+[2019-03-21 01:29:30] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:29:37] INFO: Eliminada película Náufrago de la base de datos.
+[2019-03-21 01:29:41] INFO: Eliminada película Mad Max: Furia na estrada de la base de datos.
+[2019-03-21 01:29:53] : ----------------------------------------------------------
+[2019-03-21 01:29:53] INFO: Programa ejecutado.
+[2019-03-21 01:29:53] INFO: Base de datos cargada, hay 13 películas.
+[2019-03-21 01:29:53] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:30:36] INFO: Añadida película "Mad Max: Salvajes de autopista" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:30:39] INFO: Añadida película "Mad Max 2: El guerrero de la carretera" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:10] : ----------------------------------------------------------
+[2019-03-21 01:31:10] INFO: Programa ejecutado.
+[2019-03-21 01:31:10] INFO: Base de datos cargada, hay 15 películas.
+[2019-03-21 01:31:10] INFO: Copia de seguridad automática realizada.
+[2019-03-21 01:31:20] INFO: Eliminada película Mad Max: Salvajes de autopista de la base de datos.
+[2019-03-21 01:31:22] INFO: Eliminada película Mad Max 2: El guerrero de la carretera de la base de datos.
+[2019-03-21 01:31:31] INFO: Añadida película "Mad Max: Salvajes de autopista" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:35] INFO: Añadida película "Mad Max 2: El guerrero de la carretera" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:39] INFO: Añadida película "Mad Max: Más allá de la cúpula del trueno" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:41] INFO: Añadida película "Arma letal 2" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:44] INFO: Añadida película "Arma letal" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:47] INFO: Añadida película "Arma letal 4" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:50] INFO: Añadida película "Arma letal 3" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:53] INFO: Añadida película "Mad Max: Furia na estrada" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:55] INFO: Añadida película "28 días después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:31:58] INFO: Añadida película "28 semanas después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:00] INFO: Añadida película "Náufrago" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:00] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:32:40] INFO: Añadida película "Mad Max: Salvajes de autopista" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:44] INFO: Añadida película "Mad Max 2: El guerrero de la carretera" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:46] INFO: Añadida película "Mad Max: Más allá de la cúpula del trueno" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:48] INFO: Añadida película "Arma letal 2" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:50] INFO: Añadida película "Arma letal" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:52] INFO: Añadida película "Arma letal 4" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:54] INFO: Añadida película "Arma letal 3" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:57] INFO: Añadida película "Mad Max: Furia na estrada" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:32:59] INFO: Añadida película "28 días después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:33:02] INFO: Añadida película "28 semanas después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:33:04] INFO: Añadida película "Náufrago" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 01:33:04] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 01:34:21] INFO: Eliminada película Matrix Reloaded de la base de datos.
+[2019-03-21 01:34:24] INFO: Eliminada película El padrino de la base de datos.
+[2019-03-21 18:38:15] : ----------------------------------------------------------
+[2019-03-21 18:38:15] INFO: Programa ejecutado.
+[2019-03-21 18:38:15] INFO: Base de datos cargada, hay 33 películas.
+[2019-03-21 18:38:15] INFO: Copia de seguridad automática realizada.
+[2019-03-21 18:48:46] ERROR: Realizando una búsqueda dual en internet.
+[2019-03-21 18:49:13] : ----------------------------------------------------------
+[2019-03-21 18:49:13] INFO: Programa ejecutado.
+[2019-03-21 18:49:13] INFO: Base de datos cargada, hay 33 películas.
+[2019-03-21 18:49:13] INFO: Copia de seguridad automática realizada.
+[2019-03-21 18:50:11] : ----------------------------------------------------------
+[2019-03-21 18:50:11] INFO: Programa ejecutado.
+[2019-03-21 18:50:11] INFO: Base de datos cargada, hay 33 películas.
+[2019-03-21 18:50:11] INFO: Copia de seguridad automática realizada.
+[2019-03-21 18:50:23] INFO: La película Arma letal ya está en la lista.
+[2019-03-21 18:50:35] INFO: Añadida película "Arma letal" (ID 0068646 en imdb) a la base de datos.
+[2019-03-21 22:44:23] : ----------------------------------------------------------
+[2019-03-21 22:44:23] INFO: Programa ejecutado.
+[2019-03-21 22:44:23] INFO: Base de datos cargada, hay 34 películas.
+[2019-03-21 22:44:23] INFO: Copia de seguridad automática realizada.
+[2019-03-21 22:44:29] INFO: La película Arma letal ya está en la lista (Índices [15, 26, 33, 16, 27]).
+[2019-03-21 22:45:37] INFO: La película Arma letal ya está en la lista (Índices [15, 26, 33, 16, 27]).
+[2019-03-21 22:46:21] INFO: La película Arma letal ya está en la lista (Índices [15, 26, 33]).
+[2019-03-21 23:20:31] : ----------------------------------------------------------
+[2019-03-21 23:20:31] INFO: Programa ejecutado.
+[2019-03-21 23:20:31] INFO: Base de datos cargada, hay 34 películas.
+[2019-03-21 23:20:31] INFO: Copia de seguridad automática realizada.
+[2019-03-21 23:20:34] ERROR: Cargando la base de datos desde EMBD, el fichero no existe.
+[2019-03-21 23:23:49] : ----------------------------------------------------------
+[2019-03-21 23:23:49] INFO: Programa ejecutado.
+[2019-03-21 23:23:49] INFO: Base de datos cargada, hay 34 películas.
+[2019-03-21 23:23:49] INFO: Copia de seguridad automática realizada.
+[2019-03-21 23:23:50] ERROR: Cargando la base de datos desde EMBD, el fichero no existe.
+[2019-03-21 23:23:50] INFO: Base de datos de EMDB cargada, hay 0 películas.
+[2019-03-21 23:24:16] INFO: La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 11, 22)
+[2019-03-21 23:24:16] INFO: La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 12, 23)
+[2019-03-21 23:24:16] ERROR: Cargando la base de datos desde EMDB.
+[2019-03-21 23:24:33] : ----------------------------------------------------------
+[2019-03-21 23:24:33] INFO: Programa ejecutado.
+[2019-03-21 23:24:33] INFO: Base de datos cargada, hay 34 películas.
+[2019-03-21 23:24:33] INFO: Copia de seguridad automática realizada.
+[2019-03-21 23:24:35] INFO: La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 11, 22)
+[2019-03-21 23:24:35] INFO: La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 12, 23)
+[2019-03-21 23:36:59] INFO: La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 11, 22)
+[2019-03-21 23:36:59] INFO: La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 12, 23)
+[2019-03-21 23:40:43] : ----------------------------------------------------------
+[2019-03-21 23:40:43] INFO: Programa ejecutado.
+[2019-03-21 23:40:43] INFO: Base de datos cargada, hay 34 películas.
+[2019-03-21 23:40:43] INFO: Copia de seguridad automática realizada.
+[2019-03-21 23:40:46] INFO: La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 11, 22)
+[2019-03-21 23:40:46] INFO: La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 12, 23)
+[2019-03-21 23:43:19] : ----------------------------------------------------------
+[2019-03-21 23:43:19] INFO: Programa ejecutado.
+[2019-03-21 23:43:19] INFO: Base de datos cargada, hay 34 películas.
+[2019-03-21 23:43:19] INFO: Copia de seguridad automática realizada.
+[2019-03-21 23:43:20] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 11, 22)
+[2019-03-21 23:43:20] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 12, 23)
+[2019-03-21 23:43:20] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 13, 24)
+[2019-03-21 23:43:20] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 14, 25)
+[2019-03-21 23:43:20] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 15, 26, 33)
+[2019-03-21 23:43:20] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 16, 27)
+[2019-03-21 23:43:20] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 17, 28)
+[2019-03-21 23:43:20] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 18, 29)
+[2019-03-21 23:43:20] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 19, 30)
+[2019-03-21 23:43:20] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 20, 31)
+[2019-03-21 23:43:20] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 21, 32)
+[2019-03-21 23:43:20] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-21 23:56:54] : ----------------------------------------------------------
+[2019-03-21 23:56:54] INFO: Programa ejecutado.
+[2019-03-21 23:56:54] INFO: Base de datos cargada, hay 34 películas.
+[2019-03-21 23:56:54] INFO: Copia de seguridad automática realizada.
+[2019-03-21 23:57:19] INFO: Eliminada película Truman Capote de la base de datos.
+[2019-03-21 23:58:25] : ----------------------------------------------------------
+[2019-03-21 23:58:25] INFO: Programa ejecutado.
+[2019-03-21 23:58:25] INFO: Base de datos cargada, hay 28 películas.
+[2019-03-21 23:58:25] INFO: Copia de seguridad automática realizada.
+[2019-03-21 23:58:32] INFO: Eliminadas películas 0 a 4 de la base de datos.
+[2019-03-21 23:58:41] INFO: Eliminadas películas 0 a 4 de la base de datos.
+[2019-03-22 00:00:02] INFO: Eliminadas películas 0 a 17 de la base de datos.
+[2019-03-22 00:00:11] INFO: Añadida película "Mad Max: Salvajes de autopista" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:13] INFO: Añadida película "Mad Max 2: El guerrero de la carretera" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:15] INFO: Añadida película "Mad Max: Más allá de la cúpula del trueno" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:17] INFO: Añadida película "Arma letal 2" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:19] INFO: Añadida película "Arma letal" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:21] INFO: Añadida película "Arma letal 4" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:23] INFO: Añadida película "Arma letal 3" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:27] INFO: Añadida película "Mad Max: Furia na estrada" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:29] INFO: Añadida película "28 días después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:31] INFO: Añadida película "28 semanas después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:33] INFO: Añadida película "Náufrago" (ID 0068646 en imdb) a la base de datos.
+[2019-03-22 00:00:33] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-22 22:18:29] : ----------------------------------------------------------
+[2019-03-22 22:18:29] INFO: Programa ejecutado.
+[2019-03-22 22:18:29] INFO: Base de datos cargada, hay 11 películas.
+[2019-03-22 22:18:29] INFO: Copia de seguridad automática realizada.
+[2019-03-22 22:18:31] ERROR: Cargando la base de datos desde EMBD, el fichero no existe.
+[2019-03-22 22:18:31] INFO: Base de datos de EMDB cargada, hay 0 películas.
+[2019-03-22 22:18:47] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-22 22:21:12] : ----------------------------------------------------------
+[2019-03-22 22:21:12] INFO: Programa ejecutado.
+[2019-03-22 22:21:12] INFO: Base de datos cargada, hay 11 películas.
+[2019-03-22 22:21:12] INFO: Copia de seguridad automática realizada.
+[2019-03-22 22:21:15] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-22 23:29:03] : ----------------------------------------------------------
+[2019-03-22 23:29:03] INFO: Programa ejecutado.
+[2019-03-22 23:29:03] INFO: Base de datos cargada, hay 11 películas.
+[2019-03-22 23:29:03] INFO: Copia de seguridad automática realizada.
+[2019-03-22 23:31:45] INFO: Base de datos de EMDB cargada, hay 1467 películas.
+[2019-03-23 20:43:40] : ----------------------------------------------------------
+[2019-03-23 20:43:40] INFO: Programa ejecutado.
+[2019-03-23 20:43:40] INFO: Base de datos cargada, hay 11 películas.
+[2019-03-23 20:43:40] INFO: Copia de seguridad automática realizada.
+[2019-03-23 20:54:51] INFO: Añadida película "Matrix" (ID 0133093 en imdb) a la base de datos.
+[2019-03-23 21:30:51] : ----------------------------------------------------------
+[2019-03-23 21:30:51] INFO: Programa ejecutado.
+[2019-03-23 21:30:51] INFO: Base de datos cargada, hay 12 películas.
+[2019-03-23 21:30:51] INFO: Copia de seguridad automática realizada.
+[2019-03-23 21:31:43] INFO: Eliminadas películas 0 a 11 de la base de datos.
+[2019-03-23 21:32:01] : ----------------------------------------------------------
+[2019-03-23 21:32:01] INFO: Programa ejecutado.
+[2019-03-23 21:32:01] INFO: Base de datos cargada, hay 0 películas.
+[2019-03-23 21:32:01] INFO: Copia de seguridad automática realizada.
+[2019-03-23 21:32:05] ERROR: Cargando la base de datos desde EMBD, el fichero no existe.
+[2019-03-23 21:32:05] INFO: Base de datos de EMDB cargada, hay 0 películas.
+[2019-03-23 21:32:22] INFO: Añadida película "Mad Max: Salvajes de autopista" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:25] INFO: Añadida película "Mad Max 2: El guerrero de la carretera" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:27] INFO: Añadida película "Mad Max: Más allá de la cúpula del trueno" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:30] INFO: Añadida película "Arma letal 2" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:32] INFO: Añadida película "Arma letal" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:35] INFO: Añadida película "Arma letal 4" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:37] INFO: Añadida película "Arma letal 3" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:41] INFO: Añadida película "Mad Max: Furia na estrada" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:43] INFO: Añadida película "28 días después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:45] INFO: Añadida película "28 semanas después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:48] INFO: Añadida película "Náufrago" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:50] INFO: Añadida película "The Lovely Bones" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:53] INFO: Añadida película "Somos los Miller" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:55] INFO: Añadida película "Deep Impact" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:57] INFO: Añadida película "Fuga de Alcatraz" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:32:58] INFO: Añadida película "Jennifer 8" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:33:01] INFO: Añadida película "El pacto" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:33:04] INFO: Añadida película "El renacido" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:34:05] ERROR: Añadiendo película a la base de datos.
+[2019-03-23 21:34:08] INFO: Añadida película "2001: Una odisea del espacio" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:34:11] INFO: Añadida película "El resplandor" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:34:11] INFO: Base de datos de EMDB cargada, hay 21 películas.
+[2019-03-23 21:41:53] : ----------------------------------------------------------
+[2019-03-23 21:41:53] INFO: Programa ejecutado.
+[2019-03-23 21:41:53] INFO: Base de datos cargada, hay 20 películas.
+[2019-03-23 21:41:53] INFO: Copia de seguridad automática realizada.
+[2019-03-23 21:43:59] INFO: Añadida película "La evasión" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:46:05] INFO: Eliminadas películas 0 a 20 de la base de datos.
+[2019-03-23 21:46:21] : ----------------------------------------------------------
+[2019-03-23 21:46:21] INFO: Programa ejecutado.
+[2019-03-23 21:46:21] INFO: Base de datos cargada, hay 0 películas.
+[2019-03-23 21:46:21] INFO: Copia de seguridad automática realizada.
+[2019-03-23 21:46:23] ERROR: Cargando la base de datos desde EMDB.
+[2019-03-23 21:46:36] ERROR: Cargando la base de datos desde EMDB.
+[2019-03-23 21:46:38] : ----------------------------------------------------------
+[2019-03-23 21:46:38] INFO: Programa ejecutado.
+[2019-03-23 21:46:38] INFO: Base de datos cargada, hay 0 películas.
+[2019-03-23 21:46:38] INFO: Copia de seguridad automática realizada.
+[2019-03-23 21:46:42] INFO: Añadida película "La evasión" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:46:46] INFO: Añadida película "2001: Una odisea del espacio" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:46:46] INFO: Base de datos de EMDB cargada, hay 2 películas.
+[2019-03-23 21:47:10] INFO: Eliminadas películas 0 a 1 de la base de datos.
+[2019-03-23 21:47:22] : ----------------------------------------------------------
+[2019-03-23 21:47:22] INFO: Programa ejecutado.
+[2019-03-23 21:47:22] INFO: Base de datos cargada, hay 0 películas.
+[2019-03-23 21:47:22] INFO: Copia de seguridad automática realizada.
+[2019-03-23 21:47:28] INFO: Añadida película "Mad Max: Salvajes de autopista" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:31] INFO: Añadida película "Mad Max 2: El guerrero de la carretera" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:33] INFO: Añadida película "Mad Max: Más allá de la cúpula del trueno" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:35] INFO: Añadida película "Arma letal 2" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:37] INFO: Añadida película "Arma letal" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:39] INFO: Añadida película "Arma letal 4" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:41] INFO: Añadida película "Arma letal 3" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:46] INFO: Añadida película "Mad Max: Furia na estrada" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:48] INFO: Añadida película "28 días después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:50] INFO: Añadida película "28 semanas después" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:52] INFO: Añadida película "Náufrago" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:54] INFO: Añadida película "The Lovely Bones" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:57] INFO: Añadida película "Somos los Miller" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:47:59] INFO: Añadida película "Deep Impact" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:48:01] INFO: Añadida película "Fuga de Alcatraz" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:48:03] INFO: Añadida película "Jennifer 8" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:48:05] INFO: Añadida película "El pacto" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:48:08] INFO: Añadida película "El renacido" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:48:09] INFO: Añadida película "La evasión" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:48:12] INFO: Añadida película "2001: Una odisea del espacio" (ID 0068646 en imdb) a la base de datos.
+[2019-03-23 21:48:12] INFO: Base de datos de EMDB cargada, hay 20 películas.
+[2019-03-24 22:37:14] : ----------------------------------------------------------
+[2019-03-24 22:37:14] INFO: Programa ejecutado.
+[2019-03-24 22:37:14] INFO: Base de datos cargada, hay 20 películas.
+[2019-03-24 22:37:14] INFO: Copia de seguridad automática realizada.
+[2019-03-24 22:37:39] : ----------------------------------------------------------
+[2019-03-24 22:37:39] INFO: Programa ejecutado.
+[2019-03-24 22:37:39] INFO: Base de datos cargada, hay 20 películas.
+[2019-03-24 22:37:39] INFO: Copia de seguridad automática realizada.
+[2019-03-24 22:37:45] ERROR: Cargando la base de datos desde EMBD, el fichero no existe.
+[2019-03-24 22:37:45] INFO: Base de datos de EMDB cargada, hay 0 películas.
+[2019-03-24 22:38:00] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-03-24 22:38:00] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-03-24 22:38:00] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-03-24 22:38:00] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-03-24 22:38:00] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-03-24 22:38:00] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-03-24 22:38:00] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-03-24 22:38:00] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-03-24 22:38:00] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-03-24 22:38:00] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-03-24 22:38:00] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-03-24 22:38:00] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-03-24 22:38:00] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-03-24 22:38:00] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-03-24 22:38:00] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-03-24 22:38:00] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-03-24 22:38:00] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-03-24 22:38:00] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-03-24 22:38:00] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-03-24 22:38:00] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-03-24 22:38:04] INFO: Añadida película "El resplandor" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:08] INFO: Añadida película "La naranja mecánica" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:11] INFO: Añadida película "La chaqueta metálica" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:14] INFO: Añadida película "Cube" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:16] INFO: Añadida película "Cube 2: Hypercube" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:18] INFO: Añadida película "Cube Zero" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:20] INFO: Añadida película "9 extraños" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:22] INFO: Añadida película "La celda" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:24] INFO: Añadida película "La mosca" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:26] INFO: Añadida película "Breathing Room" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:28] INFO: Añadida película "El regreso de la mosca" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:30] INFO: Añadida película "La cosa (El enigma de otro mundo)" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:32] INFO: Añadida película "Re-Animator" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:34] INFO: Añadida película "Viscosidad" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:36] INFO: Añadida película "Videodrome" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:38] INFO: Añadida película "Scanners" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:40] INFO: Añadida película "Vinieron de dentro de..." (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:42] INFO: Añadida película "La zona muerta" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:44] INFO: Añadida película "La invasión de los ladrones de cuerpos" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:46] INFO: Añadida película "Inseparables" (ID 0068646 en imdb) a la base de datos.
+[2019-03-24 22:38:46] INFO: Base de datos de EMDB cargada, hay 40 películas.
+[2019-04-15 20:26:18] : ----------------------------------------------------------
+[2019-04-15 20:26:18] INFO: Programa ejecutado.
+[2019-04-15 20:26:18] INFO: Base de datos cargada, hay 40 películas.
+[2019-04-15 20:26:18] INFO: Copia de seguridad automática realizada.
+[2019-04-15 20:26:27] : ----------------------------------------------------------
+[2019-04-15 20:26:27] INFO: Programa ejecutado.
+[2019-04-15 20:26:27] INFO: Base de datos cargada, hay 40 películas.
+[2019-04-15 20:26:27] INFO: Copia de seguridad automática realizada.
+[2019-04-15 20:28:13] : ----------------------------------------------------------
+[2019-04-15 20:28:13] INFO: Programa ejecutado.
+[2019-04-15 20:28:13] INFO: Base de datos cargada, hay 40 películas.
+[2019-04-15 20:28:13] INFO: Copia de seguridad automática realizada.
+[2019-04-15 20:30:17] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-04-15 20:30:17] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-04-15 20:30:45] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-04-15 20:30:45] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-04-15 20:31:04] : ----------------------------------------------------------
+[2019-04-15 20:31:04] INFO: Programa ejecutado.
+[2019-04-15 20:31:04] INFO: Base de datos cargada, hay 40 películas.
+[2019-04-15 20:31:04] INFO: Copia de seguridad automática realizada.
+[2019-04-15 20:31:06] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-04-15 20:31:06] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-04-15 22:54:03] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-04-15 22:54:03] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-04-15 23:08:22] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-04-15 23:08:22] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-04-15 23:08:31] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-04-15 23:08:31] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-05-10 19:30:48] : ----------------------------------------------------------
+[2019-05-10 19:30:48] INFO: Programa ejecutado.
+[2019-05-10 19:30:48] INFO: Base de datos cargada, hay 40 películas.
+[2019-05-10 19:30:48] INFO: Copia de seguridad automática realizada.
+[2019-05-10 19:34:47] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-05-10 19:34:47] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-05-10 19:35:24] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-05-10 19:35:24] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-05-10 19:35:33] ERROR: Exportando la base de datos. El preset debe ser 'minimal', 'simple', 'normal' o 'complete'.
+[2019-05-10 19:35:33] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-05-10 20:25:59] : ----------------------------------------------------------
+[2019-05-10 20:26:00] INFO: Programa ejecutado.
+[2019-05-10 20:26:00] INFO: Base de datos cargada, hay 40 películas.
+[2019-05-10 20:26:00] INFO: Copia de seguridad automática realizada.
+[2019-05-10 20:53:10] : ----------------------------------------------------------
+[2019-05-10 20:53:10] INFO: Programa ejecutado.
+[2019-05-10 20:53:10] INFO: Base de datos cargada, hay 40 películas.
+[2019-05-10 20:53:10] INFO: Copia de seguridad automática realizada.
+[2019-05-10 20:53:57] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.

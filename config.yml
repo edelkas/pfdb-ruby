@@ -1,0 +1,17 @@
+production:
+  database: pfdb.db
+  json: pfdb.json
+  language: ES
+  webs: IMDB, FilmAffinity
+  autolog: true
+  autosave: true
+  autobackup: true
+  autoclean: false
+  cast_amount: 20
+  cast_list: 10
+  search_limit: 20
+  list_limit: 20
+  list_separation: 5
+  movie_card_width: 120
+  movie_card_field_length_limit: 600
+  imgur_id:
