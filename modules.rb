@@ -451,8 +451,12 @@ class Movie
       budget: 0,
       gross: 0,
       relations: {},
-      reasons: [],
-      prizes: {},
+      prizes: { oscars: {},
+                golden_globes: {},
+                baftas: {},
+                goyas: {},
+                grammys: {},
+                writers_guild: {} },
       rating: { imdb: 0.0,
                 filmaffinity: 0.0 },
       votes: { imdb: 0,
@@ -460,7 +464,9 @@ class Movie
       ranking: { imdb: 0,
                  filmaffinity: 0 },
       dates: { added: Time.now.strftime("%Y-%m-%d"),
-               viewed: [] }
+               viewed: [] },
+      personal_comment: "",
+      personal_rating: 0.0
     }
   end
 

@@ -1,5 +1,4 @@
 production:
-  database: pfdb.db
   json: pfdb.json
   language: ES
   webs: IMDB, FilmAffinity

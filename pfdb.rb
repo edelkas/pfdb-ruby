@@ -186,7 +186,7 @@ def log(type, text, output = true)
     begin
       File.file?("log.txt") ? FileUtils.cp("log.txt", "log_backup.txt") : new_log = true
       File.open("log.txt", "a") do |f|
-        f.write(message("info", "Creado nuevo fichero de log de PMDB, versión v1.0.\n\n")) if new_log
+        f.write(message("info", "Creado nuevo fichero de log de PFDB, versión v1.0.\n\n")) if new_log
         f.write(message(type, text))
       end
     rescue
@@ -451,6 +451,11 @@ def autoclean
   clean if CONFIG['autoclean']
 end
 
+# TODO: Complete this
+def rate
+
+end
+
 # Methods for viewing the database
 
 def multirow(text: "", cols: 1, length: 10)
@@ -615,7 +620,7 @@ rescue
   log("ERROR", "Filtrando la base de datos.")
 end
 
-def prizes_movie(movie)
+def awards_movie(movie)
   table = Text::Table.new
   titulo = movie[:title].truncate(40).upcase + " ("
   titulo << [movie[:original_title].truncate(40), movie[:year], movie[:directors].join(", ").truncate(40)].reject{ |s| s.blank? }.join(", ") + ")"
@@ -634,17 +639,17 @@ def prizes_movie(movie)
   print(table)
 end
 
-def prizes(movie)
+def awards(movie)
   if movie.is_a?(Integer)
     if movie > -1 && movie < $movies.count
-      prizes_movie($movies[movie])
+      awards_movie($movies[movie])
     else
       print("ERROR: ID incorrecta.")
     end
   else
     if movie.is_a?(String)
       movie = $movies.each_with_index.select{ |m, i| m[:title] =~ /#{movie}/i }
-      !movie.blank? ? (movie.count > 1 ? list(set: movie) : prizes_movie(movie[0])) : print("No se encontró ningún resultado.")
+      !movie.blank? ? (movie.count > 1 ? list(set: movie) : awards_movie(movie[0])) : print("No se encontró ningún resultado.")
     else
       raise
     end
@@ -653,22 +658,23 @@ rescue
   log("ERROR", "Buscando premios de una película en la base de datos.")
 end
 
-def add_reason(index, *reasons) # TODO: Terminar y testear este metodo, añadir mas razones
+# TODO: Reelaborar todo esto del comment.
+def add_comment(index, *reasons) # TODO: Terminar y testear este metodo, añadir mas razones
   movie = $movies[index]
   reasons.each{ |reason|
     if reason.is_a?(String)
       case reason
-      when reason =~ /premi/i || reason =~ /oscar/i then movie[:reasons] << :premiada
-      when reason =~ /relevancia/i || reason =~ /hist.ri/i || reason =~ /cultura/i then movie[:reasons] << :relevante
-      when reason =~ /personal/i then movie[:reasons] << :personal
-      else movie[:reasons] << reason end
+      when reason =~ /premi/i || reason =~ /oscar/i then movie[:personal_comment] << :premiada
+      when reason =~ /relevancia/i || reason =~ /hist.ri/i || reason =~ /cultura/i then movie[:personal_comment] << :relevante
+      when reason =~ /personal/i then movie[:personal_comment] << :personal
+      else movie[:personal_comment] << reason end
     else
       print("ERROR: Cada razón debe ser una cadena de texto.")
     end
   }
 end
 
-def reasons(index) # TODO: Elaborar este metodo
+def comment(index) # TODO: Elaborar este metodo
 
 end
 
@@ -676,7 +682,7 @@ def startup
   log("", "----------------------------------------------------------", false)
   print("\n")
   print(format_time + "x============================x===========================x\n")
-  print(format_time + "|                       PMDB v1.0                        |\n")
+  print(format_time + "|                       PFDB v1.0                        |\n")
   print(format_time + "x============================x===========================x\n")
   log("INFO", "Programa ejecutado.")
   access
