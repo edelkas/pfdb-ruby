@@ -83,7 +83,7 @@ end
 
 def emdb(emdb_filename = "emdb.dat")
   backup_name = backup
-  $films = File.file?(emdb_filename) ? File.binread(emdb_filename).scan(/./).delete_if{ |s| s == "\x00" }.join.split("\x0D\x1D\x0D") : []
+  $films = File.file?(emdb_filename) ? File.binread(emdb_filename).scan(/./).delete_if{ |s| s == "\x00" }.join.encode("utf-8", "iso-8859-1").split("\x0D\x1D\x0D") : []
   if $films.blank?
     log("ERROR", "Cargando la base de datos desde EMBD, el fichero no existe.")
   else
@@ -91,7 +91,7 @@ def emdb(emdb_filename = "emdb.dat")
     $names = $names.split("]")[1..-2].map{ |s| s.split("[")[0].split("\r").delete_if{ |r| r.blank? } }
     $names = {actors: $names[0], directors: $names[1], writers: $names[2], composers: $names[3]}
     $films = $films[1..-2].map{ |s| s.split("\x1E") }
-    $films = $films[0..39].map{ |s|
+    $films = $films.map{ |s|
       {
         title: s[0].to_s,
         original_title: s[1].to_s,
@@ -165,7 +165,7 @@ def emdb(emdb_filename = "emdb.dat")
             log("INFO", "EMDB - La película %s ya está en la base de datos (Índices %s)" % [matches[0][0][:title], matches.map{ |s, i| i }.join(", ")])
           end
         else
-          log("ERROR", "EMDB - Problema cargando película %s índice %i" % [f[:title], f[:emdb_id]])
+          log("ERROR", "EMDB - Problema cargando película %s (Índice %i)" % [f[:title], f[:emdb_id]])
         end
       else
         log("INFO", "EMDB - La película %s ya está en la base de datos (Índices %s)" % [matches[0][0][:title], matches.map{ |s, i| i }.join(", ")])
@@ -202,7 +202,7 @@ def log(type, text, output = true)
 end
 
 # TODO: Completar añadiendo mas formatos, quiza añadir separaciones no printables para mayor seguridad, quiza añadir mas estilos (tipo tabla, ascii art, etc)
-# NOTA: La sinopsis entre 3 dobles comillas, como hay comas separamos con puntos y comas
+# TODO: Refactor by making each case add on to the previous one instead of repeating
 def export(preset: :normal, output: :csv, style: :text)
   preset = preset.to_sym
   output = output.to_sym
@@ -301,7 +301,8 @@ def add_movie(id: "0068646", web: :imdb, dual: false, idImdb: "0068646", idFilmA
   movie = !dual ? Movie.new(id: id, web: web) : Movie.new(idImdb: idImdb, idFilmAffinity: idFilmAffinity, dual: true)
   $movies << movie.to_hash if !movie.nil?
   save if CONFIG['autosave']
-  log("info", "Añadida película \"%s\" (ID %s en %s) a la base de datos." % [movie.to_hash[:title], id, web.to_s])
+  id_string = !dual ? "ID %s en %s" % [id, web.to_s] : "ID %s en IMDb, ID %s en FilmAffinity" % [idImdb, idFilmAffinity]
+  log("info", "Añadida película \"%s\" (%s) a la base de datos." % [movie.to_hash[:title], id_string])
 rescue
   log("ERROR", "Añadiendo película a la base de datos.")
 end

@@ -1752,3 +1752,353 @@
 [2019-05-10 20:53:10] INFO: Base de datos cargada, hay 40 películas.
 [2019-05-10 20:53:10] INFO: Copia de seguridad automática realizada.
 [2019-05-10 20:53:57] ERROR: Exportando la base de datos. El formato debe ser 'csv' o 'txt'.
+[2019-05-14 20:37:55] : ----------------------------------------------------------
+[2019-05-14 20:37:55] INFO: Programa ejecutado.
+[2019-05-14 20:37:55] INFO: Base de datos cargada, hay 40 películas.
+[2019-05-14 20:37:55] INFO: Copia de seguridad automática realizada.
+[2019-05-14 20:38:21] ERROR: Listando las películas de la base de datos.
+[2019-05-14 21:21:13] : ----------------------------------------------------------
+[2019-05-14 21:21:13] INFO: Programa ejecutado.
+[2019-05-14 21:21:13] INFO: Base de datos cargada, hay 40 películas.
+[2019-05-14 21:21:13] INFO: Copia de seguridad automática realizada.
+[2019-05-14 21:21:42] : ----------------------------------------------------------
+[2019-05-14 21:21:42] INFO: Programa ejecutado.
+[2019-05-14 21:21:42] INFO: Base de datos cargada, hay 40 películas.
+[2019-05-14 21:21:42] INFO: Copia de seguridad automática realizada.
+[2019-05-14 21:21:50] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-05-14 21:21:50] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-05-14 21:21:50] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-05-14 21:21:50] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-05-14 21:21:50] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-05-14 21:21:50] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-05-14 21:21:50] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-05-14 21:21:50] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-05-14 21:21:50] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-05-14 21:21:50] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-05-14 21:21:50] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-05-14 21:21:50] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-05-14 21:21:50] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-05-14 21:21:50] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-05-14 21:21:50] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-05-14 21:21:50] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-05-14 21:21:50] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-05-14 21:21:50] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-05-14 21:21:50] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-05-14 21:21:50] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-05-14 21:21:50] INFO: EMDB - La película El resplandor ya está en la base de datos (Índices 20)
+[2019-05-14 21:21:50] INFO: EMDB - La película La naranja mecánica ya está en la base de datos (Índices 21)
+[2019-05-14 21:21:50] INFO: EMDB - La película La chaqueta metálica ya está en la base de datos (Índices 22)
+[2019-05-14 21:21:50] INFO: EMDB - La película Cube ya está en la base de datos (Índices 23)
+[2019-05-14 21:21:50] INFO: EMDB - La película Cube 2: Hypercube ya está en la base de datos (Índices 24)
+[2019-05-14 21:21:50] INFO: EMDB - La película Cube Zero ya está en la base de datos (Índices 25)
+[2019-05-14 21:21:50] INFO: EMDB - La película 9 extraños ya está en la base de datos (Índices 26)
+[2019-05-14 21:21:50] INFO: EMDB - La película La celda ya está en la base de datos (Índices 27)
+[2019-05-14 21:21:50] INFO: EMDB - La película La mosca ya está en la base de datos (Índices 28)
+[2019-05-14 21:21:50] INFO: EMDB - La película Breathing Room ya está en la base de datos (Índices 29)
+[2019-05-14 21:21:50] INFO: EMDB - La película El regreso de la mosca ya está en la base de datos (Índices 30)
+[2019-05-14 21:21:50] INFO: EMDB - La película La cosa (El enigma de otro mundo) ya está en la base de datos (Índices 31)
+[2019-05-14 21:21:50] INFO: EMDB - La película Re-Animator ya está en la base de datos (Índices 32)
+[2019-05-14 21:21:50] INFO: EMDB - La película Viscosidad ya está en la base de datos (Índices 33)
+[2019-05-14 21:21:50] INFO: EMDB - La película Videodrome ya está en la base de datos (Índices 34)
+[2019-05-14 21:21:50] INFO: EMDB - La película Scanners ya está en la base de datos (Índices 35)
+[2019-05-14 21:21:50] INFO: EMDB - La película Vinieron de dentro de... ya está en la base de datos (Índices 36)
+[2019-05-14 21:21:50] INFO: EMDB - La película La zona muerta ya está en la base de datos (Índices 37)
+[2019-05-14 21:21:50] INFO: EMDB - La película La invasión de los ladrones de cuerpos ya está en la base de datos (Índices 38)
+[2019-05-14 21:21:50] INFO: EMDB - La película Inseparables ya está en la base de datos (Índices 39)
+[2019-05-14 21:21:53] INFO: Añadida película "La matanza de Texas" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:21:56] INFO: Añadida película "La noche de los muertos vivientes" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:21:56] ERROR: EMDB - Problema cargando película El motel del infierno índice 45
+[2019-05-14 21:21:58] INFO: Añadida película "Colinas sangrientas (Video 2009)" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:00] INFO: Añadida película "Los extraños" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:02] INFO: Añadida película "Navidades negras" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:04] INFO: Añadida película "Noche de paz, noche de muerte" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:06] INFO: Añadida película "Cumpleaños mortal" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:09] INFO: Añadida película "Prom Night. Llamadas de terror" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:11] INFO: Añadida película "San Valentín sangriento" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:13] INFO: Añadida película "Solos en la oscuridad" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:15] INFO: Añadida película "Posesión infernal" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:17] INFO: Añadida película "Terroríficamente muertos" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:20] INFO: Añadida película "El ejército de las tinieblas" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:22] INFO: Añadida película "El cortador de césped" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:24] INFO: Añadida película "Maniac" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:27] INFO: Añadida película "Maniac Cop" (ID 0068646 en imdb) a la base de datos.
+[2019-05-14 21:22:27] ERROR: EMDB - Problema cargando película Living Dead 2: Dawn of the dead índice 60
+[2019-05-14 21:22:27] ERROR: Cargando la base de datos desde EMDB.
+[2019-05-14 21:54:38] : ----------------------------------------------------------
+[2019-05-14 21:54:38] INFO: Programa ejecutado.
+[2019-05-14 21:54:38] INFO: Base de datos cargada, hay 56 películas.
+[2019-05-14 21:54:38] INFO: Copia de seguridad automática realizada.
+[2019-05-14 21:54:41] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-05-14 21:54:41] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-05-14 21:54:41] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-05-14 21:54:41] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-05-14 21:54:41] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-05-14 21:54:41] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-05-14 21:54:41] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-05-14 21:54:41] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-05-14 21:54:41] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-05-14 21:54:41] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-05-14 21:54:41] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-05-14 21:54:41] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-05-14 21:54:41] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-05-14 21:54:41] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-05-14 21:54:41] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-05-14 21:54:41] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-05-14 21:54:41] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-05-14 21:54:41] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-05-14 21:54:41] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-05-14 21:54:41] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-05-14 21:54:41] INFO: EMDB - La película El resplandor ya está en la base de datos (Índices 20)
+[2019-05-14 21:54:41] INFO: EMDB - La película La naranja mecánica ya está en la base de datos (Índices 21)
+[2019-05-14 21:54:41] INFO: EMDB - La película La chaqueta metálica ya está en la base de datos (Índices 22)
+[2019-05-14 21:54:41] INFO: EMDB - La película Cube ya está en la base de datos (Índices 23)
+[2019-05-14 21:54:41] INFO: EMDB - La película Cube 2: Hypercube ya está en la base de datos (Índices 24)
+[2019-05-14 21:54:41] INFO: EMDB - La película Cube Zero ya está en la base de datos (Índices 25)
+[2019-05-14 21:54:41] INFO: EMDB - La película 9 extraños ya está en la base de datos (Índices 26)
+[2019-05-14 21:54:41] INFO: EMDB - La película La celda ya está en la base de datos (Índices 27)
+[2019-05-14 21:54:41] INFO: EMDB - La película La mosca ya está en la base de datos (Índices 28)
+[2019-05-14 21:54:41] INFO: EMDB - La película Breathing Room ya está en la base de datos (Índices 29)
+[2019-05-14 21:54:41] INFO: EMDB - La película El regreso de la mosca ya está en la base de datos (Índices 30)
+[2019-05-14 21:54:41] INFO: EMDB - La película La cosa (El enigma de otro mundo) ya está en la base de datos (Índices 31)
+[2019-05-14 21:54:41] INFO: EMDB - La película Re-Animator ya está en la base de datos (Índices 32)
+[2019-05-14 21:54:41] INFO: EMDB - La película Viscosidad ya está en la base de datos (Índices 33)
+[2019-05-14 21:54:41] INFO: EMDB - La película Videodrome ya está en la base de datos (Índices 34)
+[2019-05-14 21:54:41] INFO: EMDB - La película Scanners ya está en la base de datos (Índices 35)
+[2019-05-14 21:54:41] INFO: EMDB - La película Vinieron de dentro de... ya está en la base de datos (Índices 36)
+[2019-05-14 21:54:41] INFO: EMDB - La película La zona muerta ya está en la base de datos (Índices 37)
+[2019-05-14 21:54:41] INFO: EMDB - La película La invasión de los ladrones de cuerpos ya está en la base de datos (Índices 38)
+[2019-05-14 21:54:41] INFO: EMDB - La película Inseparables ya está en la base de datos (Índices 39)
+[2019-05-14 21:54:41] INFO: EMDB - La película La matanza de Texas ya está en la base de datos (Índices 40)
+[2019-05-14 21:54:41] INFO: EMDB - La película La noche de los muertos vivientes ya está en la base de datos (Índices 41)
+[2019-05-14 21:54:41] ERROR: EMDB - Problema cargando película El motel del infierno (Índice 45)
+[2019-05-14 21:54:41] INFO: EMDB - La película Colinas sangrientas (Video 2009) ya está en la base de datos (Índices 42)
+[2019-05-14 21:54:41] INFO: EMDB - La película Los extraños ya está en la base de datos (Índices 43)
+[2019-05-14 21:54:41] INFO: EMDB - La película Navidades negras ya está en la base de datos (Índices 44)
+[2019-05-14 21:54:41] INFO: EMDB - La película Noche de paz, noche de muerte ya está en la base de datos (Índices 45)
+[2019-05-14 21:54:41] INFO: EMDB - La película Cumpleaños mortal ya está en la base de datos (Índices 46)
+[2019-05-14 21:54:41] INFO: EMDB - La película Prom Night. Llamadas de terror ya está en la base de datos (Índices 47)
+[2019-05-14 21:54:41] INFO: EMDB - La película San Valentín sangriento ya está en la base de datos (Índices 48)
+[2019-05-14 21:54:41] INFO: EMDB - La película Solos en la oscuridad ya está en la base de datos (Índices 49)
+[2019-05-14 21:54:41] INFO: EMDB - La película Posesión infernal ya está en la base de datos (Índices 50)
+[2019-05-14 21:54:41] INFO: EMDB - La película Terroríficamente muertos ya está en la base de datos (Índices 51)
+[2019-05-14 21:54:41] INFO: EMDB - La película El ejército de las tinieblas ya está en la base de datos (Índices 52)
+[2019-05-14 21:54:41] INFO: EMDB - La película El cortador de césped ya está en la base de datos (Índices 53)
+[2019-05-14 21:54:41] INFO: EMDB - La película Maniac ya está en la base de datos (Índices 54)
+[2019-05-14 21:54:41] INFO: EMDB - La película Maniac Cop ya está en la base de datos (Índices 55)
+[2019-05-14 21:54:41] ERROR: EMDB - Problema cargando película Living Dead 2: Dawn of the dead (Índice 60)
+[2019-05-14 21:54:41] ERROR: Cargando la base de datos desde EMDB.
+[2019-05-14 22:10:23] : ----------------------------------------------------------
+[2019-05-14 22:10:23] INFO: Programa ejecutado.
+[2019-05-14 22:10:23] INFO: Base de datos cargada, hay 56 películas.
+[2019-05-14 22:10:23] INFO: Copia de seguridad automática realizada.
+[2019-05-14 22:10:42] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-05-14 22:10:42] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-05-14 22:10:42] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-05-14 22:10:42] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-05-14 22:10:42] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-05-14 22:10:42] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-05-14 22:10:42] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-05-14 22:10:42] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-05-14 22:10:42] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-05-14 22:10:42] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-05-14 22:10:42] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-05-14 22:10:42] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-05-14 22:10:42] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-05-14 22:10:42] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-05-14 22:10:42] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-05-14 22:10:42] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-05-14 22:10:42] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-05-14 22:10:42] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-05-14 22:10:42] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-05-14 22:10:42] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-05-14 22:10:42] INFO: EMDB - La película El resplandor ya está en la base de datos (Índices 20)
+[2019-05-14 22:10:42] INFO: EMDB - La película La naranja mecánica ya está en la base de datos (Índices 21)
+[2019-05-14 22:10:42] INFO: EMDB - La película La chaqueta metálica ya está en la base de datos (Índices 22)
+[2019-05-14 22:10:42] INFO: EMDB - La película Cube ya está en la base de datos (Índices 23)
+[2019-05-14 22:10:42] INFO: EMDB - La película Cube 2: Hypercube ya está en la base de datos (Índices 24)
+[2019-05-14 22:10:42] INFO: EMDB - La película Cube Zero ya está en la base de datos (Índices 25)
+[2019-05-14 22:10:42] INFO: EMDB - La película 9 extraños ya está en la base de datos (Índices 26)
+[2019-05-14 22:10:42] INFO: EMDB - La película La celda ya está en la base de datos (Índices 27)
+[2019-05-14 22:10:42] INFO: EMDB - La película La mosca ya está en la base de datos (Índices 28)
+[2019-05-14 22:10:42] INFO: EMDB - La película Breathing Room ya está en la base de datos (Índices 29)
+[2019-05-14 22:10:42] INFO: EMDB - La película El regreso de la mosca ya está en la base de datos (Índices 30)
+[2019-05-14 22:10:42] INFO: EMDB - La película La cosa (El enigma de otro mundo) ya está en la base de datos (Índices 31)
+[2019-05-14 22:10:42] INFO: EMDB - La película Re-Animator ya está en la base de datos (Índices 32)
+[2019-05-14 22:10:42] INFO: EMDB - La película Viscosidad ya está en la base de datos (Índices 33)
+[2019-05-14 22:10:42] INFO: EMDB - La película Videodrome ya está en la base de datos (Índices 34)
+[2019-05-14 22:10:42] INFO: EMDB - La película Scanners ya está en la base de datos (Índices 35)
+[2019-05-14 22:10:42] INFO: EMDB - La película Vinieron de dentro de... ya está en la base de datos (Índices 36)
+[2019-05-14 22:10:42] INFO: EMDB - La película La zona muerta ya está en la base de datos (Índices 37)
+[2019-05-14 22:10:42] INFO: EMDB - La película La invasión de los ladrones de cuerpos ya está en la base de datos (Índices 38)
+[2019-05-14 22:10:42] INFO: EMDB - La película Inseparables ya está en la base de datos (Índices 39)
+[2019-05-14 22:10:42] INFO: EMDB - La película La matanza de Texas ya está en la base de datos (Índices 40)
+[2019-05-14 22:10:42] INFO: EMDB - La película La noche de los muertos vivientes ya está en la base de datos (Índices 41)
+[2019-05-14 22:10:42] ERROR: EMDB - Problema cargando película El motel del infierno (Índice 45)
+[2019-05-14 22:10:42] INFO: EMDB - La película Colinas sangrientas (Video 2009) ya está en la base de datos (Índices 42)
+[2019-05-14 22:10:42] INFO: EMDB - La película Los extraños ya está en la base de datos (Índices 43)
+[2019-05-14 22:10:42] INFO: EMDB - La película Navidades negras ya está en la base de datos (Índices 44)
+[2019-05-14 22:10:42] INFO: EMDB - La película Noche de paz, noche de muerte ya está en la base de datos (Índices 45)
+[2019-05-14 22:10:42] INFO: EMDB - La película Cumpleaños mortal ya está en la base de datos (Índices 46)
+[2019-05-14 22:10:42] INFO: EMDB - La película Prom Night. Llamadas de terror ya está en la base de datos (Índices 47)
+[2019-05-14 22:10:42] INFO: EMDB - La película San Valentín sangriento ya está en la base de datos (Índices 48)
+[2019-05-14 22:10:42] INFO: EMDB - La película Solos en la oscuridad ya está en la base de datos (Índices 49)
+[2019-05-14 22:10:42] INFO: EMDB - La película Posesión infernal ya está en la base de datos (Índices 50)
+[2019-05-14 22:10:42] INFO: EMDB - La película Terroríficamente muertos ya está en la base de datos (Índices 51)
+[2019-05-14 22:10:42] INFO: EMDB - La película El ejército de las tinieblas ya está en la base de datos (Índices 52)
+[2019-05-14 22:10:42] INFO: EMDB - La película El cortador de césped ya está en la base de datos (Índices 53)
+[2019-05-14 22:10:42] INFO: EMDB - La película Maniac ya está en la base de datos (Índices 54)
+[2019-05-14 22:10:42] INFO: EMDB - La película Maniac Cop ya está en la base de datos (Índices 55)
+[2019-05-14 22:10:42] ERROR: EMDB - Problema cargando película Living Dead 2: Dawn of the dead (Índice 60)
+[2019-05-14 22:48:51] : ----------------------------------------------------------
+[2019-05-14 22:48:51] INFO: Programa ejecutado.
+[2019-05-14 22:48:51] INFO: Base de datos cargada, hay 56 películas.
+[2019-05-14 22:48:51] INFO: Copia de seguridad automática realizada.
+[2019-05-14 22:48:55] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-05-14 22:48:55] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-05-14 22:48:55] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-05-14 22:48:55] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-05-14 22:48:55] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-05-14 22:48:55] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-05-14 22:48:55] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-05-14 22:48:55] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-05-14 22:48:55] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-05-14 22:48:55] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-05-14 22:48:55] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-05-14 22:48:55] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-05-14 22:48:55] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-05-14 22:48:55] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-05-14 22:48:55] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-05-14 22:48:55] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-05-14 22:48:55] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-05-14 22:48:55] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-05-14 22:48:55] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-05-14 22:48:55] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-05-14 22:48:55] INFO: EMDB - La película El resplandor ya está en la base de datos (Índices 20)
+[2019-05-14 22:48:55] INFO: EMDB - La película La naranja mecánica ya está en la base de datos (Índices 21)
+[2019-05-14 22:48:55] INFO: EMDB - La película La chaqueta metálica ya está en la base de datos (Índices 22)
+[2019-05-14 22:48:55] INFO: EMDB - La película Cube ya está en la base de datos (Índices 23)
+[2019-05-14 22:48:55] INFO: EMDB - La película Cube 2: Hypercube ya está en la base de datos (Índices 24)
+[2019-05-14 22:48:55] INFO: EMDB - La película Cube Zero ya está en la base de datos (Índices 25)
+[2019-05-14 22:48:55] INFO: EMDB - La película 9 extraños ya está en la base de datos (Índices 26)
+[2019-05-14 22:48:55] INFO: EMDB - La película La celda ya está en la base de datos (Índices 27)
+[2019-05-14 22:48:55] INFO: EMDB - La película La mosca ya está en la base de datos (Índices 28)
+[2019-05-14 22:48:55] INFO: EMDB - La película Breathing Room ya está en la base de datos (Índices 29)
+[2019-05-14 22:48:55] INFO: EMDB - La película El regreso de la mosca ya está en la base de datos (Índices 30)
+[2019-05-14 22:48:55] INFO: EMDB - La película La cosa (El enigma de otro mundo) ya está en la base de datos (Índices 31)
+[2019-05-14 22:48:55] INFO: EMDB - La película Re-Animator ya está en la base de datos (Índices 32)
+[2019-05-14 22:48:55] INFO: EMDB - La película Viscosidad ya está en la base de datos (Índices 33)
+[2019-05-14 22:48:55] INFO: EMDB - La película Videodrome ya está en la base de datos (Índices 34)
+[2019-05-14 22:48:55] INFO: EMDB - La película Scanners ya está en la base de datos (Índices 35)
+[2019-05-14 22:48:55] INFO: EMDB - La película Vinieron de dentro de... ya está en la base de datos (Índices 36)
+[2019-05-14 22:48:55] INFO: EMDB - La película La zona muerta ya está en la base de datos (Índices 37)
+[2019-05-14 22:48:55] INFO: EMDB - La película La invasión de los ladrones de cuerpos ya está en la base de datos (Índices 38)
+[2019-05-14 22:48:55] INFO: EMDB - La película Inseparables ya está en la base de datos (Índices 39)
+[2019-05-14 22:48:55] INFO: EMDB - La película La matanza de Texas ya está en la base de datos (Índices 40)
+[2019-05-14 22:48:55] INFO: EMDB - La película La noche de los muertos vivientes ya está en la base de datos (Índices 41)
+[2019-05-14 22:48:55] ERROR: EMDB - Problema cargando película El motel del infierno (Índice 45)
+[2019-05-14 22:48:55] INFO: EMDB - La película Colinas sangrientas (Video 2009) ya está en la base de datos (Índices 42)
+[2019-05-14 22:48:55] INFO: EMDB - La película Los extraños ya está en la base de datos (Índices 43)
+[2019-05-14 22:48:55] INFO: EMDB - La película Navidades negras ya está en la base de datos (Índices 44)
+[2019-05-14 22:48:55] INFO: EMDB - La película Noche de paz, noche de muerte ya está en la base de datos (Índices 45)
+[2019-05-14 22:48:55] INFO: EMDB - La película Cumpleaños mortal ya está en la base de datos (Índices 46)
+[2019-05-14 22:48:55] INFO: EMDB - La película Prom Night. Llamadas de terror ya está en la base de datos (Índices 47)
+[2019-05-14 22:48:55] INFO: EMDB - La película San Valentín sangriento ya está en la base de datos (Índices 48)
+[2019-05-14 22:48:55] INFO: EMDB - La película Solos en la oscuridad ya está en la base de datos (Índices 49)
+[2019-05-14 22:48:55] INFO: EMDB - La película Posesión infernal ya está en la base de datos (Índices 50)
+[2019-05-14 22:48:55] INFO: EMDB - La película Terroríficamente muertos ya está en la base de datos (Índices 51)
+[2019-05-14 22:48:55] INFO: EMDB - La película El ejército de las tinieblas ya está en la base de datos (Índices 52)
+[2019-05-14 22:48:55] INFO: EMDB - La película El cortador de césped ya está en la base de datos (Índices 53)
+[2019-05-14 22:48:55] INFO: EMDB - La película Maniac ya está en la base de datos (Índices 54)
+[2019-05-14 22:48:55] INFO: EMDB - La película Maniac Cop ya está en la base de datos (Índices 55)
+[2019-05-14 22:48:55] ERROR: EMDB - Problema cargando película Living Dead 2: Dawn of the dead (Índice 60)
+[2019-05-14 22:48:56] ERROR: EMDB - Problema cargando película Living Dead 3: El d�a de los muertos (Índice 61)
+[2019-05-14 22:48:58] INFO: Añadida película "Creepshow" (ID 0083767 en IMDb, ID 293144 en FilmAffinity) a la base de datos.
+[2019-05-14 22:49:00] INFO: Añadida película "Creepshow 2" (ID 0092796 en IMDb, ID 190952 en FilmAffinity) a la base de datos.
+[2019-05-14 22:49:02] INFO: Añadida película "El asesino de Rosemary" (ID 0082951 en IMDb, ID 284035 en FilmAffinity) a la base de datos.
+[2019-05-14 22:49:04] INFO: Añadida película "El vengador tóxico" (ID 0090190 en IMDb, ID 169593 en FilmAffinity) a la base de datos.
+[2019-05-14 22:49:07] INFO: Añadida película "Poltergeist (Fenómenos extraños)" (ID 0084516 en IMDb, ID 318931 en FilmAffinity) a la base de datos.
+[2019-05-14 22:54:19] : ----------------------------------------------------------
+[2019-05-14 22:54:19] INFO: Programa ejecutado.
+[2019-05-14 22:54:19] INFO: Base de datos cargada, hay 61 películas.
+[2019-05-14 22:54:19] INFO: Copia de seguridad automática realizada.
+[2019-05-15 01:04:18] : ----------------------------------------------------------
+[2019-05-15 01:04:18] INFO: Programa ejecutado.
+[2019-05-15 01:04:18] INFO: Base de datos cargada, hay 61 películas.
+[2019-05-15 01:04:18] INFO: Copia de seguridad automática realizada.
+[2019-05-15 01:10:08] : ----------------------------------------------------------
+[2019-05-15 01:10:08] INFO: Programa ejecutado.
+[2019-05-15 01:10:08] INFO: Base de datos cargada, hay 61 películas.
+[2019-05-15 01:10:08] INFO: Copia de seguridad automática realizada.
+[2019-05-15 01:23:34] : ----------------------------------------------------------
+[2019-05-15 01:23:34] INFO: Programa ejecutado.
+[2019-05-15 01:23:34] INFO: Base de datos cargada, hay 61 películas.
+[2019-05-15 01:23:34] INFO: Copia de seguridad automática realizada.
+[2019-05-15 01:23:37] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-05-15 01:23:37] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-05-15 01:23:37] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-05-15 01:23:37] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-05-15 01:23:37] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-05-15 01:23:37] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-05-15 01:23:37] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-05-15 01:23:37] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-05-15 01:23:37] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-05-15 01:23:37] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-05-15 01:23:37] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-05-15 01:23:37] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-05-15 01:23:37] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-05-15 01:23:37] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-05-15 01:23:37] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-05-15 01:23:37] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-05-15 01:23:37] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-05-15 01:23:37] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-05-15 01:23:37] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-05-15 01:23:37] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-05-15 01:23:37] INFO: EMDB - La película El resplandor ya está en la base de datos (Índices 20)
+[2019-05-15 01:23:37] INFO: EMDB - La película La naranja mecánica ya está en la base de datos (Índices 21)
+[2019-05-15 01:23:37] INFO: EMDB - La película La chaqueta metálica ya está en la base de datos (Índices 22)
+[2019-05-15 01:23:37] INFO: EMDB - La película Cube ya está en la base de datos (Índices 23)
+[2019-05-15 01:23:37] INFO: EMDB - La película Cube 2: Hypercube ya está en la base de datos (Índices 24)
+[2019-05-15 01:23:37] INFO: EMDB - La película Cube Zero ya está en la base de datos (Índices 25)
+[2019-05-15 01:23:37] INFO: EMDB - La película 9 extraños ya está en la base de datos (Índices 26)
+[2019-05-15 01:23:37] INFO: EMDB - La película La celda ya está en la base de datos (Índices 27)
+[2019-05-15 01:23:37] INFO: EMDB - La película La mosca ya está en la base de datos (Índices 28)
+[2019-05-15 01:23:37] INFO: EMDB - La película Breathing Room ya está en la base de datos (Índices 29)
+[2019-05-15 01:23:37] INFO: EMDB - La película El regreso de la mosca ya está en la base de datos (Índices 30)
+[2019-05-15 01:23:37] INFO: EMDB - La película La cosa (El enigma de otro mundo) ya está en la base de datos (Índices 31)
+[2019-05-15 01:23:37] INFO: EMDB - La película Re-Animator ya está en la base de datos (Índices 32)
+[2019-05-15 01:23:37] INFO: EMDB - La película Viscosidad ya está en la base de datos (Índices 33)
+[2019-05-15 01:23:37] INFO: EMDB - La película Videodrome ya está en la base de datos (Índices 34)
+[2019-05-15 01:23:37] INFO: EMDB - La película Scanners ya está en la base de datos (Índices 35)
+[2019-05-15 01:23:37] INFO: EMDB - La película Vinieron de dentro de... ya está en la base de datos (Índices 36)
+[2019-05-15 01:23:37] INFO: EMDB - La película La zona muerta ya está en la base de datos (Índices 37)
+[2019-05-15 01:23:37] INFO: EMDB - La película La invasión de los ladrones de cuerpos ya está en la base de datos (Índices 38)
+[2019-05-15 01:23:37] INFO: EMDB - La película Inseparables ya está en la base de datos (Índices 39)
+[2019-05-15 01:23:37] INFO: EMDB - La película La matanza de Texas ya está en la base de datos (Índices 40)
+[2019-05-15 01:23:37] INFO: EMDB - La película La noche de los muertos vivientes ya está en la base de datos (Índices 41)
+[2019-05-15 01:23:37] ERROR: EMDB - Problema cargando película El motel del infierno (Índice 45)
+[2019-05-15 01:23:37] INFO: EMDB - La película Colinas sangrientas (Video 2009) ya está en la base de datos (Índices 42)
+[2019-05-15 01:23:37] INFO: EMDB - La película Los extraños ya está en la base de datos (Índices 43)
+[2019-05-15 01:23:37] INFO: EMDB - La película Navidades negras ya está en la base de datos (Índices 44)
+[2019-05-15 01:23:37] INFO: EMDB - La película Noche de paz, noche de muerte ya está en la base de datos (Índices 45)
+[2019-05-15 01:23:37] INFO: EMDB - La película Cumpleaños mortal ya está en la base de datos (Índices 46)
+[2019-05-15 01:23:37] INFO: EMDB - La película Prom Night. Llamadas de terror ya está en la base de datos (Índices 47)
+[2019-05-15 01:23:37] INFO: EMDB - La película San Valentín sangriento ya está en la base de datos (Índices 48)
+[2019-05-15 01:23:37] INFO: EMDB - La película Solos en la oscuridad ya está en la base de datos (Índices 49)
+[2019-05-15 01:23:37] INFO: EMDB - La película Posesión infernal ya está en la base de datos (Índices 50)
+[2019-05-15 01:23:37] INFO: EMDB - La película Terroríficamente muertos ya está en la base de datos (Índices 51)
+[2019-05-15 01:23:37] INFO: EMDB - La película El ejército de las tinieblas ya está en la base de datos (Índices 52)
+[2019-05-15 01:23:37] INFO: EMDB - La película El cortador de césped ya está en la base de datos (Índices 53)
+[2019-05-15 01:23:37] INFO: EMDB - La película Maniac ya está en la base de datos (Índices 54)
+[2019-05-15 01:23:37] INFO: EMDB - La película Maniac Cop ya está en la base de datos (Índices 55)
+[2019-05-15 01:23:37] ERROR: EMDB - Problema cargando película Living Dead 2: Dawn of the dead (Índice 60)
+[2019-05-15 01:23:37] ERROR: EMDB - Problema cargando película Living Dead 3: El día de los muertos (Índice 61)
+[2019-05-15 01:23:37] INFO: EMDB - La película Creepshow ya está en la base de datos (Índices 56)
+[2019-05-15 01:23:37] INFO: EMDB - La película Creepshow 2 ya está en la base de datos (Índices 57)
+[2019-05-15 01:23:37] INFO: EMDB - La película El asesino de Rosemary ya está en la base de datos (Índices 58)
+[2019-05-15 01:23:37] INFO: EMDB - La película El vengador tóxico ya está en la base de datos (Índices 59)
+[2019-05-15 01:23:37] INFO: EMDB - La película Poltergeist (Fenómenos extraños) ya está en la base de datos (Índices 60)
+[2019-05-15 01:23:41] INFO: Añadida película "Pesadilla en Elm Street" (ID 0087800 en IMDb, ID 183669 en FilmAffinity) a la base de datos.
+[2019-05-15 01:23:43] INFO: Añadida película "Pesadilla en Elm Street 2: La venganza de Freddy" (ID 0089686 en IMDb, ID 652110 en FilmAffinity) a la base de datos.
+[2019-05-15 01:23:45] INFO: Añadida película "Pesadilla en Elm Street 3: Los guerreros del sueño" (ID 0093629 en IMDb, ID 229708 en FilmAffinity) a la base de datos.
+[2019-05-15 01:23:47] INFO: Añadida película "Pesadilla en Elm Street 4: El amo del sueño" (ID 0095742 en IMDb, ID 853742 en FilmAffinity) a la base de datos.
+[2019-05-15 01:23:49] INFO: Añadida película "Pesadilla en Elm Street 5: El niño de los sueños" (ID 0097981 en IMDb, ID 428887 en FilmAffinity) a la base de datos.

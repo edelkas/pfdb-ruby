@@ -215,7 +215,7 @@ module Imdb
   }
 
   TAGS = {
-    title: 'h3[itemprop="name"]',
+    title: 'meta[name="title"]',
     year: 'a[itemprop="url"]',
     cast: 'table[class="cast_list"]',
     header: 'h4[class="ipl-header__content ipl-list-title"]',
@@ -255,14 +255,16 @@ module Imdb
       credits = @doc.search(tag(:header)).map{ |s| [s.content.to_s.squish, s] }.to_h
 
       # overview information
-      @attrs[:title] = @doc.at(tag(:title)).children[0].content.to_s.squish rescue ""
+
+      title = @doc.at(tag(:title))['content'].to_s.remove(" - IMDb")
+      @attrs[:title] = /\(\d{4}\)/.match?(title[-7..-1]) ? title[0..-7].squish : title rescue ""
       @attrs[:original_title] = @doc.at(tag(:title)).next.content.to_s.squish rescue ""
       @attrs[:year] = @doc.at(tag(:year)).content[/\d+/].to_i rescue 0
       @attrs[:imdb_rating] = @doc.at(tag(:imdb_rating)).content.to_s.squish.tr(",", ".").to_f rescue 0.0
       @attrs[:imdb_votes] = @doc.at(tag(:imdb_votes)).content.to_s.squish.scan(/\d+/).join.to_i rescue 0
       @attrs[:imdb_ranking] = @doc.at(tag(:imdb_ranking)).content[/\d+/].to_i rescue 0
       #@imdb_attrs[:bottom_ranking'] = @doc.at(:bottom_ranking).content[/\d+/].to_i rescue 0
-      @attrs[:imdb_synopsis] = @doc.at(tag(:overview)).children[1].content.to_s.squish.remove("See more »") rescue ""
+      @attrs[:imdb_synopsis] = @doc.at(tag(:overview)).children[1].content.to_s.remove("See more »").squish rescue ""
 
       # cast
       @attrs[:cast] = parse_cast rescue {}
@@ -464,6 +466,7 @@ class Movie
       ranking: { imdb: 0,
                  filmaffinity: 0 },
       dates: { added: Time.now.strftime("%Y-%m-%d"),
+               updated: Time.now.strftime("%Y-%m-%d"),
                viewed: [] },
       personal_comment: "",
       personal_rating: 0.0
