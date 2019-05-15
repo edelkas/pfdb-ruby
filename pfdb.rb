@@ -145,7 +145,9 @@ def emdb(emdb_filename = "emdb.dat")
         trailer_url: s[27].to_s,
         date_viewed: s[28].to_s.split("\r\n")[0],
         filmaffinity_synopsis: s[32].split("\r\n")[1].to_s,
-        imdb_votes: s[39].to_i
+        imdb_votes: s[39].to_i,
+        imported: false,
+        updated: false
       }
     }
     $films.each{ |f|
@@ -160,14 +162,18 @@ def emdb(emdb_filename = "emdb.dat")
             add_movie(idImdb: f[:imdb_id], idFilmAffinity: id, dual: true)
             $movies.last[:dates][:added] = f[:date_added] # TODO: poner la funcion "modify" cuando este hecha (en vez de acceder a $movies directamente)
             if f[:vista] then $movies.last[:dates][:viewed] << f[:date_viewed][0..3] + "-" + f[:date_viewed][4..5] + "-" + f[:date_viewed][6..7] end
+            f[:imported] = true
+            f[:updated] = true
           else
             log("INFO", "EMDB - La película %s ya está en la base de datos (Índices %s)" % [matches[0][0][:title], matches.map{ |s, i| i }.join(", ")])
+            f[:imported] = true
           end
         else
           log("ERROR", "EMDB - Problema cargando película %s (Índice %i)" % [f[:title], f[:emdb_id]])
         end
       else
         log("INFO", "EMDB - La película %s ya está en la base de datos (Índices %s)" % [matches[0][0][:title], matches.map{ |s, i| i }.join(", ")])
+        f[:imported] = true
       end
     }
   end
@@ -656,6 +662,64 @@ def awards(movie)
   end
 rescue
   log("ERROR", "Buscando premios de una película en la base de datos.")
+end
+
+# TODO: Añadir mas, quiza elaborar graficas
+def stats
+  amount = $movies.size
+  propias = $movies.select{ |m| !m[:dates][:owned].blank? }.size
+  vistas = $movies.select{ |m| !m[:dates][:viewed].blank? }.size
+  title = "PFDB Stats (%s películas, %s propias, %s vistas)" % [amount, propias, vistas]
+  rows = []
+
+  fields = {
+    "Duración" => $movies.map{ |m| m[:duration] }.reject{ |m| m.blank? || m == 0 },
+    "Rating IMDb" => $movies.map{ |m| m[:rating][:imdb] }.reject{ |m| m.blank? || m == 0 },
+    "Rating FA" => $movies.map{ |m| m[:rating][:filmaffinity] }.reject{ |m| m.blank? || m == 0 },
+    "Votos IMDb" => $movies.map{ |m| m[:votes][:imdb] }.reject{ |m| m.blank? || m == 0 },
+    "Votos FA" => $movies.map{ |m| m[:votes][:filmaffinity] }.reject{ |m| m.blank? || m == 0 },
+    "Presupuesto" => $movies.map{ |m| m[:budget] }.reject{ |m| m.blank? || m == 0 },
+    "Recaudacion" => $movies.map{ |m| m[:gross] }.reject{ |m| m.blank? || m == 0 }
+  }
+  uniq_fields = {
+    "Géneros" => [ $movies.map{ |m| m[:genres].size }, $movies.map{ |m| m[:genres] }.flatten.uniq ],
+    "Actores" => [ $movies.map{ |m| m[:cast].map{ |k, v| k }.size }, $movies.map{ |m| m[:cast].map{ |k, v| k } }.flatten.uniq ],
+    "Directores" => [ $movies.map{ |m| m[:directors].size }, $movies.map{ |m| m[:directors] }.flatten.uniq ],
+    "Guionistas" => [ $movies.map{ |m| m[:writers].size }, $movies.map{ |m| m[:writers] }.flatten.uniq ],
+    "Productores" => [ $movies.map{ |m| m[:producers].size }, $movies.map{ |m| m[:producers] }.flatten.uniq ],
+    "Compositores" => [ $movies.map{ |m| m[:composers].size }, $movies.map{ |m| m[:composers] }.flatten.uniq ],
+    "Cinematógrafos" => [ $movies.map{ |m| m[:cinematographers].size }, $movies.map{ |m| m[:cinematographers] }.flatten.uniq ],
+    "Editores" => [ $movies.map{ |m| m[:editors].size }, $movies.map{ |m| m[:editors] }.flatten.uniq ],
+    "Países" => [ $movies.map{ |m| m[:countries].size }, $movies.map{ |m| m[:countries] }.flatten.uniq ],
+    "Idiomas" => [ $movies.map{ |m| m[:languages].size }, $movies.map{ |m| m[:languages] }.flatten.uniq ]
+  }
+
+  rows << ["Campo", "Min", "Avg", "Max", "Total"]
+  rows << :separator
+  fields.each{ |k, v| rows << [ k, {alignment: :right, value: v.min}, {alignment: :right, value: (v.sum.to_f / v.size).round(3)}, {alignment: :right, value: v.max}, {alignment: :right, value: v.sum} ] }
+  rows << :separator
+  uniq_fields.each{ |k, v| rows << [ k, {alignment: :right, value: v[0].min}, {alignment: :right, value: (v[0].sum.to_f / v[0].size).round(3)}, {alignment: :right, value: v[0].max}, {alignment: :right, value: v[1].size} ] }
+
+  genre_list = $movies.map{ |m| m[:genres].uniq }.flatten
+  genres = $movies.map{ |m| m[:genres].uniq }.flatten.uniq.map{ |g| [ g, genre_list.count(g) ] }.sort_by{ |s| -s[1] }
+  country_list = $movies.map{ |m| m[:countries].uniq }.flatten
+  countries = $movies.map{ |m| m[:countries].uniq }.flatten.uniq.map{ |g| [ g, country_list.count(g) ] }.sort_by{ |s| -s[1] }
+  rows << :separator
+  rows << [ "", {colspan: 2, alignment: :center, value: "Desglose de géneros"}, {colspan: 2, alignment: :center, value: "Desglose de paises"} ]
+  rows << :separator
+  (1..[genres.size, countries.size].max).each{ |i|
+    rows << [
+      "",
+      i <= genres.size ? genres[i-1][0].to_s : "",
+      i <= genres.size ? { alignment: :right, value: "%i (%05.2f%%)" % [ genres[i-1][1], 100.0 * genres[i-1][1] / amount ] } : "",
+      i <= countries.size ? countries[i-1][0].to_s : "",
+      i <= countries.size ? { alignment: :right, value: "%i (%05.2f%%)" % [ countries[i-1][1], 100.0 * countries[i-1][1] / amount ] } : "",
+    ]
+  }
+
+  table = Terminal::Table.new(title: title, rows: rows)
+  print(table)
+  print("\n")
 end
 
 # TODO: Reelaborar todo esto del comment.

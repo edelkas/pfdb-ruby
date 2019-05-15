@@ -176,12 +176,12 @@ module FilmAffinity
       @query = query
       @movies = []
       @doc = Nokogiri::HTML(open(URLS[:search] % CGI.escape(@query)))
-      if !@doc.at('.z-movie').nil?
+      if !@doc.at('.z-movie').nil? # Unique result, straight to film page
         id = @doc.at('meta[property="og:url"]')['content'][/film\d+/][/\d+/]
         title = @doc.at(tag(:title)).content.strip
         year = @doc.at(tag(:year)).content.to_s[/\d+/]
         @movies = [[id, title, year]]
-      else
+      else # Multiple results (maybe 0)
         @movies = @doc.search('div[class="se-it mt "]').map{ |s|
           [s.at('div[class="movie-card movie-card-1"]')['data-movie-id'][/\d+/],
           s.at('a')['title'].to_s.squish,
@@ -466,7 +466,8 @@ class Movie
       ranking: { imdb: 0,
                  filmaffinity: 0 },
       dates: { added: Time.now.strftime("%Y-%m-%d"),
-               updated: Time.now.strftime("%Y-%m-%d"),
+               updated: [Time.now.strftime("%Y-%m-%d")],
+               owned: [],
                viewed: [] },
       personal_comment: "",
       personal_rating: 0.0

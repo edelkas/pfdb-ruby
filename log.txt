@@ -2344,3 +2344,1209 @@ Pesadilla en Elm Street 7: La nueva pesadilla de Wes Craven (Índice 76)
 [2019-05-15 02:32:15] INFO: Añadida película "Tiburón" (ID 0073195 en IMDb, ID 242422 en FilmAffinity) a la base de datos.
 [2019-05-15 02:32:18] INFO: Añadida película "Carrie" (ID 0074285 en IMDb, ID 283316 en FilmAffinity) a la base de datos.
 [2019-05-15 02:32:20] INFO: Añadida película "Movida del 76" (ID 0106677 en IMDb, ID 784628 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:29] : ----------------------------------------------------------
+[2019-05-15 22:05:29] INFO: Programa ejecutado.
+[2019-05-15 22:05:29] INFO: Base de datos cargada, hay 135 películas.
+[2019-05-15 22:05:29] INFO: Copia de seguridad automática realizada.
+[2019-05-15 22:05:32] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-05-15 22:05:32] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-05-15 22:05:32] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-05-15 22:05:32] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-05-15 22:05:32] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-05-15 22:05:32] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-05-15 22:05:32] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-05-15 22:05:32] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-05-15 22:05:32] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-05-15 22:05:32] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-05-15 22:05:32] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-05-15 22:05:32] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-05-15 22:05:32] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-05-15 22:05:32] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-05-15 22:05:32] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-05-15 22:05:32] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-05-15 22:05:32] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-05-15 22:05:32] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-05-15 22:05:32] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-05-15 22:05:32] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-05-15 22:05:32] INFO: EMDB - La película El resplandor ya está en la base de datos (Índices 20)
+[2019-05-15 22:05:32] INFO: EMDB - La película La naranja mecánica ya está en la base de datos (Índices 21)
+[2019-05-15 22:05:32] INFO: EMDB - La película La chaqueta metálica ya está en la base de datos (Índices 22)
+[2019-05-15 22:05:32] INFO: EMDB - La película Cube ya está en la base de datos (Índices 23)
+[2019-05-15 22:05:32] INFO: EMDB - La película Cube 2: Hypercube ya está en la base de datos (Índices 24)
+[2019-05-15 22:05:32] INFO: EMDB - La película Cube Zero ya está en la base de datos (Índices 25)
+[2019-05-15 22:05:32] INFO: EMDB - La película 9 extraños ya está en la base de datos (Índices 26)
+[2019-05-15 22:05:32] INFO: EMDB - La película La celda ya está en la base de datos (Índices 27)
+[2019-05-15 22:05:32] INFO: EMDB - La película La mosca ya está en la base de datos (Índices 28)
+[2019-05-15 22:05:32] INFO: EMDB - La película Breathing Room ya está en la base de datos (Índices 29)
+[2019-05-15 22:05:32] INFO: EMDB - La película El regreso de la mosca ya está en la base de datos (Índices 30)
+[2019-05-15 22:05:32] INFO: EMDB - La película La cosa (El enigma de otro mundo) ya está en la base de datos (Índices 31)
+[2019-05-15 22:05:32] INFO: EMDB - La película Re-Animator ya está en la base de datos (Índices 32)
+[2019-05-15 22:05:32] INFO: EMDB - La película Viscosidad ya está en la base de datos (Índices 33)
+[2019-05-15 22:05:32] INFO: EMDB - La película Videodrome ya está en la base de datos (Índices 34)
+[2019-05-15 22:05:32] INFO: EMDB - La película Scanners ya está en la base de datos (Índices 35)
+[2019-05-15 22:05:32] INFO: EMDB - La película Vinieron de dentro de... ya está en la base de datos (Índices 36)
+[2019-05-15 22:05:32] INFO: EMDB - La película La zona muerta ya está en la base de datos (Índices 37)
+[2019-05-15 22:05:32] INFO: EMDB - La película La invasión de los ladrones de cuerpos ya está en la base de datos (Índices 38)
+[2019-05-15 22:05:32] INFO: EMDB - La película Inseparables ya está en la base de datos (Índices 39)
+[2019-05-15 22:05:32] INFO: EMDB - La película La matanza de Texas ya está en la base de datos (Índices 40)
+[2019-05-15 22:05:32] INFO: EMDB - La película La noche de los muertos vivientes ya está en la base de datos (Índices 41)
+[2019-05-15 22:05:32] ERROR: EMDB - Problema cargando película El motel del infierno (Índice 45)
+[2019-05-15 22:05:32] INFO: EMDB - La película Colinas sangrientas (Video 2009) ya está en la base de datos (Índices 42)
+[2019-05-15 22:05:32] INFO: EMDB - La película Los extraños ya está en la base de datos (Índices 43)
+[2019-05-15 22:05:32] INFO: EMDB - La película Navidades negras ya está en la base de datos (Índices 44)
+[2019-05-15 22:05:32] INFO: EMDB - La película Noche de paz, noche de muerte ya está en la base de datos (Índices 45)
+[2019-05-15 22:05:32] INFO: EMDB - La película Cumpleaños mortal ya está en la base de datos (Índices 46)
+[2019-05-15 22:05:32] INFO: EMDB - La película Prom Night. Llamadas de terror ya está en la base de datos (Índices 47)
+[2019-05-15 22:05:32] INFO: EMDB - La película San Valentín sangriento ya está en la base de datos (Índices 48)
+[2019-05-15 22:05:32] INFO: EMDB - La película Solos en la oscuridad ya está en la base de datos (Índices 49)
+[2019-05-15 22:05:32] INFO: EMDB - La película Posesión infernal ya está en la base de datos (Índices 50)
+[2019-05-15 22:05:32] INFO: EMDB - La película Terroríficamente muertos ya está en la base de datos (Índices 51)
+[2019-05-15 22:05:32] INFO: EMDB - La película El ejército de las tinieblas ya está en la base de datos (Índices 52)
+[2019-05-15 22:05:32] INFO: EMDB - La película El cortador de césped ya está en la base de datos (Índices 53)
+[2019-05-15 22:05:32] INFO: EMDB - La película Maniac ya está en la base de datos (Índices 54)
+[2019-05-15 22:05:32] INFO: EMDB - La película Maniac Cop ya está en la base de datos (Índices 55)
+[2019-05-15 22:05:32] ERROR: EMDB - Problema cargando película Living Dead 2: Dawn of the dead (Índice 60)
+[2019-05-15 22:05:32] ERROR: EMDB - Problema cargando película Living Dead 3: El día de los muertos (Índice 61)
+[2019-05-15 22:05:32] INFO: EMDB - La película Creepshow ya está en la base de datos (Índices 56)
+[2019-05-15 22:05:32] INFO: EMDB - La película Creepshow 2 ya está en la base de datos (Índices 57)
+[2019-05-15 22:05:32] INFO: EMDB - La película El asesino de Rosemary ya está en la base de datos (Índices 58)
+[2019-05-15 22:05:32] INFO: EMDB - La película El vengador tóxico ya está en la base de datos (Índices 59)
+[2019-05-15 22:05:32] INFO: EMDB - La película Poltergeist (Fenómenos extraños) ya está en la base de datos (Índices 60)
+[2019-05-15 22:05:32] INFO: EMDB - La película Pesadilla en Elm Street ya está en la base de datos (Índices 61)
+[2019-05-15 22:05:32] INFO: EMDB - La película Pesadilla en Elm Street 2: La venganza de Freddy ya está en la base de datos (Índices 62)
+[2019-05-15 22:05:32] INFO: EMDB - La película Pesadilla en Elm Street 3: Los guerreros del sueño ya está en la base de datos (Índices 63)
+[2019-05-15 22:05:32] INFO: EMDB - La película Pesadilla en Elm Street 4: El amo del sueño ya está en la base de datos (Índices 64)
+[2019-05-15 22:05:32] INFO: EMDB - La película Pesadilla en Elm Street 5: El niño de los sueños ya está en la base de datos (Índices 65)
+[2019-05-15 22:05:32] INFO: EMDB - La película Pesadilla final: La muerte de Freddy ya está en la base de datos (Índices 66)
+[2019-05-15 22:05:33] ERROR: EMDB - Problema cargando película Pesadilla en Elm Street 7: La nueva pesadilla de Wes Craven (Índice 76)
+[2019-05-15 22:05:33] INFO: EMDB - La película Candyman, el dominio de la mente ya está en la base de datos (Índices 67)
+[2019-05-15 22:05:33] INFO: EMDB - La película Braindead: tu madre se ha comido a mi perro ya está en la base de datos (Índices 68)
+[2019-05-15 22:05:33] INFO: EMDB - La película Mal gusto (Bad Taste) ya está en la base de datos (Índices 69)
+[2019-05-15 22:05:33] INFO: EMDB - La película Cromosoma 3 ya está en la base de datos (Índices 70)
+[2019-05-15 22:05:33] INFO: EMDB - La película La última casa a la izquierda ya está en la base de datos (Índices 71)
+[2019-05-15 22:05:33] INFO: EMDB - La película Las colinas tienen ojos ya está en la base de datos (Índices 72)
+[2019-05-15 22:05:33] INFO: EMDB - La película El sótano del miedo ya está en la base de datos (Índices 73)
+[2019-05-15 22:05:33] INFO: EMDB - La película Contacto sangriento ya está en la base de datos (Índices 74)
+[2019-05-15 22:05:33] INFO: EMDB - La película Cyborg ya está en la base de datos (Índices 75)
+[2019-05-15 22:05:33] INFO: EMDB - La película Kickboxer ya está en la base de datos (Índices 76)
+[2019-05-15 22:05:33] INFO: EMDB - La película Doble impacto ya está en la base de datos (Índices 77)
+[2019-05-15 22:05:33] INFO: EMDB - La película Lionheart: El luchador ya está en la base de datos (Índices 78)
+[2019-05-15 22:05:33] INFO: EMDB - La película Soldado universal ya está en la base de datos (Índices 79)
+[2019-05-15 22:05:33] INFO: EMDB - La película Timecop (Policía en el tiempo) ya está en la base de datos (Índices 80)
+[2019-05-15 22:05:33] INFO: EMDB - La película Salvaje ya está en la base de datos (Índices 81)
+[2019-05-15 22:05:33] INFO: EMDB - La película La masa devoradora ya está en la base de datos (Índices 82)
+[2019-05-15 22:05:33] INFO: EMDB - La película Asalto al banco de San Luis ya está en la base de datos (Índices 83)
+[2019-05-15 22:05:33] INFO: EMDB - La película Los siete magníficos ya está en la base de datos (Índices 84)
+[2019-05-15 22:05:33] INFO: EMDB - La película La gran evasión ya está en la base de datos (Índices 85)
+[2019-05-15 22:05:33] INFO: EMDB - La película El Yang-Tsé en llamas ya está en la base de datos (Índices 86)
+[2019-05-15 22:05:33] INFO: EMDB - La película El caso de Thomas Crown ya está en la base de datos (Índices 87)
+[2019-05-15 22:05:33] INFO: EMDB - La película Bullitt ya está en la base de datos (Índices 88)
+[2019-05-15 22:05:33] INFO: EMDB - La película La huida ya está en la base de datos (Índices 89)
+[2019-05-15 22:05:33] INFO: EMDB - La película Papillon ya está en la base de datos (Índices 90)
+[2019-05-15 22:05:33] INFO: EMDB - La película El coloso en llamas ya está en la base de datos (Índices 91)
+[2019-05-15 22:05:33] INFO: EMDB - La película Por un puñado de dólares ya está en la base de datos (Índices 92)
+[2019-05-15 22:05:33] INFO: EMDB - La película La muerte tenía un precio ya está en la base de datos (Índices 93)
+[2019-05-15 22:05:33] INFO: EMDB - La película El bueno, el feo y el malo ya está en la base de datos (Índices 94)
+[2019-05-15 22:05:33] INFO: EMDB - La película Sin perdón ya está en la base de datos (Índices 95)
+[2019-05-15 22:05:33] INFO: EMDB - La película El oro de Mackenna ya está en la base de datos (Índices 96)
+[2019-05-15 22:05:33] INFO: EMDB - La película Harry el sucio ya está en la base de datos (Índices 97)
+[2019-05-15 22:05:33] INFO: EMDB - La película Harry el fuerte ya está en la base de datos (Índices 98)
+[2019-05-15 22:05:33] INFO: EMDB - La película Harry el ejecutor ya está en la base de datos (Índices 99)
+[2019-05-15 22:05:33] INFO: EMDB - La película Impacto súbito ya está en la base de datos (Índices 100)
+[2019-05-15 22:05:33] INFO: EMDB - La película La lista negra ya está en la base de datos (Índices 101)
+[2019-05-15 22:05:33] INFO: EMDB - La película Gran Torino ya está en la base de datos (Índices 102)
+[2019-05-15 22:05:33] INFO: EMDB - La película Million Dollar Baby ya está en la base de datos (Índices 103)
+[2019-05-15 22:05:33] INFO: EMDB - La película Mystic River ya está en la base de datos (Índices 104)
+[2019-05-15 22:05:33] INFO: EMDB - La película El fuera de la ley ya está en la base de datos (Índices 105)
+[2019-05-15 22:05:33] INFO: EMDB - La película 1997: Rescate en Nueva York ya está en la base de datos (Índices 106)
+[2019-05-15 22:05:33] INFO: EMDB - La película Infierno de cobardes ya está en la base de datos (Índices 107)
+[2019-05-15 22:05:33] INFO: EMDB - La película El jinete pálido ya está en la base de datos (Índices 108)
+[2019-05-15 22:05:33] INFO: EMDB - La película En la línea de fuego ya está en la base de datos (Índices 109)
+[2019-05-15 22:05:33] INFO: EMDB - La película Un mundo perfecto ya está en la base de datos (Índices 110)
+[2019-05-15 22:05:33] INFO: EMDB - La película Escalofrío en la noche ya está en la base de datos (Índices 111)
+[2019-05-15 22:05:33] INFO: EMDB - La película Cometieron dos errores ya está en la base de datos (Índices 112)
+[2019-05-15 22:05:33] INFO: EMDB - La película Dos mulas y una mujer ya está en la base de datos (Índices 113)
+[2019-05-15 22:05:33] INFO: EMDB - La película La jungla humana ya está en la base de datos (Índices 114)
+[2019-05-15 22:05:33] INFO: EMDB - La película Ejecución inminente ya está en la base de datos (Índices 115)
+[2019-05-15 22:05:33] INFO: EMDB - La película Poder absoluto ya está en la base de datos (Índices 116)
+[2019-05-15 22:05:33] INFO: EMDB - La película El intercambio ya está en la base de datos (Índices 117)
+[2019-05-15 22:05:33] INFO: EMDB - La película El sargento de hierro ya está en la base de datos (Índices 118)
+[2019-05-15 22:05:33] INFO: EMDB - La película 2013: Rescate en L.A. ya está en la base de datos (Índices 119)
+[2019-05-15 22:05:33] INFO: EMDB - La película Reservoir Dogs ya está en la base de datos (Índices 120)
+[2019-05-15 22:05:33] INFO: EMDB - La película Pulp Fiction ya está en la base de datos (Índices 121)
+[2019-05-15 22:05:33] INFO: EMDB - La película Jackie Brown ya está en la base de datos (Índices 122)
+[2019-05-15 22:05:33] INFO: EMDB - La película Kill Bill: Volumen 1 ya está en la base de datos (Índices 123)
+[2019-05-15 22:05:33] INFO: EMDB - La película Kill Bill: Volumen 2 ya está en la base de datos (Índices 124)
+[2019-05-15 22:05:33] INFO: EMDB - La película Sin City: Ciudad del pecado ya está en la base de datos (Índices 125)
+[2019-05-15 22:05:33] INFO: EMDB - La película Death Proof ya está en la base de datos (Índices 126)
+[2019-05-15 22:05:33] INFO: EMDB - La película Grindhouse: Planet Terror ya está en la base de datos (Índices 127)
+[2019-05-15 22:05:33] INFO: EMDB - La película Malditos bastardos ya está en la base de datos (Índices 128)
+[2019-05-15 22:05:33] INFO: EMDB - La película Django desencadenado ya está en la base de datos (Índices 129)
+[2019-05-15 22:05:33] INFO: EMDB - La película Los odiosos ocho ya está en la base de datos (Índices 130)
+[2019-05-15 22:05:33] INFO: EMDB - La película El salario del miedo ya está en la base de datos (Índices 131)
+[2019-05-15 22:05:33] INFO: EMDB - La película Tiburón ya está en la base de datos (Índices 132)
+[2019-05-15 22:05:33] INFO: EMDB - La película Carrie ya está en la base de datos (Índices 133)
+[2019-05-15 22:05:33] INFO: EMDB - La película Movida del 76 ya está en la base de datos (Índices 134)
+[2019-05-15 22:05:35] INFO: Añadida película "American Graffiti" (ID 0069704 en IMDb, ID 563823 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:37] INFO: Añadida película "El quinto elemento" (ID 0119116 en IMDb, ID 217833 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:39] INFO: Añadida película "Encuentros en la tercera fase" (ID 0075860 en IMDb, ID 941282 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:42] INFO: Añadida película "Sin motivo aparente" (ID 0292610 en IMDb, ID 488866 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:44] INFO: Añadida película "El principiante" (ID 0100514 en IMDb, ID 450303 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:44] ERROR: EMDB - Problema cargando película La máquina del tiempo (Índice 151)
+[2019-05-15 22:05:47] INFO: Añadida película "El planeta de los simios" (ID 0063442 en IMDb, ID 674289 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:50] INFO: Añadida película "Regreso al planeta de los simios" (ID 0065462 en IMDb, ID 166944 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:52] INFO: Añadida película "Huida del planeta de los simios" (ID 0067065 en IMDb, ID 101175 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:54] INFO: Añadida película "La rebelión de los simios" (ID 0068408 en IMDb, ID 373699 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:56] INFO: Añadida película "Batalla por el planeta de los simios" (ID 0069768 en IMDb, ID 731272 en FilmAffinity) a la base de datos.
+[2019-05-15 22:05:59] INFO: Añadida película "El origen del planeta de los simios" (ID 1318514 en IMDb, ID 793766 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:02] INFO: Añadida película "El amanecer del planeta de los simios" (ID 2103281 en IMDb, ID 613575 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:05] INFO: Añadida película "La mosca" (ID 0091064 en IMDb, ID 353875 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:05] ERROR: EMDB - Problema cargando película Telefono rojo? Volamos hacia Moscú (Índice 160)
+[2019-05-15 22:06:07] INFO: Añadida película "Atraco perfecto" (ID 0049406 en IMDb, ID 394545 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:09] INFO: Añadida película "Lolita" (ID 0056193 en IMDb, ID 560132 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:11] INFO: Añadida película "El seductor" (ID 0066819 en IMDb, ID 842394 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:13] INFO: Añadida película "La leyenda de la ciudad sin nombre" (ID 0064782 en IMDb, ID 689189 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:15] INFO: Añadida película "Joe Kidd" (ID 0068768 en IMDb, ID 238895 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:17] INFO: Añadida película "Un botín de 500.000 dólares" (ID 0072288 en IMDb, ID 969006 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:19] INFO: Añadida película "El último hombre sobre la Tierra" (ID 0058700 en IMDb, ID 193915 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:21] INFO: Añadida película "El último hombre... vivo" (ID 0067525 en IMDb, ID 347267 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:24] INFO: Añadida película "Soy leyenda" (ID 0480249 en IMDb, ID 356363 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:27] INFO: Añadida película "El silencio de los corderos" (ID 0102926 en IMDb, ID 768790 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:29] INFO: Añadida película "Hannibal" (ID 0212985 en IMDb, ID 213219 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:31] INFO: Añadida película "El dragón rojo" (ID 0289765 en IMDb, ID 728672 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:34] INFO: Añadida película "Déjame entrar" (ID 1139797 en IMDb, ID 666185 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:34] ERROR: EMDB - Problema cargando película Hellraiser (Los que traen el infierno) (Índice 174)
+[2019-05-15 22:06:36] INFO: Añadida película "American Psycho" (ID 0144084 en IMDb, ID 449226 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:38] INFO: Añadida película "El quimérico inquilino" (ID 0074811 en IMDb, ID 968575 en FilmAffinity) a la base de datos.
+[2019-05-15 22:06:41] INFO: Añadida película "Terror en Amityville" (ID 0078767 en IMDb, ID 528018 en FilmAffinity) a la base de datos.
+[2019-05-15 22:07:04] INFO: Eliminada película Mad Max: Salvajes de autopista de la base de datos.
+[2019-05-15 22:07:12] INFO: Eliminadas películas 0 a 100 de la base de datos.
+[2019-05-15 22:07:41] INFO: Eliminadas películas 0 a 50 de la base de datos.
+[2019-05-15 22:07:47] INFO: Eliminadas películas 0 a 10 de la base de datos.
+[2019-05-15 22:07:54] INFO: Añadida película "Mad Max: Salvajes de autopista" (ID 0079501 en IMDb, ID 414907 en FilmAffinity) a la base de datos.
+[2019-05-15 22:07:56] INFO: Añadida película "Mad Max 2: El guerrero de la carretera" (ID 0082694 en IMDb, ID 652388 en FilmAffinity) a la base de datos.
+[2019-05-15 22:07:59] INFO: Añadida película "Mad Max: Más allá de la cúpula del trueno" (ID 0089530 en IMDb, ID 303075 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:01] INFO: Añadida película "Arma letal 2" (ID 0097733 en IMDb, ID 232402 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:03] INFO: Añadida película "Arma letal" (ID 0093409 en IMDb, ID 453476 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:05] INFO: Añadida película "Arma letal 4" (ID 0122151 en IMDb, ID 353385 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:07] INFO: Añadida película "Arma letal 3" (ID 0104714 en IMDb, ID 660221 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:11] INFO: Añadida película "Mad Max: Furia en la carretera" (ID 1392190 en IMDb, ID 620090 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:14] INFO: Añadida película "28 días después" (ID 0289043 en IMDb, ID 502524 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:16] INFO: Añadida película "28 semanas después" (ID 0463854 en IMDb, ID 368386 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:18] INFO: Añadida película "Náufrago" (ID 0162222 en IMDb, ID 208836 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:21] INFO: Añadida película "The Lovely Bones" (ID 0380510 en IMDb, ID 995536 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:23] INFO: Añadida película "Somos los Miller" (ID 1723121 en IMDb, ID 930680 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:25] INFO: Añadida película "Deep Impact" (ID 0120647 en IMDb, ID 203964 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:27] INFO: Añadida película "Fuga de Alcatraz" (ID 0079116 en IMDb, ID 991294 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:29] INFO: Añadida película "Jennifer 8" (ID 0104549 en IMDb, ID 509253 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:32] INFO: Añadida película "El pacto" (ID 1214962 en IMDb, ID 963209 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:35] INFO: Añadida película "El renacido" (ID 1663202 en IMDb, ID 117532 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:37] INFO: Añadida película "La evasión" (ID 0054407 en IMDb, ID 803236 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:40] INFO: Añadida película "2001: Una odisea del espacio" (ID 0062622 en IMDb, ID 171099 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:43] INFO: Añadida película "El resplandor" (ID 0081505 en IMDb, ID 598422 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:45] INFO: Añadida película "La naranja mecánica" (ID 0066921 en IMDb, ID 745383 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:48] INFO: Añadida película "La chaqueta metálica" (ID 0093058 en IMDb, ID 462892 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:50] INFO: Añadida película "Cube" (ID 0123755 en IMDb, ID 741341 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:52] INFO: Añadida película "Cube 2: Hypercube" (ID 0285492 en IMDb, ID 919587 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:54] INFO: Añadida película "Cube Zero" (ID 0377713 en IMDb, ID 605841 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:56] INFO: Añadida película "9 extraños" (ID 0395585 en IMDb, ID 536525 en FilmAffinity) a la base de datos.
+[2019-05-15 22:08:58] INFO: Añadida película "La celda" (ID 0209958 en IMDb, ID 365955 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:00] INFO: Añadida película "La mosca" (ID 0051622 en IMDb, ID 197574 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:02] INFO: Añadida película "Breathing Room" (ID 1220706 en IMDb, ID 270268 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:04] INFO: Añadida película "El regreso de la mosca" (ID 0053219 en IMDb, ID 962287 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:06] INFO: Añadida película "La cosa (El enigma de otro mundo)" (ID 0084787 en IMDb, ID 313264 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:09] INFO: Añadida película "Re-Animator" (ID 0089885 en IMDb, ID 106438 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:10] INFO: Añadida película "Viscosidad" (ID 0076191 en IMDb, ID 271466 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:13] INFO: Añadida película "Videodrome" (ID 0086541 en IMDb, ID 741689 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:15] INFO: Añadida película "Scanners" (ID 0081455 en IMDb, ID 774018 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:17] INFO: Añadida película "Vinieron de dentro de..." (ID 0073705 en IMDb, ID 274571 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:19] INFO: Añadida película "La zona muerta" (ID 0085407 en IMDb, ID 979652 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:22] INFO: Añadida película "La invasión de los ladrones de cuerpos" (ID 0049366 en IMDb, ID 826070 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:25] INFO: Añadida película "Inseparables" (ID 0094964 en IMDb, ID 716865 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:27] INFO: Añadida película "La matanza de Texas" (ID 0072271 en IMDb, ID 106098 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:30] INFO: Añadida película "La noche de los muertos vivientes" (ID 0063350 en IMDb, ID 582638 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:31] ERROR: EMDB - Problema cargando película El motel del infierno (Índice 45)
+[2019-05-15 22:09:33] INFO: Añadida película "Colinas sangrientas (Video 2009)" (ID 0907676 en IMDb, ID 608405 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:35] INFO: Añadida película "Los extraños" (ID 0482606 en IMDb, ID 694001 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:37] INFO: Añadida película "Navidades negras" (ID 0071222 en IMDb, ID 277358 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:39] INFO: Añadida película "Noche de paz, noche de muerte" (ID 0088117 en IMDb, ID 657189 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:41] INFO: Añadida película "Cumpleaños mortal" (ID 0082498 en IMDb, ID 446159 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:43] INFO: Añadida película "Prom Night. Llamadas de terror" (ID 0081383 en IMDb, ID 512712 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:45] INFO: Añadida película "San Valentín sangriento" (ID 0082782 en IMDb, ID 270380 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:47] INFO: Añadida película "Solos en la oscuridad" (ID 0083542 en IMDb, ID 784278 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:49] INFO: Añadida película "Posesión infernal" (ID 0083907 en IMDb, ID 939051 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:51] INFO: Añadida película "Terroríficamente muertos" (ID 0092991 en IMDb, ID 216255 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:54] INFO: Añadida película "El ejército de las tinieblas" (ID 0106308 en IMDb, ID 618571 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:56] INFO: Añadida película "El cortador de césped" (ID 0104692 en IMDb, ID 565150 en FilmAffinity) a la base de datos.
+[2019-05-15 22:09:58] INFO: Añadida película "Maniac" (ID 0081114 en IMDb, ID 730615 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:00] INFO: Añadida película "Maniac Cop" (ID 0095583 en IMDb, ID 891720 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:01] ERROR: EMDB - Problema cargando película Living Dead 2: Dawn of the dead (Índice 60)
+[2019-05-15 22:10:01] ERROR: EMDB - Problema cargando película Living Dead 3: El día de los muertos (Índice 61)
+[2019-05-15 22:10:03] INFO: Añadida película "Creepshow" (ID 0083767 en IMDb, ID 293144 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:05] INFO: Añadida película "Creepshow 2" (ID 0092796 en IMDb, ID 190952 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:07] INFO: Añadida película "El asesino de Rosemary" (ID 0082951 en IMDb, ID 284035 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:10] INFO: Añadida película "El vengador tóxico" (ID 0090190 en IMDb, ID 169593 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:13] INFO: Añadida película "Poltergeist (Fenómenos extraños)" (ID 0084516 en IMDb, ID 318931 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:16] INFO: Añadida película "Pesadilla en Elm Street" (ID 0087800 en IMDb, ID 183669 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:18] INFO: Añadida película "Pesadilla en Elm Street 2: La venganza de Freddy" (ID 0089686 en IMDb, ID 652110 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:20] INFO: Añadida película "Pesadilla en Elm Street 3: Los guerreros del sueño" (ID 0093629 en IMDb, ID 229708 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:23] INFO: Añadida película "Pesadilla en Elm Street 4: El amo del sueño" (ID 0095742 en IMDb, ID 853742 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:25] INFO: Añadida película "Pesadilla en Elm Street 5: El niño de los sueños" (ID 0097981 en IMDb, ID 428887 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:29] INFO: Añadida película "Pesadilla final: La muerte de Freddy" (ID 0101917 en IMDb, ID 141666 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:29] ERROR: EMDB - Problema cargando película Pesadilla en Elm Street 7: La nueva pesadilla de Wes Craven (Índice 76)
+[2019-05-15 22:10:31] INFO: Añadida película "Candyman, el dominio de la mente" (ID 0103919 en IMDb, ID 337102 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:33] INFO: Añadida película "Braindead: tu madre se ha comido a mi perro" (ID 0103873 en IMDb, ID 154413 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:35] INFO: Añadida película "Mal gusto (Bad Taste)" (ID 0092610 en IMDb, ID 788407 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:40] INFO: Añadida película "Cromosoma 3" (ID 0078908 en IMDb, ID 169165 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:42] INFO: Añadida película "La última casa a la izquierda" (ID 0068833 en IMDb, ID 480057 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:44] INFO: Añadida película "Las colinas tienen ojos" (ID 0077681 en IMDb, ID 602812 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:46] INFO: Añadida película "El sótano del miedo" (ID 0105121 en IMDb, ID 150664 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:48] INFO: Añadida película "Contacto sangriento" (ID 0092675 en IMDb, ID 379994 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:50] INFO: Añadida película "Cyborg" (ID 0097138 en IMDb, ID 519134 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:53] INFO: Añadida película "Kickboxer" (ID 0097659 en IMDb, ID 772956 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:54] INFO: Añadida película "Doble impacto" (ID 0101764 en IMDb, ID 263029 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:56] INFO: Añadida película "Lionheart: El luchador" (ID 0100029 en IMDb, ID 586519 en FilmAffinity) a la base de datos.
+[2019-05-15 22:10:59] INFO: Añadida película "Soldado universal" (ID 0105698 en IMDb, ID 279404 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:02] INFO: Añadida película "Timecop (Policía en el tiempo)" (ID 0111438 en IMDb, ID 777534 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:05] INFO: Añadida película "Salvaje" (ID 0339135 en IMDb, ID 120136 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:07] INFO: Añadida película "La masa devoradora" (ID 0051418 en IMDb, ID 555144 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:09] INFO: Añadida película "Asalto al banco de San Luis" (ID 0052862 en IMDb, ID 370090 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:11] INFO: Añadida película "Los siete magníficos" (ID 0054047 en IMDb, ID 168098 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:18] INFO: Añadida película "La gran evasión" (ID 0057115 en IMDb, ID 537233 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:20] INFO: Añadida película "El Yang-Tsé en llamas" (ID 0060934 en IMDb, ID 657217 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:23] INFO: Añadida película "El caso de Thomas Crown" (ID 0063688 en IMDb, ID 106948 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:25] INFO: Añadida película "Bullitt" (ID 0062765 en IMDb, ID 321480 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:29] INFO: Añadida película "La huida" (ID 0068638 en IMDb, ID 448062 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:30] INFO: Añadida película "Papillon" (ID 0070511 en IMDb, ID 253727 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:33] INFO: Añadida película "El coloso en llamas" (ID 0072308 en IMDb, ID 246863 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:35] INFO: Añadida película "Por un puñado de dólares" (ID 0058461 en IMDb, ID 270893 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:37] INFO: Añadida película "La muerte tenía un precio" (ID 0059578 en IMDb, ID 956445 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:40] INFO: Añadida película "El bueno, el feo y el malo" (ID 0060196 en IMDb, ID 277815 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:42] INFO: Añadida película "Sin perdón" (ID 0105695 en IMDb, ID 262344 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:44] INFO: Añadida película "El oro de Mackenna" (ID 0064615 en IMDb, ID 659211 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:47] INFO: Añadida película "Harry el sucio" (ID 0066999 en IMDb, ID 571114 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:49] INFO: Añadida película "Harry el fuerte" (ID 0070355 en IMDb, ID 894922 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:51] INFO: Añadida película "Harry el ejecutor" (ID 0074483 en IMDb, ID 986344 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:53] INFO: Añadida película "Impacto súbito" (ID 0086383 en IMDb, ID 170770 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:55] INFO: Añadida película "La lista negra" (ID 0094963 en IMDb, ID 411509 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:57] INFO: Añadida película "Gran Torino" (ID 1205489 en IMDb, ID 539054 en FilmAffinity) a la base de datos.
+[2019-05-15 22:11:59] INFO: Añadida película "Million Dollar Baby" (ID 0405159 en IMDb, ID 314359 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:02] INFO: Añadida película "Mystic River" (ID 0327056 en IMDb, ID 121917 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:04] INFO: Añadida película "El fuera de la ley" (ID 0075029 en IMDb, ID 570984 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:07] INFO: Añadida película "1997: Rescate en Nueva York" (ID 0082340 en IMDb, ID 409098 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:09] INFO: Añadida película "Infierno de cobardes" (ID 0068699 en IMDb, ID 918109 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:11] INFO: Añadida película "El jinete pálido" (ID 0089767 en IMDb, ID 262525 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:13] INFO: Añadida película "En la línea de fuego" (ID 0107206 en IMDb, ID 400925 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:15] INFO: Añadida película "Un mundo perfecto" (ID 0107808 en IMDb, ID 229222 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:17] INFO: Añadida película "Escalofrío en la noche" (ID 0067588 en IMDb, ID 972736 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:19] INFO: Añadida película "Cometieron dos errores" (ID 0061747 en IMDb, ID 490679 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:21] INFO: Añadida película "Dos mulas y una mujer" (ID 0065134 en IMDb, ID 914287 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:23] INFO: Añadida película "La jungla humana" (ID 0062824 en IMDb, ID 582352 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:26] INFO: Añadida película "Ejecución inminente" (ID 0139668 en IMDb, ID 706255 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:28] INFO: Añadida película "Poder absoluto" (ID 0118548 en IMDb, ID 930474 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:30] INFO: Añadida película "El intercambio" (ID 0824747 en IMDb, ID 355264 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:32] INFO: Añadida película "El sargento de hierro" (ID 0091187 en IMDb, ID 387890 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:34] INFO: Añadida película "2013: Rescate en L.A." (ID 0116225 en IMDb, ID 436222 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:37] INFO: Añadida película "Reservoir Dogs" (ID 0105236 en IMDb, ID 137887 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:40] INFO: Añadida película "Pulp Fiction" (ID 0110912 en IMDb, ID 160882 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:42] INFO: Añadida película "Jackie Brown" (ID 0119396 en IMDb, ID 895044 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:45] INFO: Añadida película "Kill Bill: Volumen 1" (ID 0266697 en IMDb, ID 524439 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:47] INFO: Añadida película "Kill Bill: Volumen 2" (ID 0378194 en IMDb, ID 968175 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:50] INFO: Añadida película "Sin City: Ciudad del pecado" (ID 0401792 en IMDb, ID 495832 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:53] INFO: Añadida película "Death Proof" (ID 1028528 en IMDb, ID 745914 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:55] INFO: Añadida película "Grindhouse: Planet Terror" (ID 1077258 en IMDb, ID 773732 en FilmAffinity) a la base de datos.
+[2019-05-15 22:12:58] INFO: Añadida película "Malditos bastardos" (ID 0361748 en IMDb, ID 746997 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:00] INFO: Añadida película "Django desencadenado" (ID 1853728 en IMDb, ID 929558 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:03] INFO: Añadida película "Los odiosos ocho" (ID 3460252 en IMDb, ID 647932 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:05] INFO: Añadida película "El salario del miedo" (ID 0046268 en IMDb, ID 463225 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:09] INFO: Añadida película "Tiburón" (ID 0073195 en IMDb, ID 242422 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:12] INFO: Añadida película "Carrie" (ID 0074285 en IMDb, ID 283316 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:14] INFO: Añadida película "Movida del 76" (ID 0106677 en IMDb, ID 784628 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:16] INFO: Añadida película "American Graffiti" (ID 0069704 en IMDb, ID 563823 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:18] INFO: Añadida película "El quinto elemento" (ID 0119116 en IMDb, ID 217833 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:21] INFO: Añadida película "Encuentros en la tercera fase" (ID 0075860 en IMDb, ID 941282 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:23] INFO: Añadida película "Sin motivo aparente" (ID 0292610 en IMDb, ID 488866 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:26] INFO: Añadida película "El principiante" (ID 0100514 en IMDb, ID 450303 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:26] ERROR: EMDB - Problema cargando película La máquina del tiempo (Índice 151)
+[2019-05-15 22:13:29] INFO: Añadida película "El planeta de los simios" (ID 0063442 en IMDb, ID 674289 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:30] INFO: Añadida película "Regreso al planeta de los simios" (ID 0065462 en IMDb, ID 166944 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:32] INFO: Añadida película "Huida del planeta de los simios" (ID 0067065 en IMDb, ID 101175 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:34] INFO: Añadida película "La rebelión de los simios" (ID 0068408 en IMDb, ID 373699 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:36] INFO: Añadida película "Batalla por el planeta de los simios" (ID 0069768 en IMDb, ID 731272 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:39] INFO: Añadida película "El origen del planeta de los simios" (ID 1318514 en IMDb, ID 793766 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:42] INFO: Añadida película "El amanecer del planeta de los simios" (ID 2103281 en IMDb, ID 613575 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:44] INFO: Añadida película "La mosca" (ID 0091064 en IMDb, ID 353875 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:45] ERROR: EMDB - Problema cargando película Telefono rojo? Volamos hacia Moscú (Índice 160)
+[2019-05-15 22:13:47] INFO: Añadida película "Atraco perfecto" (ID 0049406 en IMDb, ID 394545 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:49] INFO: Añadida película "Lolita" (ID 0056193 en IMDb, ID 560132 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:50] INFO: Añadida película "El seductor" (ID 0066819 en IMDb, ID 842394 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:53] INFO: Añadida película "La leyenda de la ciudad sin nombre" (ID 0064782 en IMDb, ID 689189 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:55] INFO: Añadida película "Joe Kidd" (ID 0068768 en IMDb, ID 238895 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:56] INFO: Añadida película "Un botín de 500.000 dólares" (ID 0072288 en IMDb, ID 969006 en FilmAffinity) a la base de datos.
+[2019-05-15 22:13:58] INFO: Añadida película "El último hombre sobre la Tierra" (ID 0058700 en IMDb, ID 193915 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:00] INFO: Añadida película "El último hombre... vivo" (ID 0067525 en IMDb, ID 347267 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:03] INFO: Añadida película "Soy leyenda" (ID 0480249 en IMDb, ID 356363 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:06] INFO: Añadida película "El silencio de los corderos" (ID 0102926 en IMDb, ID 768790 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:08] INFO: Añadida película "Hannibal" (ID 0212985 en IMDb, ID 213219 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:10] INFO: Añadida película "El dragón rojo" (ID 0289765 en IMDb, ID 728672 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:12] INFO: Añadida película "Déjame entrar" (ID 1139797 en IMDb, ID 666185 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:12] ERROR: EMDB - Problema cargando película Hellraiser (Los que traen el infierno) (Índice 174)
+[2019-05-15 22:14:14] INFO: Añadida película "American Psycho" (ID 0144084 en IMDb, ID 449226 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:16] INFO: Añadida película "El quimérico inquilino" (ID 0074811 en IMDb, ID 968575 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:18] INFO: Añadida película "Terror en Amityville" (ID 0078767 en IMDb, ID 528018 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:20] INFO: Añadida película "Suspense" (ID 0055018 en IMDb, ID 385125 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:24] INFO: Añadida película "El exorcista" (ID 0070047 en IMDb, ID 519065 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:26] INFO: Añadida película "La casa encantada" (ID 0057129 en IMDb, ID 467914 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:27] ERROR: EMDB - Problema cargando película Nosferatu el vampiro (Índice 181)
+[2019-05-15 22:14:29] INFO: Añadida película "Henry, retrato de un asesino" (ID 0099763 en IMDb, ID 917906 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:31] INFO: Añadida película "Pontypool" (ID 1226681 en IMDb, ID 580839 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:33] INFO: Añadida película "Mimic" (ID 0119675 en IMDb, ID 412378 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:35] INFO: Añadida película "El efecto mariposa" (ID 0289879 en IMDb, ID 235464 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:39] INFO: Añadida película "Seven" (ID 0114369 en IMDb, ID 575149 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:40] INFO: Añadida película "La isla del Doctor Moreau" (ID 0076210 en IMDb, ID 866004 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:43] INFO: Añadida película "La conversación" (ID 0071360 en IMDb, ID 963644 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:45] INFO: Añadida película "Impacto" (ID 0082085 en IMDb, ID 907867 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:48] INFO: Añadida película "Infiltrados" (ID 0407887 en IMDb, ID 518309 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:50] INFO: Añadida película "Cadena perpetua" (ID 0111161 en IMDb, ID 161026 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:52] INFO: Añadida película "Un condenado a muerte se ha escapado" (ID 0049902 en IMDb, ID 584476 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:55] INFO: Añadida película "En el nombre del padre" (ID 0107207 en IMDb, ID 376985 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:57] INFO: Añadida película "La gran ilusión" (ID 0028950 en IMDb, ID 174723 en FilmAffinity) a la base de datos.
+[2019-05-15 22:14:59] INFO: Añadida película "La leyenda del indomable" (ID 0061512 en IMDb, ID 895766 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:01] INFO: Añadida película "La milla verde" (ID 0120689 en IMDb, ID 463120 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:03] INFO: Añadida película "El hombre de Alcatraz" (ID 0055798 en IMDb, ID 296296 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:05] INFO: Añadida película "El lago azul" (ID 0080453 en IMDb, ID 716465 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:08] INFO: Añadida película "Regreso al lago azul" (ID 0102782 en IMDb, ID 386833 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:10] INFO: Añadida película "Celda 211" (ID 1242422 en IMDb, ID 270489 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:12] INFO: Añadida película "Robinson Crusoe" (ID 0117496 en IMDb, ID 596812 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:14] INFO: Añadida película "Robinson Crusoe" (ID 0044386 en IMDb, ID 388274 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:17] INFO: Añadida película "El halcón maltés" (ID 0033870 en IMDb, ID 174261 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:19] INFO: Añadida película "La cabaña en el bosque" (ID 1259521 en IMDb, ID 637438 en FilmAffinity) a la base de datos.
+[2019-05-15 22:15:21] ERROR: Añadiendo película a la base de datos.
+[2019-05-15 22:15:21] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:21] ERROR: EMDB - Problema cargando película Frankenstein (Índice 207)
+[2019-05-15 22:15:21] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:21] ERROR: EMDB - Problema cargando película El jovencito Frankenstein (Índice 208)
+[2019-05-15 22:15:21] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:21] ERROR: EMDB - Problema cargando película Dracula (Índice 209)
+[2019-05-15 22:15:21] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:21] ERROR: EMDB - Problema cargando película El hombre lobo (Índice 210)
+[2019-05-15 22:15:21] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:21] ERROR: EMDB - Problema cargando película Un hombre lobo americano en Londres (Índice 211)
+[2019-05-15 22:15:21] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:21] ERROR: EMDB - Problema cargando película Memento (Índice 212)
+[2019-05-15 22:15:21] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:21] ERROR: EMDB - Problema cargando película Pi, fe en el caos (Índice 213)
+[2019-05-15 22:15:21] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:21] ERROR: EMDB - Problema cargando película Olvidate de mí! (Índice 214)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película Primer (Índice 215)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película Donnie Darko (Índice 216)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película Bad Boy Bubby (Índice 217)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película El hombre de las flores (Índice 218)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película El cienpies humano (Índice 219)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película El cienpies humano 2 (Índice 220)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película El cienpies humano 3 (Índice 221)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película A serbian film (Índice 222)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película Metrópolis (Índice 223)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película El acorazado Potemkin (Índice 224)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película Amanecer (Índice 225)
+[2019-05-15 22:15:22] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:22] ERROR: EMDB - Problema cargando película Dr. Mabuse, el jugador (Índice 226)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película El testamento del Dr. Mabuse (Índice 227)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película El gabinete del doctor Caligari (Índice 228)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película Y el mundo marcha (Índice 229)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película Avaricia (Índice 230)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película El ladrón de Bagdad (Índice 231)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película La verdad oculta (Índice 232)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película Condenados a fugarse (Índice 233)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película Johnny Mnemonic (Índice 234)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película Rios de color púrpura (Índice 235)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película Rios de color purpura 2: Los ángeles del apocalipsis (Índice 236)
+[2019-05-15 22:15:23] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:23] ERROR: EMDB - Problema cargando película El enemigo de las rubias (Índice 237)
+[2019-05-15 22:15:24] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:24] ERROR: EMDB - Problema cargando película Chantaje (Índice 238)
+[2019-05-15 22:15:24] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:24] ERROR: EMDB - Problema cargando película El hombre que sabía demasiado (Índice 239)
+[2019-05-15 22:15:24] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:24] ERROR: EMDB - Problema cargando película 39 escalones (Índice 240)
+[2019-05-15 22:15:24] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:24] ERROR: EMDB - Problema cargando película Alarma en el expreso (Índice 241)
+[2019-05-15 22:15:24] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:24] ERROR: EMDB - Problema cargando película Enviado especial (Índice 242)
+[2019-05-15 22:15:24] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:24] ERROR: EMDB - Problema cargando película Rebeca (Índice 243)
+[2019-05-15 22:15:24] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:24] ERROR: EMDB - Problema cargando película Sospecha (Índice 244)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Sabotaje (Índice 245)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película La sombra de una duda (Índice 246)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Recuerda (Índice 247)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Encadenados (Índice 248)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película La soga (Índice 249)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Panico en la escena (Índice 250)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Extraños en un tren (Índice 251)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Yo confieso (Índice 252)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Crimen perfecto (Índice 253)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película La ventana indiscreta (Índice 254)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Atrapa a un ladrón (Índice 255)
+[2019-05-15 22:15:25] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:25] ERROR: EMDB - Problema cargando película Pero... ¿quién mató a Harry? (Índice 256)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película El hombre que sabía demasiado (Índice 257)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Falso culpable (Índice 258)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Vertigo (Índice 259)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Con la muerte en los talones (Índice 260)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Psicosis (Índice 261)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Los pájaros (Índice 262)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Marnie, la ladrona (Índice 263)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Cortina rasgada (Índice 264)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Topaz (Índice 265)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Frenesí (Índice 266)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película La trama (Índice 267)
+[2019-05-15 22:15:26] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:26] ERROR: EMDB - Problema cargando película Tiempos modernos (Índice 268)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película El chico (Índice 269)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película El gran dictador (Índice 270)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película La quimera del oro (Índice 271)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película Luces de la ciudad (Índice 272)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película El maquinista de La General (Índice 273)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película El moderno Sherlock Holmes (Índice 274)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película El hombre mosca (Índice 275)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película Ataque! (Índice 276)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película Doce del patíbulo (Índice 277)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película Taxi Driver (Índice 278)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película El ilusionista (Índice 279)
+[2019-05-15 22:15:27] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:27] ERROR: EMDB - Problema cargando película Insomnio (Índice 280)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película El truco final (El prestigio) (Índice 281)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película Origen (Índice 282)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película Interstellar (Índice 283)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película La invención de Hugo (Índice 284)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película El club de la lucha (Índice 285)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película El gran Gatsby (Índice 286)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película The Artist (Índice 287)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película Salvar al soldado Ryan (Índice 288)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película Forrest Gump (Índice 289)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película The Ring (Índice 290)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película The Ring (Índice 291)
+[2019-05-15 22:15:28] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:28] ERROR: EMDB - Problema cargando película El indomable Will Hunting (Índice 292)
+[2019-05-15 22:15:29] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: Añadiendo película a la base de datos.
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película Toro salvaje (Índice 294)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película Apocalypse Now (Índice 295)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película Despertares (Índice 296)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película Los intocables de Eliot Ness (Índice 297)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película El padrino (Índice 298)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película El padrino: Parte II (Índice 299)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película El padrino: Parte III (Índice 300)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película La misión (Índice 301)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película Huida a medianoche (Índice 302)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película Goodfellas: Uno de los nuestros (Índice 303)
+[2019-05-15 22:15:31] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:31] ERROR: EMDB - Problema cargando película Heat (Índice 304)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película Los padres de ella (Índice 305)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película Zeitgeist (Índice 306)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película Fahrenheit 451 (Índice 307)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película Fahrenheit 9/11 (Índice 308)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película Malas calles (Índice 309)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película El rey de la comedia (Índice 310)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película Erase una vez en América (Índice 311)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película El cabo del miedo (Índice 312)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película El cabo del terror (Índice 313)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película La chica del gángster (Índice 314)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película Casino (Índice 315)
+[2019-05-15 22:15:32] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:32] ERROR: EMDB - Problema cargando película Una historia del Bronx (Índice 316)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película El golpe (Índice 317)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Dogville (Índice 318)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Los chicos del maíz (Índice 319)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Charly (Índice 320)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Flatland (Índice 321)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película El libro de Eli (Índice 322)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Canino (Dogtooth) (Índice 323)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Mulholland Drive (Índice 324)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Eraserhead: Cabeza borradora (Índice 325)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película El hombre elefante (Índice 326)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Terciopelo azul (Índice 327)
+[2019-05-15 22:15:33] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:33] ERROR: EMDB - Problema cargando película Twin Peaks: fuego camina conmigo (Índice 328)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Carretera perdida (Índice 329)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Una historia verdadera (Índice 330)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Inland Empire (Índice 331)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película La habitación de Fermat (Índice 332)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Colegio privado (Índice 333)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película El lobo de Wall Street (Índice 334)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Freaks: La parada de los monstruos (Índice 335)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Jumanji (Índice 336)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película La carretera (Índice 337)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Doce hombres sin piedad (Índice 338)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Atrapado en el tiempo (Índice 339)
+[2019-05-15 22:15:34] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:34] ERROR: EMDB - Problema cargando película Escape from Tomorrow (Índice 340)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Brazil (Índice 341)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película 12 monos (Índice 342)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Teorema Zero (Índice 343)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película El sexto sentido (Índice 344)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película 127 horas (Índice 345)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Enterrado (Índice 346)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Donnie Brasco (Índice 347)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Serpico (Índice 348)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Tarde de perros (Índice 349)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Scarface, El precio del poder (Índice 350)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Scarface, el terror del hampa (Índice 351)
+[2019-05-15 22:15:35] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:35] ERROR: EMDB - Problema cargando película Exito a cualquier precio (Índice 352)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Esencia de mujer (Índice 353)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Atrapado por su pasado (Índice 354)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película El dilema (Índice 355)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Ocean's Eleven. La cuadrilla de los once (Índice 356)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Ocean's Eleven. Hagan juego (Índice 357)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Ocean's Twelve. Uno más entra en juego (Índice 358)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Ocean's Thirteen (Índice 359)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película El septimo sello (Índice 360)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Hasta que llegó su hora (Índice 361)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Agachate, maldito! (Índice 362)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Pat Garrett y Billy el niño (Índice 363)
+[2019-05-15 22:15:36] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:36] ERROR: EMDB - Problema cargando película Los siete samuráis (Índice 364)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película Akira (Índice 365)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película Idiocracia (Índice 366)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película American History X (Índice 367)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película El caso Bourne (Índice 368)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película El mito de Bourne (Índice 369)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película El ultimátum de Bourne (Índice 370)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película My Name Is 'A' by Anonymous (Índice 371)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película El mundo está loco, loco, loco (Índice 372)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película Saw (Índice 373)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película Saw II (Índice 374)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película Saw III (Índice 375)
+[2019-05-15 22:15:37] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:37] ERROR: EMDB - Problema cargando película Saw IV (Índice 376)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Saw V (Índice 377)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Saw VI (Índice 378)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Saw VII 3D (Índice 379)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Saw VIII: Legacy (Índice 380)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Terminator (Índice 381)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Commando (Índice 382)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Depredador (Índice 383)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Perseguido (Índice 384)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Desafío total (Índice 385)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Terminator 2: El juicio final (Índice 386)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:38] ERROR: EMDB - Problema cargando película Terminator 3: La rebelión de las máquinas (Índice 387)
+[2019-05-15 22:15:38] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Matrix (Índice 388)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Matrix II: Reloaded (Índice 389)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Matrix III: Revolutions (Índice 390)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Kramer contra Kramer (Índice 391)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Rain Man (Índice 392)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Matar a un ruiseñor (Índice 393)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Tiempo de matar (Índice 394)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Pena de muerte (Índice 395)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Testigo de cargo (Índice 396)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película Unico testigo (Índice 397)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película El cliente (Índice 398)
+[2019-05-15 22:15:39] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:39] ERROR: EMDB - Problema cargando película La prueba (Índice 399)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película This Is Spinal Tap (Índice 400)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Alien: El octavo pasajero (Índice 401)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Aliens 2: El regreso (Índice 402)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Alien 3 (Índice 403)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Alien 4: Resurrección (Índice 404)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Prometheus (Índice 405)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Trabajo basura (Índice 406)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Regreso al futuro (Índice 407)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Regreso al futuro II (Índice 408)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Regreso al futuro III (Índice 409)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Blade Runner (Índice 410)
+[2019-05-15 22:15:40] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:40] ERROR: EMDB - Problema cargando película Perdida (Índice 411)
+[2019-05-15 22:15:41] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:41] ERROR: EMDB - Problema cargando película Zodiac (Índice 412)
+[2019-05-15 22:15:41] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:41] ERROR: EMDB - Problema cargando película El curioso caso de Benjamin Button (Índice 413)
+[2019-05-15 22:15:41] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:41] ERROR: EMDB - Problema cargando película La red social (Índice 414)
+[2019-05-15 22:15:41] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:41] ERROR: EMDB - Problema cargando película La habitación del pánico (Índice 415)
+[2019-05-15 22:15:42] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:42] ERROR: EMDB - Problema cargando película The Game (Índice 416)
+[2019-05-15 22:15:42] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:42] ERROR: EMDB - Problema cargando película Millennium: Los hombres que no amaban a las mujeres (Índice 417)
+[2019-05-15 22:15:42] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:42] ERROR: EMDB - Problema cargando película La niebla (Índice 418)
+[2019-05-15 22:15:42] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:42] ERROR: EMDB - Problema cargando película Cujo (Índice 419)
+[2019-05-15 22:15:42] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:42] ERROR: EMDB - Problema cargando película Alguien voló sobre el nido del cuco (Índice 420)
+[2019-05-15 22:15:42] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:42] ERROR: EMDB - Problema cargando película El diablo sobre ruedas (Índice 421)
+[2019-05-15 22:15:42] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:42] ERROR: EMDB - Problema cargando película Indiana Jones: En busca del arca perdida (Índice 422)
+[2019-05-15 22:15:42] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:42] ERROR: EMDB - Problema cargando película ET El extraterrestre (Índice 423)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película En los límites de la realidad (Índice 424)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película Indiana Jones y el templo maldito (Índice 425)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película El color púrpura (Índice 426)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película El imperio del sol (Índice 427)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película Indiana Jones y la última cruzada (Índice 428)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película Parque Jurásico (Índice 429)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película La lista de Schindler (Índice 430)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película Parque Jurásico II: El mundo perdido (Índice 431)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película AI Inteligencia Artificial (Índice 434)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película Minority Report (Índice 435)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película Atrapame si puedes (Índice 436)
+[2019-05-15 22:15:43] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:43] ERROR: EMDB - Problema cargando película La terminal (Índice 437)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película La guerra de los mundos (Índice 438)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película La guerra de los mundos (Índice 439)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película Munich (Índice 440)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película Banderas de nuestros padres (Índice 441)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película Cartas desde Iwo Jima (Índice 442)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película Lincoln (Índice 443)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película El puente de los espías (Índice 444)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película El codigo Da Vinci (Índice 445)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película Leon, el profesional (Índice 446)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:44] ERROR: EMDB - Problema cargando película Network, un mundo implacable (Índice 447)
+[2019-05-15 22:15:44] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:46] ERROR: Añadiendo película a la base de datos.
+[2019-05-15 22:15:46] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:46] ERROR: EMDB - Problema cargando película Dentro del laberinto (Índice 449)
+[2019-05-15 22:15:46] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:46] ERROR: EMDB - Problema cargando película La semilla del diablo (Índice 450)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Christine (Índice 451)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Ojos de fuego (Índice 452)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Los ojos del gato (Índice 453)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Cuenta conmigo (Índice 454)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Cementerio viviente (Índice 455)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Cementerio viviente 2 (Índice 456)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Misery (Índice 457)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película La mitad oscura (Índice 458)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Verano de corrupción (Índice 459)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película 1408 (Índice 460)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película La niebla de Stephen King (Índice 461)
+[2019-05-15 22:15:47] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:47] ERROR: EMDB - Problema cargando película Los cazafantasmas (Índice 462)
+[2019-05-15 22:15:48] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:48] ERROR: EMDB - Problema cargando película Los otros (Índice 463)
+[2019-05-15 22:15:48] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:48] ERROR: EMDB - Problema cargando película Cisne negro (Índice 464)
+[2019-05-15 22:15:48] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:48] ERROR: EMDB - Problema cargando película El laberinto del fauno (Índice 465)
+[2019-05-15 22:15:48] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:48] ERROR: EMDB - Problema cargando película Requiem por un sueño (Índice 466)
+[2019-05-15 22:15:48] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:48] ERROR: EMDB - Problema cargando película Top Gun (Ídolos del aire) (Índice 467)
+[2019-05-15 22:15:48] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:48] ERROR: EMDB - Problema cargando película El graduado (Índice 468)
+[2019-05-15 22:15:48] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:48] ERROR: EMDB - Problema cargando película Ghost (Más allá del amor) (Índice 469)
+[2019-05-15 22:15:48] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:48] ERROR: EMDB - Problema cargando película Los juegos del hambre (Índice 470)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Los juegos del hambre: En llamas (Índice 471)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Monstruoso (Índice 472)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Calle Cloverfield 10 (Índice 473)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Big (Índice 474)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película El gran Lebowski (Índice 475)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película El proyecto de la bruja de Blair (Índice 476)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Expediente Warren: The Conjuring (Índice 477)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Dos policías rebeldes (Índice 478)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Independence Day (Índice 479)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Hombres de negro (Índice 480)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Ali (Índice 481)
+[2019-05-15 22:15:49] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:49] ERROR: EMDB - Problema cargando película Hombres de negro II (Índice 482)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Yo, robot (Índice 483)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Hitch: Especialista en ligues (Índice 484)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película En busca de la felicidad (Índice 485)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Hancock (Índice 486)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Siete almas (Índice 487)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Hombres de negro III (Índice 488)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Ali G anda suelto (Índice 489)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Birdman o (La inesperada virtud de la ignorancia) (Índice 490)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Asesinos natos (Índice 491)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película Contact (Índice 492)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película La jungla de cristal (Índice 493)
+[2019-05-15 22:15:50] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:50] ERROR: EMDB - Problema cargando película La jungla de cristal 2 Alerta roja (Índice 494)
+[2019-05-15 22:15:51] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:51] ERROR: EMDB - Problema cargando película La jungla de cristal 3 La venganza (Índice 495)
+[2019-05-15 22:15:51] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:51] ERROR: EMDB - Problema cargando película Looper (Índice 496)
+[2019-05-15 22:15:51] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:51] ERROR: EMDB - Problema cargando película Desayuno con diamantes (Índice 497)
+[2019-05-15 22:15:51] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:51] ERROR: EMDB - Problema cargando película El protegido (Índice 498)
+[2019-05-15 22:15:51] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:51] ERROR: EMDB - Problema cargando película El hombre que conocía el infinito (Índice 499)
+[2019-05-15 22:15:51] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:51] ERROR: EMDB - Problema cargando película Luna nueva (Índice 500)
+[2019-05-15 22:15:51] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:51] ERROR: EMDB - Problema cargando película Primera plana (Índice 501)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película Todo en un viernes (Índice 502)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película Karate Kid, el momento de la verdad (Índice 503)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película The Karate Kid (Índice 504)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película Charada (Índice 505)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película Grupo salvaje (Índice 506)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película De aqui a la eternidad (Índice 507)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película Veracruz (Índice 508)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película Marty (Índice 509)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película Dos hombres y un destino (Índice 510)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película El Dorado (Índice 511)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película La extraña pareja (Índice 512)
+[2019-05-15 22:15:52] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:52] ERROR: EMDB - Problema cargando película Homicidio en primer grado (Índice 513)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película Los jovenes salvajes (Índice 514)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película El mensajero del miedo (Índice 515)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película Siete días de mayo (Índice 516)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película El tren (Índice 517)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película Plan diabólico (Índice 518)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película El hombre de Kiev (Índice 519)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película Los temerarios del aire (Índice 520)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película Yo vigilo el camino (Índice 521)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película Orgullo de estirpe (Índice 522)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película El repartidor de hielo (Índice 523)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película French Connection, Contra el imperio de la droga (Índice 524)
+[2019-05-15 22:15:53] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:53] ERROR: EMDB - Problema cargando película French Connection II (Índice 525)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película Domingo negro (Índice 526)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película Ronin (Índice 527)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película The Faculty (Índice 528)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película El conde de Montecristo (Índice 529)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película Moby Dick (Índice 530)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película Bonnie y Clyde (Índice 531)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película En el calor de la noche (Índice 532)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película A sangre fría (Índice 533)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película El gran Gatsby (Índice 534)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película La novena configuración (Índice 535)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película Nunca canté para mi padre (Índice 536)
+[2019-05-15 22:15:54] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:54] ERROR: EMDB - Problema cargando película Arde Mississippi (Índice 537)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película La tapadera (Índice 538)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película Sabrina (Índice 539)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película Sabrina (y sus amores) (Índice 540)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película Juegos de guerra (Índice 541)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película Instinto básico (Índice 542)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película Casablanca (Índice 543)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película Solo en casa (Índice 544)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película Cabaret (Índice 545)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película A Chorus Line (Índice 546)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película El fugitivo (Índice 547)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película Batman Begins (Índice 548)
+[2019-05-15 22:15:55] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:55] ERROR: EMDB - Problema cargando película El caballero oscuro (Índice 549)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película El caballero oscuro: La leyenda renace (Índice 550)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película JFK (Caso abierto) (Índice 551)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película No es país para viejos (Índice 552)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película Trainspotting (Índice 553)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película Drugstore Cowboy (Índice 554)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película Speed: Máxima potencia (Índice 555)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película Desaparecida (Índice 556)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película Todos los hombres del presidente (Índice 557)
+[2019-05-15 22:15:56] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:56] ERROR: EMDB - Problema cargando película Calma total (Índice 558)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película King Kong (Índice 559)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película King Kong (Índice 560)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película Soylent Green: Cuando el destino nos alcance (Índice 561)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película Viaje alucinante (Índice 562)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película Mis dobles, mi mujer y yo (Índice 563)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película Los crimenes del museo de cera (Índice 564)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película Los crimenes del museo (Índice 565)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película Doctor X (Índice 566)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película La camara de los horrores (Índice 567)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película Tron (Índice 568)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película El hombre invisible (Índice 569)
+[2019-05-15 22:15:57] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:57] ERROR: EMDB - Problema cargando película El hombre invisible vuelve (Índice 570)
+[2019-05-15 22:15:58] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:58] ERROR: EMDB - Problema cargando película La venganza del hombre invisible (Índice 571)
+[2019-05-15 22:15:58] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:58] ERROR: EMDB - Problema cargando película Los ángeles del infierno (Índice 572)
+[2019-05-15 22:15:58] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:58] ERROR: EMDB - Problema cargando película Abierto hasta el amanecer (Índice 573)
+[2019-05-15 22:15:58] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:58] ERROR: EMDB - Problema cargando película Sed de mal (Índice 574)
+[2019-05-15 22:15:58] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:58] ERROR: EMDB - Problema cargando película Grita, asesino (Índice 575)
+[2019-05-15 22:15:58] ERROR: Realizando una búsqueda en la web Filmaffinity.
+[2019-05-15 22:15:58] ERROR: EMDB - Problema cargando película La pequeña tienda de los horrores (Índice 576)
+[2019-05-15 22:39:54] : ----------------------------------------------------------
+[2019-05-15 22:39:54] INFO: Programa ejecutado.
+[2019-05-15 22:39:54] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 22:39:54] INFO: Copia de seguridad automática realizada.
+[2019-05-15 22:40:39] : ----------------------------------------------------------
+[2019-05-15 22:40:39] INFO: Programa ejecutado.
+[2019-05-15 22:40:39] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 22:40:39] INFO: Copia de seguridad automática realizada.
+[2019-05-15 22:40:53] : ----------------------------------------------------------
+[2019-05-15 22:40:53] INFO: Programa ejecutado.
+[2019-05-15 22:40:53] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 22:40:53] INFO: Copia de seguridad automática realizada.
+[2019-05-15 22:47:25] : ----------------------------------------------------------
+[2019-05-15 22:47:25] INFO: Programa ejecutado.
+[2019-05-15 22:47:25] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 22:47:25] INFO: Copia de seguridad automática realizada.
+[2019-05-15 22:48:37] : ----------------------------------------------------------
+[2019-05-15 22:48:37] INFO: Programa ejecutado.
+[2019-05-15 22:48:37] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 22:48:37] INFO: Copia de seguridad automática realizada.
+[2019-05-15 22:54:31] : ----------------------------------------------------------
+[2019-05-15 22:54:31] INFO: Programa ejecutado.
+[2019-05-15 22:54:32] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 22:54:32] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:28:22] : ----------------------------------------------------------
+[2019-05-15 23:28:22] INFO: Programa ejecutado.
+[2019-05-15 23:28:22] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:28:22] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:29:15] : ----------------------------------------------------------
+[2019-05-15 23:29:15] INFO: Programa ejecutado.
+[2019-05-15 23:29:15] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:29:15] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:35:16] : ----------------------------------------------------------
+[2019-05-15 23:35:16] INFO: Programa ejecutado.
+[2019-05-15 23:35:16] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:35:16] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:39:54] : ----------------------------------------------------------
+[2019-05-15 23:39:54] INFO: Programa ejecutado.
+[2019-05-15 23:39:54] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:39:54] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:40:55] : ----------------------------------------------------------
+[2019-05-15 23:40:55] INFO: Programa ejecutado.
+[2019-05-15 23:40:55] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:40:55] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:41:20] : ----------------------------------------------------------
+[2019-05-15 23:41:20] INFO: Programa ejecutado.
+[2019-05-15 23:41:20] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:41:20] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:42:14] : ----------------------------------------------------------
+[2019-05-15 23:42:14] INFO: Programa ejecutado.
+[2019-05-15 23:42:14] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:42:14] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:42:21] : ----------------------------------------------------------
+[2019-05-15 23:42:21] INFO: Programa ejecutado.
+[2019-05-15 23:42:21] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:42:21] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:42:36] : ----------------------------------------------------------
+[2019-05-15 23:42:36] INFO: Programa ejecutado.
+[2019-05-15 23:42:36] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:42:36] INFO: Copia de seguridad automática realizada.
+[2019-05-15 23:43:39] : ----------------------------------------------------------
+[2019-05-15 23:43:39] INFO: Programa ejecutado.
+[2019-05-15 23:43:39] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-15 23:43:39] INFO: Copia de seguridad automática realizada.
+[2019-05-16 00:04:13] : ----------------------------------------------------------
+[2019-05-16 00:04:13] INFO: Programa ejecutado.
+[2019-05-16 00:04:13] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-16 00:04:13] INFO: Copia de seguridad automática realizada.
+[2019-05-16 00:04:32] : ----------------------------------------------------------
+[2019-05-16 00:04:32] INFO: Programa ejecutado.
+[2019-05-16 00:04:32] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-16 00:04:32] INFO: Copia de seguridad automática realizada.
+[2019-05-16 00:06:08] : ----------------------------------------------------------
+[2019-05-16 00:06:08] INFO: Programa ejecutado.
+[2019-05-16 00:06:08] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-16 00:06:08] INFO: Copia de seguridad automática realizada.
+[2019-05-16 00:12:49] : ----------------------------------------------------------
+[2019-05-16 00:12:49] INFO: Programa ejecutado.
+[2019-05-16 00:12:49] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-16 00:12:49] INFO: Copia de seguridad automática realizada.
+[2019-05-16 00:13:50] : ----------------------------------------------------------
+[2019-05-16 00:13:50] INFO: Programa ejecutado.
+[2019-05-16 00:13:50] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-16 00:13:50] INFO: Copia de seguridad automática realizada.
+[2019-05-16 00:13:50] : ----------------------------------------------------------
+[2019-05-16 00:13:50] INFO: Programa ejecutado.
+[2019-05-16 00:13:50] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-16 00:13:50] INFO: Copia de seguridad automática realizada.
+[2019-05-16 00:13:51] : ----------------------------------------------------------
+[2019-05-16 00:13:51] INFO: Programa ejecutado.
+[2019-05-16 00:13:51] INFO: Base de datos cargada, hay 190 películas.
+[2019-05-16 00:13:51] INFO: Copia de seguridad automática realizada.
