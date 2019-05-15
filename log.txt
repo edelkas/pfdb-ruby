@@ -2102,3 +2102,245 @@
 [2019-05-15 01:23:45] INFO: Añadida película "Pesadilla en Elm Street 3: Los guerreros del sueño" (ID 0093629 en IMDb, ID 229708 en FilmAffinity) a la base de datos.
 [2019-05-15 01:23:47] INFO: Añadida película "Pesadilla en Elm Street 4: El amo del sueño" (ID 0095742 en IMDb, ID 853742 en FilmAffinity) a la base de datos.
 [2019-05-15 01:23:49] INFO: Añadida película "Pesadilla en Elm Street 5: El niño de los sueños" (ID 0097981 en IMDb, ID 428887 en FilmAffinity) a la base de datos.
+[2019-05-15 01:57:30] : ----------------------------------------------------------
+[2019-05-15 01:57:30] INFO: Programa ejecutado.
+[2019-05-15 01:57:30] INFO: Base de datos cargada, hay 66 películas.
+[2019-05-15 01:57:30] INFO: Copia de seguridad automática realizada.
+[2019-05-15 01:57:32] INFO: Base de datos de EMDB cargada, hay 0 películas.
+[2019-05-15 01:57:56] : ----------------------------------------------------------
+[2019-05-15 01:57:56] INFO: Programa ejecutado.
+[2019-05-15 01:57:56] INFO: Base de datos cargada, hay 66 películas.
+[2019-05-15 01:57:56] INFO: Copia de seguridad automática realizada.
+[2019-05-15 01:57:57] INFO: Base de datos de EMDB cargada, hay 0 películas.
+[2019-05-15 01:59:11] : ----------------------------------------------------------
+[2019-05-15 01:59:11] INFO: Programa ejecutado.
+[2019-05-15 01:59:11] INFO: Base de datos cargada, hay 66 películas.
+[2019-05-15 01:59:11] INFO: Copia de seguridad automática realizada.
+[2019-05-15 01:59:13] INFO: Base de datos de EMDB cargada, hay 0 películas.
+[2019-05-15 02:24:29] : ----------------------------------------------------------
+[2019-05-15 02:24:29] INFO: Programa ejecutado.
+[2019-05-15 02:24:29] INFO: Base de datos cargada, hay 66 películas.
+[2019-05-15 02:24:29] INFO: Copia de seguridad automática realizada.
+[2019-05-15 02:24:30] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-05-15 02:24:30] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-05-15 02:24:30] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-05-15 02:24:30] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-05-15 02:24:30] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-05-15 02:24:30] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-05-15 02:24:30] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-05-15 02:24:30] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-05-15 02:24:30] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-05-15 02:24:30] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-05-15 02:24:30] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-05-15 02:24:30] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-05-15 02:24:30] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-05-15 02:24:30] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-05-15 02:24:30] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-05-15 02:24:30] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-05-15 02:24:30] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-05-15 02:24:30] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-05-15 02:24:30] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-05-15 02:24:30] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-05-15 02:24:30] INFO: EMDB - La película El resplandor ya está en la base de datos (Índices 20)
+[2019-05-15 02:24:30] INFO: EMDB - La película La naranja mecánica ya está en la base de datos (Índices 21)
+[2019-05-15 02:24:30] INFO: EMDB - La película La chaqueta metálica ya está en la base de datos (Índices 22)
+[2019-05-15 02:24:30] INFO: EMDB - La película Cube ya está en la base de datos (Índices 23)
+[2019-05-15 02:24:30] INFO: EMDB - La película Cube 2: Hypercube ya está en la base de datos (Índices 24)
+[2019-05-15 02:24:30] INFO: EMDB - La película Cube Zero ya está en la base de datos (Índices 25)
+[2019-05-15 02:24:30] INFO: EMDB - La película 9 extraños ya está en la base de datos (Índices 26)
+[2019-05-15 02:24:30] INFO: EMDB - La película La celda ya está en la base de datos (Índices 27)
+[2019-05-15 02:24:30] INFO: EMDB - La película La mosca ya está en la base de datos (Índices 28)
+[2019-05-15 02:24:30] INFO: EMDB - La película Breathing Room ya está en la base de datos (Índices 29)
+[2019-05-15 02:24:30] INFO: EMDB - La película El regreso de la mosca ya está en la base de datos (Índices 30)
+[2019-05-15 02:24:30] INFO: EMDB - La película La cosa (El enigma de otro mundo) ya está en la base de datos (Índices 31)
+[2019-05-15 02:24:30] INFO: EMDB - La película Re-Animator ya está en la base de datos (Índices 32)
+[2019-05-15 02:24:30] INFO: EMDB - La película Viscosidad ya está en la base de datos (Índices 33)
+[2019-05-15 02:24:30] INFO: EMDB - La película Videodrome ya está en la base de datos (Índices 34)
+[2019-05-15 02:24:30] INFO: EMDB - La película Scanners ya está en la base de datos (Índices 35)
+[2019-05-15 02:24:30] INFO: EMDB - La película Vinieron de dentro de... ya está en la base de datos (Índices 36)
+[2019-05-15 02:24:30] INFO: EMDB - La película La zona muerta ya está en la base de datos (Índices 37)
+[2019-05-15 02:24:30] INFO: EMDB - La película La invasión de los ladrones de cuerpos ya está en la base de datos (Índices 38)
+[2019-05-15 02:24:30] INFO: EMDB - La película Inseparables ya está en la base de datos (Índices 39)
+[2019-05-15 02:24:30] INFO: EMDB - La película La matanza de Texas ya está en la base de datos (Índices 40)
+[2019-05-15 02:24:30] INFO: EMDB - La película La noche de los muertos vivientes ya está en la base de datos (Índices 41)
+[2019-05-15 02:24:31] ERROR: EMDB - Problema cargando película 
+El motel del infierno (Índice 45)
+[2019-05-15 02:24:31] INFO: EMDB - La película Colinas sangrientas (Video 2009) ya está en la base de datos (Índices 42)
+[2019-05-15 02:24:31] INFO: EMDB - La película Los extraños ya está en la base de datos (Índices 43)
+[2019-05-15 02:24:31] INFO: EMDB - La película Navidades negras ya está en la base de datos (Índices 44)
+[2019-05-15 02:24:31] INFO: EMDB - La película Noche de paz, noche de muerte ya está en la base de datos (Índices 45)
+[2019-05-15 02:24:31] INFO: EMDB - La película Cumpleaños mortal ya está en la base de datos (Índices 46)
+[2019-05-15 02:24:31] INFO: EMDB - La película Prom Night. Llamadas de terror ya está en la base de datos (Índices 47)
+[2019-05-15 02:24:31] INFO: EMDB - La película San Valentín sangriento ya está en la base de datos (Índices 48)
+[2019-05-15 02:24:31] INFO: EMDB - La película Solos en la oscuridad ya está en la base de datos (Índices 49)
+[2019-05-15 02:24:31] INFO: EMDB - La película Posesión infernal ya está en la base de datos (Índices 50)
+[2019-05-15 02:24:31] INFO: EMDB - La película Terroríficamente muertos ya está en la base de datos (Índices 51)
+[2019-05-15 02:24:31] INFO: EMDB - La película El ejército de las tinieblas ya está en la base de datos (Índices 52)
+[2019-05-15 02:24:31] INFO: EMDB - La película El cortador de césped ya está en la base de datos (Índices 53)
+[2019-05-15 02:24:31] INFO: EMDB - La película Maniac ya está en la base de datos (Índices 54)
+[2019-05-15 02:24:31] INFO: EMDB - La película Maniac Cop ya está en la base de datos (Índices 55)
+[2019-05-15 02:24:31] ERROR: EMDB - Problema cargando película 
+Living Dead 2: Dawn of the dead (Índice 60)
+[2019-05-15 02:24:31] ERROR: EMDB - Problema cargando película 
+Living Dead 3: El día de los muertos (Índice 61)
+[2019-05-15 02:24:31] INFO: EMDB - La película Creepshow ya está en la base de datos (Índices 56)
+[2019-05-15 02:24:31] INFO: EMDB - La película Creepshow 2 ya está en la base de datos (Índices 57)
+[2019-05-15 02:24:31] INFO: EMDB - La película El asesino de Rosemary ya está en la base de datos (Índices 58)
+[2019-05-15 02:24:31] INFO: EMDB - La película El vengador tóxico ya está en la base de datos (Índices 59)
+[2019-05-15 02:24:31] INFO: EMDB - La película Poltergeist (Fenómenos extraños) ya está en la base de datos (Índices 60)
+[2019-05-15 02:24:31] INFO: EMDB - La película Pesadilla en Elm Street ya está en la base de datos (Índices 61)
+[2019-05-15 02:24:31] INFO: EMDB - La película Pesadilla en Elm Street 2: La venganza de Freddy ya está en la base de datos (Índices 62)
+[2019-05-15 02:24:31] INFO: EMDB - La película Pesadilla en Elm Street 3: Los guerreros del sueño ya está en la base de datos (Índices 63)
+[2019-05-15 02:24:31] INFO: EMDB - La película Pesadilla en Elm Street 4: El amo del sueño ya está en la base de datos (Índices 64)
+[2019-05-15 02:24:31] INFO: EMDB - La película Pesadilla en Elm Street 5: El niño de los sueños ya está en la base de datos (Índices 65)
+[2019-05-15 02:24:33] INFO: Añadida película "Pesadilla final: La muerte de Freddy" (ID 0101917 en IMDb, ID 141666 en FilmAffinity) a la base de datos.
+[2019-05-15 02:24:34] ERROR: EMDB - Problema cargando película 
+Pesadilla en Elm Street 7: La nueva pesadilla de Wes Craven (Índice 76)
+[2019-05-15 02:24:36] INFO: Añadida película "Candyman, el dominio de la mente" (ID 0103919 en IMDb, ID 337102 en FilmAffinity) a la base de datos.
+[2019-05-15 02:24:37] INFO: Añadida película "Braindead: tu madre se ha comido a mi perro" (ID 0103873 en IMDb, ID 154413 en FilmAffinity) a la base de datos.
+[2019-05-15 02:24:39] INFO: Añadida película "Mal gusto (Bad Taste)" (ID 0092610 en IMDb, ID 788407 en FilmAffinity) a la base de datos.
+[2019-05-15 02:24:41] INFO: Añadida película "Cromosoma 3" (ID 0078908 en IMDb, ID 169165 en FilmAffinity) a la base de datos.
+[2019-05-15 02:24:43] INFO: Añadida película "La última casa a la izquierda" (ID 0068833 en IMDb, ID 480057 en FilmAffinity) a la base de datos.
+[2019-05-15 02:29:56] : ----------------------------------------------------------
+[2019-05-15 02:29:56] INFO: Programa ejecutado.
+[2019-05-15 02:29:56] INFO: Base de datos cargada, hay 72 películas.
+[2019-05-15 02:29:56] INFO: Copia de seguridad automática realizada.
+[2019-05-15 02:29:58] INFO: EMDB - La película Mad Max: Salvajes de autopista ya está en la base de datos (Índices 0)
+[2019-05-15 02:29:58] INFO: EMDB - La película Mad Max 2: El guerrero de la carretera ya está en la base de datos (Índices 1)
+[2019-05-15 02:29:58] INFO: EMDB - La película Mad Max: Más allá de la cúpula del trueno ya está en la base de datos (Índices 2)
+[2019-05-15 02:29:58] INFO: EMDB - La película Arma letal 2 ya está en la base de datos (Índices 3)
+[2019-05-15 02:29:58] INFO: EMDB - La película Arma letal ya está en la base de datos (Índices 4)
+[2019-05-15 02:29:58] INFO: EMDB - La película Arma letal 4 ya está en la base de datos (Índices 5)
+[2019-05-15 02:29:58] INFO: EMDB - La película Arma letal 3 ya está en la base de datos (Índices 6)
+[2019-05-15 02:29:58] INFO: EMDB - La película Mad Max: Furia na estrada ya está en la base de datos (Índices 7)
+[2019-05-15 02:29:58] INFO: EMDB - La película 28 días después ya está en la base de datos (Índices 8)
+[2019-05-15 02:29:58] INFO: EMDB - La película 28 semanas después ya está en la base de datos (Índices 9)
+[2019-05-15 02:29:58] INFO: EMDB - La película Náufrago ya está en la base de datos (Índices 10)
+[2019-05-15 02:29:58] INFO: EMDB - La película The Lovely Bones ya está en la base de datos (Índices 11)
+[2019-05-15 02:29:58] INFO: EMDB - La película Somos los Miller ya está en la base de datos (Índices 12)
+[2019-05-15 02:29:58] INFO: EMDB - La película Deep Impact ya está en la base de datos (Índices 13)
+[2019-05-15 02:29:58] INFO: EMDB - La película Fuga de Alcatraz ya está en la base de datos (Índices 14)
+[2019-05-15 02:29:58] INFO: EMDB - La película Jennifer 8 ya está en la base de datos (Índices 15)
+[2019-05-15 02:29:58] INFO: EMDB - La película El pacto ya está en la base de datos (Índices 16)
+[2019-05-15 02:29:58] INFO: EMDB - La película El renacido ya está en la base de datos (Índices 17)
+[2019-05-15 02:29:58] INFO: EMDB - La película La evasión ya está en la base de datos (Índices 18)
+[2019-05-15 02:29:58] INFO: EMDB - La película 2001: Una odisea del espacio ya está en la base de datos (Índices 19)
+[2019-05-15 02:29:58] INFO: EMDB - La película El resplandor ya está en la base de datos (Índices 20)
+[2019-05-15 02:29:58] INFO: EMDB - La película La naranja mecánica ya está en la base de datos (Índices 21)
+[2019-05-15 02:29:58] INFO: EMDB - La película La chaqueta metálica ya está en la base de datos (Índices 22)
+[2019-05-15 02:29:58] INFO: EMDB - La película Cube ya está en la base de datos (Índices 23)
+[2019-05-15 02:29:58] INFO: EMDB - La película Cube 2: Hypercube ya está en la base de datos (Índices 24)
+[2019-05-15 02:29:58] INFO: EMDB - La película Cube Zero ya está en la base de datos (Índices 25)
+[2019-05-15 02:29:58] INFO: EMDB - La película 9 extraños ya está en la base de datos (Índices 26)
+[2019-05-15 02:29:58] INFO: EMDB - La película La celda ya está en la base de datos (Índices 27)
+[2019-05-15 02:29:58] INFO: EMDB - La película La mosca ya está en la base de datos (Índices 28)
+[2019-05-15 02:29:58] INFO: EMDB - La película Breathing Room ya está en la base de datos (Índices 29)
+[2019-05-15 02:29:58] INFO: EMDB - La película El regreso de la mosca ya está en la base de datos (Índices 30)
+[2019-05-15 02:29:58] INFO: EMDB - La película La cosa (El enigma de otro mundo) ya está en la base de datos (Índices 31)
+[2019-05-15 02:29:58] INFO: EMDB - La película Re-Animator ya está en la base de datos (Índices 32)
+[2019-05-15 02:29:58] INFO: EMDB - La película Viscosidad ya está en la base de datos (Índices 33)
+[2019-05-15 02:29:58] INFO: EMDB - La película Videodrome ya está en la base de datos (Índices 34)
+[2019-05-15 02:29:58] INFO: EMDB - La película Scanners ya está en la base de datos (Índices 35)
+[2019-05-15 02:29:58] INFO: EMDB - La película Vinieron de dentro de... ya está en la base de datos (Índices 36)
+[2019-05-15 02:29:58] INFO: EMDB - La película La zona muerta ya está en la base de datos (Índices 37)
+[2019-05-15 02:29:58] INFO: EMDB - La película La invasión de los ladrones de cuerpos ya está en la base de datos (Índices 38)
+[2019-05-15 02:29:58] INFO: EMDB - La película Inseparables ya está en la base de datos (Índices 39)
+[2019-05-15 02:29:58] INFO: EMDB - La película La matanza de Texas ya está en la base de datos (Índices 40)
+[2019-05-15 02:29:58] INFO: EMDB - La película La noche de los muertos vivientes ya está en la base de datos (Índices 41)
+[2019-05-15 02:29:58] ERROR: EMDB - Problema cargando película El motel del infierno (Índice 45)
+[2019-05-15 02:29:58] INFO: EMDB - La película Colinas sangrientas (Video 2009) ya está en la base de datos (Índices 42)
+[2019-05-15 02:29:58] INFO: EMDB - La película Los extraños ya está en la base de datos (Índices 43)
+[2019-05-15 02:29:58] INFO: EMDB - La película Navidades negras ya está en la base de datos (Índices 44)
+[2019-05-15 02:29:58] INFO: EMDB - La película Noche de paz, noche de muerte ya está en la base de datos (Índices 45)
+[2019-05-15 02:29:58] INFO: EMDB - La película Cumpleaños mortal ya está en la base de datos (Índices 46)
+[2019-05-15 02:29:58] INFO: EMDB - La película Prom Night. Llamadas de terror ya está en la base de datos (Índices 47)
+[2019-05-15 02:29:58] INFO: EMDB - La película San Valentín sangriento ya está en la base de datos (Índices 48)
+[2019-05-15 02:29:58] INFO: EMDB - La película Solos en la oscuridad ya está en la base de datos (Índices 49)
+[2019-05-15 02:29:58] INFO: EMDB - La película Posesión infernal ya está en la base de datos (Índices 50)
+[2019-05-15 02:29:58] INFO: EMDB - La película Terroríficamente muertos ya está en la base de datos (Índices 51)
+[2019-05-15 02:29:58] INFO: EMDB - La película El ejército de las tinieblas ya está en la base de datos (Índices 52)
+[2019-05-15 02:29:58] INFO: EMDB - La película El cortador de césped ya está en la base de datos (Índices 53)
+[2019-05-15 02:29:58] INFO: EMDB - La película Maniac ya está en la base de datos (Índices 54)
+[2019-05-15 02:29:58] INFO: EMDB - La película Maniac Cop ya está en la base de datos (Índices 55)
+[2019-05-15 02:29:58] ERROR: EMDB - Problema cargando película Living Dead 2: Dawn of the dead (Índice 60)
+[2019-05-15 02:29:59] ERROR: EMDB - Problema cargando película Living Dead 3: El día de los muertos (Índice 61)
+[2019-05-15 02:29:59] INFO: EMDB - La película Creepshow ya está en la base de datos (Índices 56)
+[2019-05-15 02:29:59] INFO: EMDB - La película Creepshow 2 ya está en la base de datos (Índices 57)
+[2019-05-15 02:29:59] INFO: EMDB - La película El asesino de Rosemary ya está en la base de datos (Índices 58)
+[2019-05-15 02:29:59] INFO: EMDB - La película El vengador tóxico ya está en la base de datos (Índices 59)
+[2019-05-15 02:29:59] INFO: EMDB - La película Poltergeist (Fenómenos extraños) ya está en la base de datos (Índices 60)
+[2019-05-15 02:29:59] INFO: EMDB - La película Pesadilla en Elm Street ya está en la base de datos (Índices 61)
+[2019-05-15 02:29:59] INFO: EMDB - La película Pesadilla en Elm Street 2: La venganza de Freddy ya está en la base de datos (Índices 62)
+[2019-05-15 02:29:59] INFO: EMDB - La película Pesadilla en Elm Street 3: Los guerreros del sueño ya está en la base de datos (Índices 63)
+[2019-05-15 02:29:59] INFO: EMDB - La película Pesadilla en Elm Street 4: El amo del sueño ya está en la base de datos (Índices 64)
+[2019-05-15 02:29:59] INFO: EMDB - La película Pesadilla en Elm Street 5: El niño de los sueños ya está en la base de datos (Índices 65)
+[2019-05-15 02:29:59] INFO: EMDB - La película Pesadilla final: La muerte de Freddy ya está en la base de datos (Índices 66)
+[2019-05-15 02:29:59] ERROR: EMDB - Problema cargando película Pesadilla en Elm Street 7: La nueva pesadilla de Wes Craven (Índice 76)
+[2019-05-15 02:29:59] INFO: EMDB - La película Candyman, el dominio de la mente ya está en la base de datos (Índices 67)
+[2019-05-15 02:29:59] INFO: EMDB - La película Braindead: tu madre se ha comido a mi perro ya está en la base de datos (Índices 68)
+[2019-05-15 02:29:59] INFO: EMDB - La película Mal gusto (Bad Taste) ya está en la base de datos (Índices 69)
+[2019-05-15 02:29:59] INFO: EMDB - La película Cromosoma 3 ya está en la base de datos (Índices 70)
+[2019-05-15 02:29:59] INFO: EMDB - La película La última casa a la izquierda ya está en la base de datos (Índices 71)
+[2019-05-15 02:30:01] INFO: Añadida película "Las colinas tienen ojos" (ID 0077681 en IMDb, ID 602812 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:03] INFO: Añadida película "El sótano del miedo" (ID 0105121 en IMDb, ID 150664 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:05] INFO: Añadida película "Contacto sangriento" (ID 0092675 en IMDb, ID 379994 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:07] INFO: Añadida película "Cyborg" (ID 0097138 en IMDb, ID 519134 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:09] INFO: Añadida película "Kickboxer" (ID 0097659 en IMDb, ID 772956 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:11] INFO: Añadida película "Doble impacto" (ID 0101764 en IMDb, ID 263029 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:13] INFO: Añadida película "Lionheart: El luchador" (ID 0100029 en IMDb, ID 586519 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:15] INFO: Añadida película "Soldado universal" (ID 0105698 en IMDb, ID 279404 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:17] INFO: Añadida película "Timecop (Policía en el tiempo)" (ID 0111438 en IMDb, ID 777534 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:20] INFO: Añadida película "Salvaje" (ID 0339135 en IMDb, ID 120136 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:22] INFO: Añadida película "La masa devoradora" (ID 0051418 en IMDb, ID 555144 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:24] INFO: Añadida película "Asalto al banco de San Luis" (ID 0052862 en IMDb, ID 370090 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:27] INFO: Añadida película "Los siete magníficos" (ID 0054047 en IMDb, ID 168098 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:29] INFO: Añadida película "La gran evasión" (ID 0057115 en IMDb, ID 537233 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:31] INFO: Añadida película "El Yang-Tsé en llamas" (ID 0060934 en IMDb, ID 657217 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:33] INFO: Añadida película "El caso de Thomas Crown" (ID 0063688 en IMDb, ID 106948 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:35] INFO: Añadida película "Bullitt" (ID 0062765 en IMDb, ID 321480 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:37] INFO: Añadida película "La huida" (ID 0068638 en IMDb, ID 448062 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:39] INFO: Añadida película "Papillon" (ID 0070511 en IMDb, ID 253727 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:41] INFO: Añadida película "El coloso en llamas" (ID 0072308 en IMDb, ID 246863 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:43] INFO: Añadida película "Por un puñado de dólares" (ID 0058461 en IMDb, ID 270893 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:45] INFO: Añadida película "La muerte tenía un precio" (ID 0059578 en IMDb, ID 956445 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:48] INFO: Añadida película "El bueno, el feo y el malo" (ID 0060196 en IMDb, ID 277815 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:50] INFO: Añadida película "Sin perdón" (ID 0105695 en IMDb, ID 262344 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:52] INFO: Añadida película "El oro de Mackenna" (ID 0064615 en IMDb, ID 659211 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:55] INFO: Añadida película "Harry el sucio" (ID 0066999 en IMDb, ID 571114 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:57] INFO: Añadida película "Harry el fuerte" (ID 0070355 en IMDb, ID 894922 en FilmAffinity) a la base de datos.
+[2019-05-15 02:30:59] INFO: Añadida película "Harry el ejecutor" (ID 0074483 en IMDb, ID 986344 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:01] INFO: Añadida película "Impacto súbito" (ID 0086383 en IMDb, ID 170770 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:04] INFO: Añadida película "La lista negra" (ID 0094963 en IMDb, ID 411509 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:06] INFO: Añadida película "Gran Torino" (ID 1205489 en IMDb, ID 539054 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:08] INFO: Añadida película "Million Dollar Baby" (ID 0405159 en IMDb, ID 314359 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:10] INFO: Añadida película "Mystic River" (ID 0327056 en IMDb, ID 121917 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:12] INFO: Añadida película "El fuera de la ley" (ID 0075029 en IMDb, ID 570984 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:14] INFO: Añadida película "1997: Rescate en Nueva York" (ID 0082340 en IMDb, ID 409098 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:16] INFO: Añadida película "Infierno de cobardes" (ID 0068699 en IMDb, ID 918109 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:18] INFO: Añadida película "El jinete pálido" (ID 0089767 en IMDb, ID 262525 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:20] INFO: Añadida película "En la línea de fuego" (ID 0107206 en IMDb, ID 400925 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:22] INFO: Añadida película "Un mundo perfecto" (ID 0107808 en IMDb, ID 229222 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:24] INFO: Añadida película "Escalofrío en la noche" (ID 0067588 en IMDb, ID 972736 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:26] INFO: Añadida película "Cometieron dos errores" (ID 0061747 en IMDb, ID 490679 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:28] INFO: Añadida película "Dos mulas y una mujer" (ID 0065134 en IMDb, ID 914287 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:30] INFO: Añadida película "La jungla humana" (ID 0062824 en IMDb, ID 582352 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:32] INFO: Añadida película "Ejecución inminente" (ID 0139668 en IMDb, ID 706255 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:34] INFO: Añadida película "Poder absoluto" (ID 0118548 en IMDb, ID 930474 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:36] INFO: Añadida película "El intercambio" (ID 0824747 en IMDb, ID 355264 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:38] INFO: Añadida película "El sargento de hierro" (ID 0091187 en IMDb, ID 387890 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:40] INFO: Añadida película "2013: Rescate en L.A." (ID 0116225 en IMDb, ID 436222 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:43] INFO: Añadida película "Reservoir Dogs" (ID 0105236 en IMDb, ID 137887 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:46] INFO: Añadida película "Pulp Fiction" (ID 0110912 en IMDb, ID 160882 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:48] INFO: Añadida película "Jackie Brown" (ID 0119396 en IMDb, ID 895044 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:52] INFO: Añadida película "Kill Bill: Volumen 1" (ID 0266697 en IMDb, ID 524439 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:54] INFO: Añadida película "Kill Bill: Volumen 2" (ID 0378194 en IMDb, ID 968175 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:57] INFO: Añadida película "Sin City: Ciudad del pecado" (ID 0401792 en IMDb, ID 495832 en FilmAffinity) a la base de datos.
+[2019-05-15 02:31:59] INFO: Añadida película "Death Proof" (ID 1028528 en IMDb, ID 745914 en FilmAffinity) a la base de datos.
+[2019-05-15 02:32:02] INFO: Añadida película "Grindhouse: Planet Terror" (ID 1077258 en IMDb, ID 773732 en FilmAffinity) a la base de datos.
+[2019-05-15 02:32:04] INFO: Añadida película "Malditos bastardos" (ID 0361748 en IMDb, ID 746997 en FilmAffinity) a la base de datos.
+[2019-05-15 02:32:07] INFO: Añadida película "Django desencadenado" (ID 1853728 en IMDb, ID 929558 en FilmAffinity) a la base de datos.
+[2019-05-15 02:32:10] INFO: Añadida película "Los odiosos ocho" (ID 3460252 en IMDb, ID 647932 en FilmAffinity) a la base de datos.
+[2019-05-15 02:32:12] INFO: Añadida película "El salario del miedo" (ID 0046268 en IMDb, ID 463225 en FilmAffinity) a la base de datos.
+[2019-05-15 02:32:15] INFO: Añadida película "Tiburón" (ID 0073195 en IMDb, ID 242422 en FilmAffinity) a la base de datos.
+[2019-05-15 02:32:18] INFO: Añadida película "Carrie" (ID 0074285 en IMDb, ID 283316 en FilmAffinity) a la base de datos.
+[2019-05-15 02:32:20] INFO: Añadida película "Movida del 76" (ID 0106677 en IMDb, ID 784628 en FilmAffinity) a la base de datos.

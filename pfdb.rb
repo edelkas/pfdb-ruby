@@ -83,20 +83,19 @@ end
 
 def emdb(emdb_filename = "emdb.dat")
   backup_name = backup
-  $films = File.file?(emdb_filename) ? File.binread(emdb_filename).scan(/./).delete_if{ |s| s == "\x00" }.join.encode("utf-8", "iso-8859-1").split("\x0D\x1D\x0D") : []
+  $films = File.file?(emdb_filename) ? File.binread(emdb_filename).encode("utf-8", "utf-16le").split("\x1D") : []
   if $films.blank?
     log("ERROR", "Cargando la base de datos desde EMBD, el fichero no existe.")
   else
-    $names = $films.last
-    $names = $names.split("]")[1..-2].map{ |s| s.split("[")[0].split("\r").delete_if{ |r| r.blank? } }
+    $names = $films.last.split("]")[1..-2].map{ |s| s.split("[")[0].split("\r\n").delete_if{ |r| r.blank? } }
     $names = {actors: $names[0], directors: $names[1], writers: $names[2], composers: $names[3]}
     $films = $films[1..-2].map{ |s| s.split("\x1E") }
     $films = $films.map{ |s|
       {
-        title: s[0].to_s,
+        title: s[0].to_s.squish,
         original_title: s[1].to_s,
         companies: s[2].to_s.split(","),
-        year: s[4].split("\r")[1].to_i,
+        year: s[4].split("\r\n")[1].to_i,
         directors: $names[:directors][s[5].to_i].to_s.split(","),
         duration: s[6].to_i,
         countries: s[7].to_s.split(","),
@@ -107,7 +106,7 @@ def emdb(emdb_filename = "emdb.dat")
         color: [s[15].to_s],
         emdb_id: s[18].to_s,
         writers: $names[:writers][s[19].to_i].to_s.split(","),
-        genres: s[20].split("\r")[1].scan(/./).map{ |g|
+        genres: s[20].split("\r\n")[1].scan(/./).map{ |g|
           case g
           when "A" then "Action"
           when "C" then "Animation"
@@ -144,8 +143,8 @@ def emdb(emdb_filename = "emdb.dat")
         date_added: s[22][0..3].to_s + "-" + s[22][4..5].to_s + "-" + s[22][6..7].to_s,
         certification: s[23].to_s.to_sym,
         trailer_url: s[27].to_s,
-        date_viewed: s[28].to_s.split("\r")[0],
-        filmaffinity_synopsis: s[32].split("\r")[1].to_s,
+        date_viewed: s[28].to_s.split("\r\n")[0],
+        filmaffinity_synopsis: s[32].split("\r\n")[1].to_s,
         imdb_votes: s[39].to_i
       }
     }
